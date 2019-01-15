@@ -1,1 +1,1 @@
-email updated for the contributions.
+email updated correctly for the contributions.
