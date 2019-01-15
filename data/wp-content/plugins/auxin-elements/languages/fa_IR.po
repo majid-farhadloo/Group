@@ -1,0 +1,4977 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Project-Id-Version: Auxin Essential Elements\n"
+"POT-Creation-Date: 2016-11-06 10:46+0330\n"
+"PO-Revision-Date: 2016-11-09 12:50+0330\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: auxin-elements.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Last-Translator: \n"
+"Language: fa_IR\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/includes/admin-ajax.php:7
+msgid "Data cannot be delivered, please try again."
+msgstr "داده ها قابل تحویل نیستند، لطفا دوباره تلاش کنید."
+
+#: admin/includes/admin-ajax.php:19
+msgid "Authorization failed!"
+msgstr "احراز هویت با خطا مواجه شد!"
+
+#: admin/includes/admin-ajax.php:48
+msgid "Sent Successfully. Thanks for your feedback!"
+msgstr "با موفقیت ارسال شد. از بازخورد شما ممنونیم."
+
+#: admin/includes/admin-ajax.php:51
+msgid "An error occurred. Feedback could not be delivered, please try again."
+msgstr "خطایی رخ داده است. بازخورد قابل تحویل نیست، لطفا دوباره تلاش کنید."
+
+#: admin/includes/admin-hooks.php:57
+msgid "System Status"
+msgstr "وضعیت سیستم"
+
+#: admin/includes/admin-hooks.php:58
+msgid ""
+"The informaition about your WordPress installation which can be helpful for "
+"debugging or monitoring your website."
+msgstr ""
+"اطلاعاتی درباره سایت وردپرسی شما که می تواند برای اشکال زدایی و نظارت بر وب "
+"سایت مفید باشد."
+
+#: admin/includes/admin-hooks.php:92
+msgid "How likely are you to recommend Phlox to a friend?"
+msgstr "چه میزان فلوکس را به دوستان خود پیشنهاد می دهید؟"
+
+#: admin/includes/admin-hooks.php:111
+msgid "Please explain why you gave this score (optional)"
+msgstr "لطفا در مورد امتیاز داده شده توضیحاتی دهید (دلخواه)"
+
+#: admin/includes/admin-hooks.php:114
+#, php-format
+msgid ""
+"Please do not use this form to get support, in this case please check the %s "
+"help section %s"
+msgstr ""
+"لطفا از این فرم به منظور دریافت خدمات پشتیبانی استفاده نکنید، برای دریافت "
+"پشتیبانی لطفا %s بخش کمک %s را ببینید."
+
+#: admin/includes/admin-hooks.php:125
+msgid "Submitting your feedback .."
+msgstr "در حال ثبت بازخورد شما .."
+
+#: admin/includes/admin-hooks.php:140
+msgid "Feedback"
+msgstr "بازخورد"
+
+#: admin/includes/admin-hooks.php:141
+#, php-format
+msgid "Please leave a feedback and help us to improve %s theme."
+msgstr "لطفا برای کمک به بهبود پوسته %s نظرات خود را با ما در میان بگذارید."
+
+#: admin/includes/admin-hooks.php:158
+msgid "Thanks for your feedback"
+msgstr "از بازخورد شما متشکریم."
+
+#: admin/includes/admin-hooks.php:160
+msgid "Please try again and fill up at least the feedback field."
+msgstr "لطفا دوباره تلاش کنید و حداقل فیلد بازخورد را تکمیل کنید."
+
+#: admin/includes/admin-hooks.php:177
+msgid "Subtitle"
+msgstr "زیرعنوان"
+
+#: admin/includes/admin-hooks.php:178
+msgid ""
+"Second Title (optional). Note: You have to enable \"Display Title Bar Section"
+"\" option in order to display the subtitle."
+msgstr ""
+"عنوان دوم (دلخواه). نکته: شما باید گزینه \"نمایش بخش نوار عنوان\" را فعال "
+"کرده باشید تا زیرعنوان نمایش داده شود."
+
+#: admin/includes/admin-hooks.php:199
+msgid "Custom JavaScript Code"
+msgstr "کد جاوااسکریپت سفارشی"
+
+#: admin/includes/admin-hooks.php:200
+msgid ""
+"Attention: The following custom JavaScript code will be applied ONLY to this "
+"page."
+msgstr "توجه: کدهای جاوااسکریپت دلخواه زیر فقط به این صفحه اعمال خواهند شد."
+
+#: admin/includes/admin-hooks.php:201
+msgid ""
+"For defining global JavaScript roles, please use custom javaScript field on "
+"option panel."
+msgstr ""
+"برای تعریف جاوااسکریپت های سراسری، لطفا از فیلد جاوااسکریپت سفارشی در پنل "
+"تنظیمات استفاده کنید."
+
+#: admin/includes/admin-hooks.php:310
+#, php-format
+msgid ""
+"Quick access to %sdashboard%s, %soptions%s, %ssupport%s and %sfeedback%s "
+"page."
+msgstr ""
+"دسترسی سریع به صفحات %sپیشخوان%s، %sتنظیمات%s، %sپشتیبانی%s و %sبازخورد%s."
+
+#: admin/includes/admin-hooks.php:313
+msgid "Theme Customizer"
+msgstr "شخصی ساز پوسته"
+
+#: admin/includes/admin-the-functions.php:10
+msgid "WordPress Environment"
+msgstr "محیط وردپرس"
+
+#: admin/includes/admin-the-functions.php:15
+msgid "Home URL"
+msgstr "URL خانه"
+
+#: admin/includes/admin-the-functions.php:16
+msgid "The URL of your site's homepage."
+msgstr "آدرس صفحه اصلی سایت شما."
+
+#: admin/includes/admin-the-functions.php:20
+msgid "Site URL"
+msgstr "URL سایت"
+
+#: admin/includes/admin-the-functions.php:21
+msgid "The root URL of your site."
+msgstr "آدرس ریشه سایت شما"
+
+#: admin/includes/admin-the-functions.php:25
+msgid "WP Version"
+msgstr "نسخه وردپرس"
+
+#: admin/includes/admin-the-functions.php:26
+msgid "The version of WordPress installed on your site."
+msgstr "نسخه وردپرسی که روی سایت شما نصب شده است."
+
+#: admin/includes/admin-the-functions.php:30
+msgid "WP Multisite"
+msgstr "وردپرس چندسایته"
+
+#: admin/includes/admin-the-functions.php:31
+msgid "Whether or not you have WordPress Multisite enabled."
+msgstr "وردپرس چندسایته را فعال کرده اید یا خیر."
+
+#: admin/includes/admin-the-functions.php:35
+msgid "WP Memory Limit"
+msgstr "محدودیت حافظه وردپرس"
+
+#: admin/includes/admin-the-functions.php:36
+msgid "The maximum amount of memory (RAM) that your site can use at one time."
+msgstr ""
+"بیشترین مقدار قابل استفاده از حافظه (RAM) که سایت شما در یک زمان می تواند "
+"استفاده کند."
+
+#: admin/includes/admin-the-functions.php:46
+msgid "WP Permalink"
+msgstr "پیوندهای یکتای وردپرس"
+
+#: admin/includes/admin-the-functions.php:47
+msgid "The WordPress permalink structer."
+msgstr "ساختار پیوندهای یکتای وردپرس"
+
+#: admin/includes/admin-the-functions.php:51
+msgid "WP Debug Mode"
+msgstr "حالت اشکال زدایی وردپرس"
+
+#: admin/includes/admin-the-functions.php:52
+msgid "Displays whether or not WordPress is in Debug Mode."
+msgstr "نمایش دهنده فعال یا غیرفعال بودن وضعیت اشکال زدایی وردپرس"
+
+#: admin/includes/admin-the-functions.php:56 includes/elements/code.php:68
+msgid "Language"
+msgstr "زبان"
+
+#: admin/includes/admin-the-functions.php:57
+msgid "The current language used by WordPress. Default = English"
+msgstr "زبان جاری که توسط وردپرس استفاده می شود. پیش فرض = انگلیسی"
+
+#: admin/includes/admin-the-functions.php:66
+msgid "Server Environment"
+msgstr "محیط سرور"
+
+#: admin/includes/admin-the-functions.php:71
+#: admin/includes/admin-the-functions.php:83
+msgid "Server Info"
+msgstr "اطلاعات سرور"
+
+#: admin/includes/admin-the-functions.php:72
+#: admin/includes/admin-the-functions.php:84
+msgid "Information about the web server that is currently hosting your site."
+msgstr "اطلاعاتی درباره وب سروری که در حال حاضر سایت شما را میزبانی می کند."
+
+#: admin/includes/admin-the-functions.php:76
+msgid "PHP Version"
+msgstr "نسخه PHP"
+
+#: admin/includes/admin-the-functions.php:77
+msgid "The version of PHP installed on your hosting server."
+msgstr "نسخه PHP که روی سرور میزبان شما نصب شده است."
+
+#: admin/includes/admin-the-functions.php:89
+msgid "PHP Post Max Size"
+msgstr "PHP Post Max Size"
+
+#: admin/includes/admin-the-functions.php:90
+msgid "The largest file size that can be contained in one post."
+msgstr "بیشترین اندازه فایل که می تواند در یک post وجود داشته باشد."
+
+#: admin/includes/admin-the-functions.php:94
+msgid "PHP Time Limit"
+msgstr "PHP Time Limit"
+
+#: admin/includes/admin-the-functions.php:95
+msgid ""
+"The amount of time (in seconds) that your site will spend on a single "
+"operation before timing out (to avoid server lockups)"
+msgstr ""
+"مقدار زمانی (برحسب ثانیه) که سایت شما می تواند بدون قطع شدن یک دستور را اجرا "
+"کند(برای جلوگیری از مسدود شدن سرور)"
+
+#: admin/includes/admin-the-functions.php:100
+#, php-format
+msgid ""
+"%s - We recommend setting max execution time to at least 180. See: <a href="
+"\"%s\" target=\"_blank\">Increasing max execution to PHP</a>"
+msgstr ""
+"%s - ما پیشنهاد می کنیم آن را روی 180 ثانیه تنظیم کنید. <a href=\"%s\" "
+"target=\"_blank\"> افزایش زمان اجرا در PHP</a> را ببینید."
+
+#: admin/includes/admin-the-functions.php:108
+msgid "PHP Max Input Vars"
+msgstr "PHP Max Input Vars"
+
+#: admin/includes/admin-the-functions.php:109
+msgid ""
+"The maximum number of variables your server can use for a single function to "
+"avoid overloads."
+msgstr ""
+"بیشترین تعداد متغیرهایی که سرور شما می تواند در یک تابع استفاده کند تا از "
+"اضافه بار جلوگیری شود."
+
+#: admin/includes/admin-the-functions.php:113
+msgid "SUHOSIN Installed"
+msgstr "SUHOSIN نصب شده"
+
+#: admin/includes/admin-the-functions.php:114
+msgid ""
+"Suhosin is an advanced protection system for PHP installations. It was "
+"designed to protect your servers on the one hand against a number of well "
+"known problems in PHP applications and on the other hand against potential "
+"unknown vulnerabilities within these applications or the PHP core itself. If "
+"enabled on your server, Suhosin may need to be configured to increase its "
+"data submission limits."
+msgstr ""
+"Suhosin یک سیستم حفاظت پیشرفته برای نصب و راه اندازی PHP است. از یک سو برای "
+"حفاظت از سرور شما در برابر مشکلات شناخته شده PHP و از سوی دیگر  برای حفاظت "
+"در برابر آسیب‌پذیری‌های بالقوه ناشناخته در برنامه‌های کاربردی و یا هسته‌ PHP "
+"طراحی شده است. اگر آن را بر روی سرور خود فعال کنید، ممکن است برای افزایش "
+"محدودیت ارسال داده نیاز به پیکربندی داشته باشد."
+
+#: admin/includes/admin-the-functions.php:119
+msgid "MySQL Version"
+msgstr "نسخه MySQL"
+
+#: admin/includes/admin-the-functions.php:120
+msgid "The version of MySQL installed on your hosting server."
+msgstr "نسخه MySQL نصب شده روی سرور میزبان شما."
+
+#: admin/includes/admin-the-functions.php:130
+msgid "Max Upload Size"
+msgstr "Max Upload Size"
+
+#: admin/includes/admin-the-functions.php:131
+msgid ""
+"The largest file size that can be uploaded to your WordPress installation."
+msgstr "بیشترین اندازه فایل که در سایت وردپرسی شما قابل بارگذاری است."
+
+#: admin/includes/admin-the-functions.php:135
+msgid "Default Timezone is UTC"
+msgstr "منطقه زمانی پیش فرض UTC است"
+
+#: admin/includes/admin-the-functions.php:136
+msgid "The default timezone for your server."
+msgstr "منطقه زمانی پیش فرض سرور شما."
+
+#: admin/includes/admin-the-functions.php:140
+#, php-format
+msgid "Default timezone is %s - it should be UTC"
+msgstr "منطقه زمانی پیش فرض %s است - درحالی که باید UTC باشد"
+
+#: admin/includes/admin-the-functions.php:152
+msgid "Active Plugins"
+msgstr "افزونه های فعال"
+
+#: admin/includes/admin-the-functions.php:171
+msgid "Visit plugin homepage"
+msgstr "مشاهده صفحه اصلی افزونه"
+
+#: admin/includes/admin-the-functions.php:176
+#, php-format
+msgctxt "by author"
+msgid "by %s"
+msgstr "توسط %s"
+
+#: admin/includes/classes/class-auxels-import-parser.php:42
+#: admin/includes/classes/class-auxels-import-parser.php:74
+#: admin/includes/classes/class-auxels-import-parser.php:82
+msgid "There was an error when reading this WXR file"
+msgstr "خطایی هنگام خواندن این فایل WXR رخ داده است."
+
+#: admin/includes/classes/class-auxels-import-parser.php:43
+msgid ""
+"Details are shown above. The importer will now try again with a different "
+"parser..."
+msgstr ""
+"جزئیات در بالا نمایش داده شده اند. هم اکنون درون ریز با استفاده از تجزیه "
+"کننده ی دیگری دوباره تلاش خواهد کرد..."
+
+#: admin/includes/classes/class-auxels-import-parser.php:86
+#: admin/includes/classes/class-auxels-import-parser.php:91
+#: admin/includes/classes/class-auxels-import-parser.php:148
+#: admin/includes/classes/class-auxels-import-parser.php:249
+msgid ""
+"This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr "این فایل شبیه یک فایل WXR نیست، شماره نسخه WXR گم شده/نامعتبر است."
+
+#: admin/includes/classes/class-auxels-import.php:38
+msgid "Include theme options"
+msgstr "شمال شدن تنظیمات پوسته"
+
+#: admin/includes/compatibility/siteorigin/fields/iconpicker.class.php:13
+msgid "Choose .."
+msgstr "انتخاب .."
+
+#: admin/includes/metaboxes/metabox-fields-post-audio.php:18
+msgid "Audio Post options"
+msgstr "تنظیمات نوشته صوتی"
+
+#: admin/includes/metaboxes/metabox-fields-post-audio.php:23
+msgid "Audio file (MP3 or ogg)"
+msgstr "فایل صوتی (MP3 یا OGG)"
+
+#: admin/includes/metaboxes/metabox-fields-post-audio.php:24
+msgid "Please upload an MP3 file for self hosted audio player."
+msgstr "لطفا یک فایل MP3 را برای پخش کننده صدای محلی بارگذاری کنید."
+
+#: admin/includes/metaboxes/metabox-fields-post-audio.php:30
+msgid "Audio URL (oEmbed)"
+msgstr "آدرس فایل صوتی (oEmbed)"
+
+#: admin/includes/metaboxes/metabox-fields-post-audio.php:37
+#: admin/includes/metaboxes/metabox-fields-post-video.php:44
+msgid "Player Skin"
+msgstr "نمای پخش کننده"
+
+#: admin/includes/metaboxes/metabox-fields-post-audio.php:38
+#: admin/includes/metaboxes/metabox-fields-post-video.php:45
+msgid "Specifies the skin for audio player."
+msgstr "نمای پخش کننده صدا را مشخص می کند."
+
+#: admin/includes/metaboxes/metabox-fields-post-audio.php:44
+#: admin/includes/metaboxes/metabox-fields-post-video.php:51
+msgid "Default (set in theme options)"
+msgstr "پیش فرض (تنظیم شده در تنظیمات پوسته)"
+
+#: admin/includes/metaboxes/metabox-fields-post-audio.php:48
+#: admin/includes/metaboxes/metabox-fields-post-video.php:55
+#: includes/elements/audio.php:105 includes/elements/text.php:108
+#: includes/elements/video.php:162
+msgid "Light"
+msgstr "روشن"
+
+#: admin/includes/metaboxes/metabox-fields-post-audio.php:52
+#: admin/includes/metaboxes/metabox-fields-post-video.php:59
+#: includes/elements/audio.php:101 includes/elements/code.php:93
+#: includes/elements/recent-posts-tiles.php:265 includes/elements/text.php:109
+#: includes/elements/video.php:158
+msgid "Dark"
+msgstr "تیره"
+
+#: admin/includes/metaboxes/metabox-fields-post-gallery.php:19
+msgid "Gallery Post options"
+msgstr "تنظیمات نوشته گالری"
+
+#: admin/includes/metaboxes/metabox-fields-post-gallery.php:24
+msgid "The Gallery Images"
+msgstr "تصاویر گالری"
+
+#: admin/includes/metaboxes/metabox-fields-post-quote.php:18
+msgid "Quote Post options"
+msgstr "تنظیمات نوشته نقل قول"
+
+#: admin/includes/metaboxes/metabox-fields-post-quote.php:23
+msgid "Source Name"
+msgstr "نام منبع"
+
+#: admin/includes/metaboxes/metabox-fields-post-quote.php:24
+msgid "The Source name"
+msgstr "نام منبع"
+
+#: admin/includes/metaboxes/metabox-fields-post-quote.php:30
+msgid "Source URL"
+msgstr "URL منبع"
+
+#: admin/includes/metaboxes/metabox-fields-post-quote.php:31
+msgid "Add the URL"
+msgstr "افزودن URL"
+
+#: admin/includes/metaboxes/metabox-fields-post-video.php:18
+msgid "Video Post options"
+msgstr "تنظیمات نوشته ویدیویی"
+
+#: admin/includes/metaboxes/metabox-fields-post-video.php:23
+#: includes/elements/video.php:106
+msgid "Video file"
+msgstr "فایل ویدیو"
+
+#: admin/includes/metaboxes/metabox-fields-post-video.php:24
+msgid "Please upload an MP4/OGG/WEBM file for self hosted video player."
+msgstr ""
+"لطفا یک فایل با فرمت MP4/OGG/WEBM برای پخش کننده ویدیوی محلی بارگذاری کنید."
+
+#: admin/includes/metaboxes/metabox-fields-post-video.php:30
+msgid "Poster image"
+msgstr "تصویر پوستر"
+
+#: admin/includes/metaboxes/metabox-fields-post-video.php:31
+msgid "Please specify an image as a poster for self hosted video player."
+msgstr ""
+"لطفا یک تصویر را به عنوان پوستر برای پخش کننده ویدیوی محلی انتخاب کنید."
+
+#: admin/includes/metaboxes/metabox-fields-post-video.php:37
+msgid "Video URL (oEmbed)"
+msgstr "آدرس ویدیو (oEmbed)"
+
+#: admin/includes/metaboxes/metabox-fields-post-video.php:38
+msgid "Youtube or vimeo link"
+msgstr "لینک یوتیوب یا ویمو"
+
+#: auxin-elements.php:30
+msgid "PHP version 5.3.0 or above is required for \"Auxin Elements\" plugin"
+msgstr "برای افزونه \"المان های اکسین\" PHP نسخه 5.3 یا بالاتر نیاز است."
+
+#: includes/classes/class-auxin-siteorigin-widget.php:224
+msgid "The callback for widget does not exists."
+msgstr "تابع فراخوانی برای ابزارک وجود ندارد."
+
+#: includes/elements/about-widget.php:11
+msgid "[Phlox] About Author"
+msgstr "[فلوکس] درباره نویسنده"
+
+#: includes/elements/about-widget.php:14
+msgid "It adds an about author element."
+msgstr "یک المان درباره نویسنده اضافه می کند."
+
+#: includes/elements/about-widget.php:38 includes/elements/accordion.php:35
+#: includes/elements/audio.php:38 includes/elements/code.php:38
+#: includes/elements/contact-box.php:34 includes/elements/contact-form.php:38
+#: includes/elements/exclude/accordion.php:34
+#: includes/elements/exclude/carousel.php:47
+#: includes/elements/exclude/chart.php:50
+#: includes/elements/exclude/clients.php:48
+#: includes/elements/exclude/faq.php:48
+#: includes/elements/exclude/get-pages.php:77
+#: includes/elements/exclude/get-testimonials.php:46
+#: includes/elements/exclude/get-testimonials.php:61
+#: includes/elements/exclude/get-testimonials.php:76
+#: includes/elements/exclude/get-testimonials.php:91
+#: includes/elements/exclude/latest-blog.php:48
+#: includes/elements/exclude/latest-news.php:47
+#: includes/elements/exclude/latest-news.php:92
+#: includes/elements/exclude/link.php:47
+#: includes/elements/exclude/list-item.php:47
+#: includes/elements/exclude/list.php:47
+#: includes/elements/exclude/masterslider.php:47
+#: includes/elements/exclude/mini-twitter.php:47
+#: includes/elements/exclude/msgbox.php:36
+#: includes/elements/exclude/pricetable.php:49
+#: includes/elements/exclude/recent-posts2.php:47
+#: includes/elements/exclude/services.php:47
+#: includes/elements/exclude/soundcloud.php:68
+#: includes/elements/exclude/soundcloud.php:83
+#: includes/elements/exclude/staffs.php:77
+#: includes/elements/exclude/tabs.php:33
+#: includes/elements/exclude/testfields.php:50
+#: includes/elements/exclude/testimonial-item.php:47
+#: includes/elements/exclude/testimonial-slider.php:47
+#: includes/elements/exclude/testimonial-slider.php:119
+#: includes/elements/exclude/testimonial.php:47
+#: includes/elements/exclude/twitter.php:47 includes/elements/gallery.php:37
+#: includes/elements/gmap.php:33 includes/elements/image.php:37
+#: includes/elements/instagram-feed.php:37
+#: includes/elements/latest-posts-slider.php:37
+#: includes/elements/latest-posts-slider.php:133
+#: includes/elements/popular-posts-widget.php:45
+#: includes/elements/popular-posts-widget.php:194
+#: includes/elements/quote.php:36
+#: includes/elements/recent-posts-grid-carousel.php:51
+#: includes/elements/recent-posts-grid-carousel.php:193
+#: includes/elements/recent-posts-land-style.php:51
+#: includes/elements/recent-posts-land-style.php:194
+#: includes/elements/recent-posts-masonry.php:51
+#: includes/elements/recent-posts-masonry.php:193
+#: includes/elements/recent-posts-tiles.php:51
+#: includes/elements/recent-posts-tiles.php:199
+#: includes/elements/recent-posts-timeline.php:51
+#: includes/elements/recent-posts-timeline.php:220
+#: includes/elements/recent-posts-widget.php:51
+#: includes/elements/recent-posts-widget.php:154
+#: includes/elements/sample-element.php:44
+#: includes/elements/sample-element.php:58 includes/elements/search.php:36
+#: includes/elements/socials-list.php:37 includes/elements/tabs.php:34
+#: includes/elements/text.php:38 includes/elements/video.php:33
+msgid "Title"
+msgstr "عنوان"
+
+#: includes/elements/about-widget.php:53
+msgid "Name"
+msgstr "نام"
+
+#: includes/elements/about-widget.php:54
+msgid "The name which appears in about widget."
+msgstr "نامی که در ابزارک درباره ما نشان داده می شود."
+
+#: includes/elements/about-widget.php:67
+msgid "Skills"
+msgstr "مهارت ها"
+
+#: includes/elements/about-widget.php:68
+msgid "It appears below the name."
+msgstr "در پایین نام نمایش داده خواهد شد."
+
+#: includes/elements/about-widget.php:80
+msgid "Info"
+msgstr "اطلاعات"
+
+#: includes/elements/about-widget.php:81
+msgid "Biographical info or any other content."
+msgstr "اطلاعاتی از زندگی نامه یا هر محتوای دیگری."
+
+#: includes/elements/about-widget.php:95 includes/elements/image.php:52
+#: includes/elements/text.php:254
+msgid "Image"
+msgstr "تصویر"
+
+#: includes/elements/about-widget.php:96
+msgid "It appears above the name."
+msgstr "بالای نام نمایش داده خواهد شد."
+
+#: includes/elements/about-widget.php:110
+msgid "Image style"
+msgstr "ظاهر تصویر"
+
+#: includes/elements/about-widget.php:116 includes/elements/divider.php:64
+#: includes/elements/dropcap.php:67
+#: includes/elements/exclude/testfields.php:106 includes/elements/text.php:210
+#: includes/general-hooks.php:230
+msgid "Circle"
+msgstr "دایره"
+
+#: includes/elements/about-widget.php:117 includes/elements/dropcap.php:55
+#: includes/elements/exclude/accordion-tmp.php:46
+#: includes/general-hooks.php:231
+msgid "Square"
+msgstr "مربع"
+
+#: includes/elements/about-widget.php:128
+msgid "Align center texts"
+msgstr "متن تراز وسط"
+
+#: includes/elements/about-widget.php:143
+msgid "Show socials below the info"
+msgstr "نمایش شبکه های اجتماعی در زیر اطلاعات"
+
+#: includes/elements/about-widget.php:158 includes/elements/accordion.php:102
+#: includes/elements/audio.php:118 includes/elements/code.php:108
+#: includes/elements/contact-box.php:286 includes/elements/contact-form.php:104
+#: includes/elements/divider.php:127 includes/elements/dropcap.php:92
+#: includes/elements/exclude/accordion-section.php:104
+#: includes/elements/exclude/accordion-tmp.php:175
+#: includes/elements/exclude/accordion.php:81
+#: includes/elements/exclude/auxin-accordion.php:127
+#: includes/elements/exclude/call-to-action.php:199
+#: includes/elements/exclude/carousel.php:93
+#: includes/elements/exclude/clients.php:93
+#: includes/elements/exclude/faq.php:123
+#: includes/elements/exclude/get-pages.php:152
+#: includes/elements/exclude/get-testimonials.php:151
+#: includes/elements/exclude/latest-blog.php:258
+#: includes/elements/exclude/latest-news.php:242
+#: includes/elements/exclude/link.php:107
+#: includes/elements/exclude/list-item.php:110
+#: includes/elements/exclude/list.php:95
+#: includes/elements/exclude/msgbox.php:95
+#: includes/elements/exclude/pricetable.php:94
+#: includes/elements/exclude/related-posts.php:212
+#: includes/elements/exclude/services.php:167
+#: includes/elements/exclude/soundcloud.php:113
+#: includes/elements/exclude/staffs.php:167
+#: includes/elements/exclude/tabs.php:62
+#: includes/elements/exclude/testimonial-item.php:122
+#: includes/elements/exclude/testimonial.php:167
+#: includes/elements/facebook.php:157 includes/elements/gallery.php:252
+#: includes/elements/gmap.php:183 includes/elements/highlight.php:89
+#: includes/elements/image.php:204 includes/elements/instagram-feed.php:279
+#: includes/elements/latest-items.php:251
+#: includes/elements/popular-posts-widget.php:256
+#: includes/elements/quote.php:168
+#: includes/elements/recent-posts-grid-carousel.php:550
+#: includes/elements/recent-posts-land-style.php:368
+#: includes/elements/recent-posts-masonry.php:400
+#: includes/elements/recent-posts-tiles.php:299
+#: includes/elements/recent-posts-timeline.php:374
+#: includes/elements/recent-posts-widget.php:216
+#: includes/elements/search.php:51 includes/elements/tabs.php:101
+#: includes/elements/text.php:312 includes/elements/video.php:175
+#: public/templates/vcomposer/auxin_vc_extendes.php:73
+msgid "Extra class name"
+msgstr "نام کلاس اضافه"
+
+#: includes/elements/about-widget.php:159 includes/elements/accordion.php:103
+#: includes/elements/audio.php:119 includes/elements/code.php:109
+#: includes/elements/contact-box.php:287 includes/elements/contact-form.php:105
+#: includes/elements/dropcap.php:93
+#: includes/elements/exclude/accordion-section.php:105
+#: includes/elements/exclude/accordion-tmp.php:177
+#: includes/elements/exclude/accordion.php:82
+#: includes/elements/exclude/auxin-accordion.php:128
+#: includes/elements/exclude/call-to-action.php:200
+#: includes/elements/exclude/carousel.php:94
+#: includes/elements/exclude/clients.php:94
+#: includes/elements/exclude/faq.php:124
+#: includes/elements/exclude/get-pages.php:153
+#: includes/elements/exclude/get-testimonials.php:152
+#: includes/elements/exclude/latest-blog.php:259
+#: includes/elements/exclude/latest-news.php:243
+#: includes/elements/exclude/link.php:108
+#: includes/elements/exclude/list-item.php:111
+#: includes/elements/exclude/list.php:96
+#: includes/elements/exclude/msgbox.php:96
+#: includes/elements/exclude/pricetable.php:95
+#: includes/elements/exclude/related-posts.php:213
+#: includes/elements/exclude/services.php:168
+#: includes/elements/exclude/soundcloud.php:114
+#: includes/elements/exclude/staffs.php:168
+#: includes/elements/exclude/tabs.php:63
+#: includes/elements/exclude/testimonial-item.php:123
+#: includes/elements/exclude/testimonial.php:168
+#: includes/elements/facebook.php:158 includes/elements/gallery.php:253
+#: includes/elements/gmap.php:184 includes/elements/highlight.php:90
+#: includes/elements/image.php:205 includes/elements/instagram-feed.php:280
+#: includes/elements/latest-items.php:252
+#: includes/elements/popular-posts-widget.php:257
+#: includes/elements/quote.php:169
+#: includes/elements/recent-posts-grid-carousel.php:551
+#: includes/elements/recent-posts-land-style.php:369
+#: includes/elements/recent-posts-masonry.php:401
+#: includes/elements/recent-posts-tiles.php:300
+#: includes/elements/recent-posts-timeline.php:375
+#: includes/elements/recent-posts-widget.php:217
+#: includes/elements/search.php:52 includes/elements/tabs.php:102
+#: includes/elements/text.php:313 includes/elements/video.php:176
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+"اگر می خواهید ظاهر این المان را به طور جداگانه تغییر دهید، از فیلد زیر برای "
+"افزودن نام کلاس دلخواه استفاده کنید و سپس در فایل css خود به آن ارجاع دهید."
+
+#: includes/elements/accordion.php:11
+#: includes/elements/exclude/accordion.php:11
+msgid "[Phlox] Accordion "
+msgstr "[فلوکس] آکاردئون"
+
+#: includes/elements/accordion.php:14
+#: includes/elements/exclude/accordion.php:14
+msgid "Collapsible content"
+msgstr "محتوای بازشونده"
+
+#: includes/elements/accordion.php:36
+#: includes/elements/exclude/accordion.php:35
+msgid "Accordion title, leave it empty if you don`t need title."
+msgstr "عنوان آکاردئون، اگر به عنوان نیازی ندارید این بخش را خالی بگذارید."
+
+#: includes/elements/accordion.php:49
+#: includes/elements/exclude/accordion.php:48
+#: includes/elements/exclude/get-testimonials.php:106
+#: includes/elements/exclude/get-testimonials.php:121
+msgid "Type"
+msgstr "نوع"
+
+#: includes/elements/accordion.php:50
+#: includes/elements/exclude/accordion.php:49
+msgid "Whether to show only 1 element opens at a time or multiple."
+msgstr "در یک زمان فقط یک المان باز باشد یا چندتا."
+
+#: includes/elements/accordion.php:55
+#: includes/elements/exclude/accordion.php:54
+msgid "Toggle"
+msgstr "باز و بسته شونده"
+
+#: includes/elements/accordion.php:56 includes/elements/accordion.php:70
+#: includes/elements/accordion.php:87
+#: includes/elements/exclude/accordion.php:55
+msgid "Accordion"
+msgstr "آکاردئون"
+
+#: includes/elements/accordion.php:67
+msgid "Accordion label"
+msgstr "برچسب آکاردئون"
+
+#: includes/elements/accordion.php:68
+msgid "Enter your accordion item label."
+msgstr "برچسب آیتم آکاردئون خود را وارد کنید."
+
+#: includes/elements/accordion.php:71 includes/elements/accordion.php:88
+msgid "Accordion Section"
+msgstr "بخش آکاردئون"
+
+#: includes/elements/accordion.php:84 includes/elements/dropcap.php:77
+#: includes/elements/exclude/accordion-tmp.php:20
+#: includes/elements/exclude/accordion-tmp.php:220
+#: includes/elements/exclude/accordion.php:66
+#: includes/elements/exclude/call-to-action.php:79
+#: includes/elements/exclude/col.php:49
+#: includes/elements/exclude/latest-blog.php:243
+#: includes/elements/exclude/latest-news.php:227
+#: includes/elements/exclude/link.php:92
+#: includes/elements/exclude/list-item.php:95
+#: includes/elements/exclude/list.php:80
+#: includes/elements/exclude/msgbox.php:80
+#: includes/elements/exclude/pricetable.php:79
+#: includes/elements/exclude/related-posts.php:197
+#: includes/elements/exclude/services.php:152
+#: includes/elements/exclude/soundcloud.php:98
+#: includes/elements/exclude/tabs.php:47
+#: includes/elements/exclude/testfields.php:175
+#: includes/elements/exclude/testimonial.php:152
+#: includes/elements/highlight.php:73 includes/elements/tabs.php:83
+#: includes/elements/text.php:297
+msgid "Content"
+msgstr "محتوا"
+
+#: includes/elements/accordion.php:85
+msgid "Enter your accordion item content."
+msgstr "محتوای آیتم آکاردئون را وارد کنید."
+
+#: includes/elements/audio.php:10
+msgid "[Phlox] Audio"
+msgstr "[فلوکس] صدا"
+
+#: includes/elements/audio.php:13
+msgid "Audio player"
+msgstr "پخش کننده صدا"
+
+#: includes/elements/audio.php:14
+msgid "It adds an audio player element."
+msgstr "یک المان پخش کننده صدا اضافه می کند."
+
+#: includes/elements/audio.php:39
+msgid "Audio title, leave it empty if you don`t need title."
+msgstr "عنوان صدا، اگر به عنوان نیازی ندارید این بخش را خالی بگذارید."
+
+#: includes/elements/audio.php:52
+msgid "Audio file(MP3 or ogg)"
+msgstr "فایل صوتی (MP3 یا OGG)"
+
+#: includes/elements/audio.php:66
+msgid "Repeat the audio"
+msgstr "تکرار صدا"
+
+#: includes/elements/audio.php:80
+msgid "AutoPlay"
+msgstr "نمایش خودکار"
+
+#: includes/elements/audio.php:81
+msgid "Play the audio file automatically."
+msgstr "فایل صوتی را به صورت خودکار پخش کن."
+
+#: includes/elements/audio.php:94
+msgid "Skin"
+msgstr "نما"
+
+#: includes/elements/audio.php:95
+msgid "The skin of audio element."
+msgstr "نمای المان صدا"
+
+#: includes/elements/button.php:11
+msgid "[Phlox] Button"
+msgstr "[فلوکس] دکمه"
+
+#: includes/elements/button.php:14
+msgid "It adds a button element."
+msgstr "یک المان دکمه اضافه می کند."
+
+#: includes/elements/button.php:38
+msgid "Button label"
+msgstr "برچسب دکمه"
+
+#: includes/elements/button.php:39
+msgid "The label of button."
+msgstr "برچسب دکمه"
+
+#: includes/elements/button.php:52
+msgid "Button size"
+msgstr "اندازه دکمه"
+
+#: includes/elements/button.php:58
+msgid "Exlarge"
+msgstr "خیلی بزرگ"
+
+#: includes/elements/button.php:59 includes/elements/divider.php:79
+#: includes/elements/gallery.php:207 includes/elements/socials-list.php:60
+#: includes/elements/text.php:192
+msgid "Large"
+msgstr "بزرگ"
+
+#: includes/elements/button.php:60 includes/elements/divider.php:80
+#: includes/elements/gallery.php:208 includes/elements/instagram-feed.php:93
+#: includes/elements/socials-list.php:59 includes/elements/text.php:191
+msgid "Medium"
+msgstr "متوسط"
+
+#: includes/elements/button.php:61 includes/elements/divider.php:81
+#: includes/elements/gallery.php:209 includes/elements/socials-list.php:58
+#: includes/elements/text.php:190
+msgid "Small"
+msgstr "کوچک"
+
+#: includes/elements/button.php:62
+msgid "Tiny"
+msgstr "خیلی کوچک"
+
+#: includes/elements/button.php:74
+msgid "Button shape style"
+msgstr "ظاهر شکل دکمه"
+
+#: includes/elements/button.php:88
+msgid "Box"
+msgstr "جعبه"
+
+#: includes/elements/button.php:92
+#: includes/elements/exclude/accordion-tmp.php:47
+#: includes/elements/exclude/testfields.php:63
+msgid "Round"
+msgstr "گرد"
+
+#: includes/elements/button.php:96 includes/elements/exclude/testfields.php:64
+msgid "Curve"
+msgstr "منحنی"
+
+#: includes/elements/button.php:103
+#: includes/elements/exclude/call-to-action.php:139
+#: includes/elements/exclude/faq.php:78
+msgid "Button style"
+msgstr "ظاهر دکمه"
+
+#: includes/elements/button.php:117
+msgid "Normal"
+msgstr "معمولی"
+
+#: includes/elements/button.php:121
+msgid "3D"
+msgstr "سه بعدی"
+
+#: includes/elements/button.php:125
+#: includes/elements/exclude/accordion-tmp.php:36
+msgid "Outline"
+msgstr "خط بیرونی"
+
+#: includes/elements/button.php:132
+msgid "Uppercase label"
+msgstr "برچسب حروف بزرگ"
+
+#: includes/elements/button.php:147
+msgid "Darken the label"
+msgstr "تیره تر کردن برچسب"
+
+#: includes/elements/button.php:148
+msgid "Darken label of button while mouse over it."
+msgstr "تیره تر کردن برچسب هنگامی که ماوس روی آن است."
+
+#: includes/elements/button.php:163
+msgid "Icon for button"
+msgstr "شکلک برای دکمه"
+
+#: includes/elements/button.php:178 includes/general-hooks.php:253
+msgid "Icon alignment"
+msgstr "تراز شکلک"
+
+#: includes/elements/button.php:184 includes/elements/quote.php:119
+#: includes/general-hooks.php:427
+msgid "Default"
+msgstr "پیش فرض"
+
+#: includes/elements/button.php:185
+#: includes/elements/exclude/accordion-tmp.php:103
+#: includes/elements/exclude/accordion-tmp.php:155
+#: includes/elements/image.php:119 includes/elements/quote.php:120
+#: includes/elements/recent-posts-timeline.php:76 includes/elements/text.php:80
+#: includes/general-hooks.php:256
+msgid "Left"
+msgstr "چپ"
+
+#: includes/elements/button.php:186
+#: includes/elements/exclude/accordion-tmp.php:104
+#: includes/elements/exclude/accordion-tmp.php:156
+#: includes/elements/image.php:120 includes/elements/quote.php:121
+#: includes/elements/recent-posts-timeline.php:80
+#: includes/general-hooks.php:257
+msgid "Right"
+msgstr "راست"
+
+#: includes/elements/button.php:187
+msgid "Over"
+msgstr "رو"
+
+#: includes/elements/button.php:188
+msgid "Animate from Left"
+msgstr "متحرک سازی از چپ"
+
+#: includes/elements/button.php:189
+msgid "Animate from Right"
+msgstr "متحرک سازی از راست"
+
+#: includes/elements/button.php:200
+msgid "Color of button"
+msgstr "رنگ دکمه"
+
+#: includes/elements/button.php:215
+msgid "Link"
+msgstr "پیوند"
+
+#: includes/elements/button.php:216
+msgid "If you want to link your button."
+msgstr "اگر می خواهید دکمه را لینک کنید."
+
+#: includes/elements/button.php:230
+msgid "Open link in"
+msgstr "باز کردن پیوند در"
+
+#: includes/elements/button.php:236
+msgid "Current page"
+msgstr "صفحه جاری"
+
+#: includes/elements/button.php:237
+msgid "New page"
+msgstr "صفحه جدید"
+
+#: includes/elements/code.php:11
+msgid "[Phlox] Code"
+msgstr "[فلوکس] کد"
+
+#: includes/elements/code.php:14
+msgid "It adds a code element."
+msgstr "یک المان کد اضافه می کند."
+
+#: includes/elements/code.php:39
+msgid "Code title, leave it empty if you don`t need title."
+msgstr "عنوان کد، اگر به عنوان نیازی ندارید این بخش را خالی بگذارید."
+
+#: includes/elements/code.php:53
+msgid "Code"
+msgstr "کد"
+
+#: includes/elements/code.php:74
+msgid "javascript"
+msgstr "جاوااسکریپت"
+
+#: includes/elements/code.php:75
+msgid "html"
+msgstr "html"
+
+#: includes/elements/code.php:76
+msgid "xml"
+msgstr "xml"
+
+#: includes/elements/code.php:87
+msgid "Theme"
+msgstr "پوسته"
+
+#: includes/elements/code.php:88
+msgid "Specifies the theme for code element."
+msgstr "پوسته المان کد را مشخص می کند."
+
+#: includes/elements/code.php:92
+msgid "tomorrow"
+msgstr "فردا"
+
+#: includes/elements/code.php:94
+msgid "far"
+msgstr "دور"
+
+#: includes/elements/code.php:95
+msgid "googlecode"
+msgstr "گوگل کد"
+
+#: includes/elements/code.php:96
+msgid "github"
+msgstr "گیت هاب"
+
+#: includes/elements/code.php:97
+msgid "monokai"
+msgstr "موناکوی"
+
+#: includes/elements/contact-box.php:11
+msgid "[Phlox] Contact Box"
+msgstr "[فلوکس] جعبه تماس"
+
+#: includes/elements/contact-box.php:14
+msgid "It adds a contact box element."
+msgstr "یک جعبه تماس اضافه می کند."
+
+#: includes/elements/contact-box.php:35
+msgid "Contact box title, leave it empty if you don`t need title."
+msgstr "عنوان جعبه تماس، اگر به عنوان نیازی ندارید این بخش را خالی بگذارید."
+
+#: includes/elements/contact-box.php:49 includes/elements/contact-form.php:53
+msgid "Email"
+msgstr "ایمیل"
+
+#: includes/elements/contact-box.php:50
+msgid "Contact box email address."
+msgstr "آدرس ایمیل جعبه تماس"
+
+#: includes/elements/contact-box.php:63
+msgid "Telephone"
+msgstr "تلفن"
+
+#: includes/elements/contact-box.php:64
+msgid "Contact box phone number."
+msgstr "شماره تلفن جعبه تماس"
+
+#: includes/elements/contact-box.php:76
+msgid "Address"
+msgstr "آدرس"
+
+#: includes/elements/contact-box.php:77
+msgid "Contact box address."
+msgstr "آدرس جعبه تماس"
+
+#: includes/elements/contact-box.php:89
+msgid "Show socials"
+msgstr "شکلک های شبکه های اجتماعی"
+
+#: includes/elements/contact-box.php:90
+msgid "Show socials below the info."
+msgstr "نمایش شبکه های اجتماعی در پایین اطلاعات"
+
+#: includes/elements/contact-box.php:104
+msgid "Show map"
+msgstr "نمایش نقشه"
+
+#: includes/elements/contact-box.php:105
+msgid "Show map above the info."
+msgstr "نمایش نقشه در بالای اطلاعات"
+
+#: includes/elements/contact-box.php:119
+msgid "Map height"
+msgstr "ارتفاع نقشه"
+
+#: includes/elements/contact-box.php:120
+msgid "Height of the map in pixels."
+msgstr "ارتفاع نقشه بر حسب پیکسل"
+
+#: includes/elements/contact-box.php:137 includes/elements/gmap.php:62
+msgid "Latitude"
+msgstr "عرض جغرافیایی"
+
+#: includes/elements/contact-box.php:138 includes/elements/gmap.php:63
+msgid "Latitude location over the map."
+msgstr "محل عرض جغرافیایی بر روی نقشه."
+
+#: includes/elements/contact-box.php:154 includes/elements/gmap.php:77
+msgid "Longitude"
+msgstr "طول جغرافیایی"
+
+#: includes/elements/contact-box.php:155 includes/elements/gmap.php:78
+msgid "Longitude location over the map."
+msgstr "محل طول جغرافیایی بر روی نقشه."
+
+#: includes/elements/contact-box.php:171 includes/elements/gmap.php:92
+msgid "Map type"
+msgstr "نوع نقشه"
+
+#: includes/elements/contact-box.php:175 includes/elements/gmap.php:97
+msgid "ROADMAP"
+msgstr "نقشه راه"
+
+#: includes/elements/contact-box.php:175 includes/elements/gmap.php:97
+msgid "SATELLITE"
+msgstr "ماهواره"
+
+#: includes/elements/contact-box.php:188 includes/elements/gmap.php:107
+msgid "Map style"
+msgstr "ظاهر نقشه"
+
+#: includes/elements/contact-box.php:189
+msgid ""
+"This feild allows you to customize the presentation of the standard Google "
+"base maps. You can find many preset styles in "
+msgstr ""
+"این فیلد به شما اجازه می دهد نحوه نمایش پایه ای نقشه گوگل را تغییر دهید. شما "
+"می توانید سبک های پیش ساخته را در اینجا پیدا کنید:"
+
+#: includes/elements/contact-box.php:190 includes/elements/gmap.php:109
+msgid "this website."
+msgstr "این وب سایت."
+
+#: includes/elements/contact-box.php:215 includes/elements/gmap.php:123
+msgid "Marker info"
+msgstr "اطلاعات نشانگر"
+
+#: includes/elements/contact-box.php:216 includes/elements/gmap.php:124
+msgid "Marker popup text, leave it empty if you don't need it."
+msgstr "متن پنجره نشانگر، اگر به ان نیاز ندارید این بخش را خالی بگذارید."
+
+#: includes/elements/contact-box.php:233 includes/elements/gmap.php:138
+#: includes/elements/recent-posts-grid-carousel.php:475
+msgid "Navigation control"
+msgstr "کنترل های ناوبری"
+
+#: includes/elements/contact-box.php:234
+msgid "Show nacigation control on map."
+msgstr "نمایش کنترل های ناوبری روی نقشه."
+
+#: includes/elements/contact-box.php:251 includes/elements/gmap.php:153
+msgid "Zoom"
+msgstr "بزرگنمایی"
+
+#: includes/elements/contact-box.php:252
+msgid "The initial resolution at which to display the map, between 1 to 20."
+msgstr "رزولوشن اولیه برای نمایش نقشه، بین 1 تا 20."
+
+#: includes/elements/contact-box.php:268 includes/elements/gmap.php:168
+msgid "Zoom with mouse wheel"
+msgstr "بزرگنمایی با چرخ ماوس"
+
+#: includes/elements/contact-form.php:11
+msgid "[Phlox] Contact Form"
+msgstr "[فلوکس] فرم تماس"
+
+#: includes/elements/contact-form.php:14
+msgid "It adds a contact form element."
+msgstr "یک المان فرم تماس اضافه می کند."
+
+#: includes/elements/contact-form.php:39
+msgid "Contact form title, leave it empty if you don`t need title."
+msgstr "عنوان فرم تماس، اگر به عنوان نیازی ندارید این بخش را خالی بگذارید."
+
+#: includes/elements/contact-form.php:54
+msgid "Email address of message's recipient"
+msgstr "آدرس ایمیل دریافت کننده ی پیام ها"
+
+#: includes/elements/contact-form.php:68
+msgid "Contact form type"
+msgstr "نوع فرم تماس"
+
+#: includes/elements/contact-form.php:69
+msgid ""
+"Specifies contact form element's type. Whether to use built-in form or "
+"Contact Form 7."
+msgstr ""
+"نوع فرم تماس را مشخص می کند. از فرم تماس داخلی استفاده شود یا فرم تماس 7."
+
+#: includes/elements/contact-form.php:73
+msgid "Phlox Contact Form"
+msgstr "فرم تماس فلوکس"
+
+#: includes/elements/contact-form.php:74
+msgid "Contact Form 7 plugin"
+msgstr "افزونه فرم تماس 7"
+
+#: includes/elements/contact-form.php:86
+msgid "Contact form 7 shortcode"
+msgstr "کد کوتاه فرم تماس 7"
+
+#: includes/elements/contact-form.php:87
+msgid "Put one of your Contact form 7 shortcodes that you created."
+msgstr "کد کوتاه یکی از فرم های تماس 7 خود را در اینجا وارد کنید."
+
+#: includes/elements/contact-form.php:155
+msgid "Please enter your name."
+msgstr "لطفا نام خود را وارد کنید."
+
+#: includes/elements/contact-form.php:162
+msgid "Please enter your email address."
+msgstr "لطفا آدرس ایمیل خود را وارد کنید."
+
+#: includes/elements/contact-form.php:165
+msgid "You entered an invalid email address."
+msgstr "لطفا آدرس ایمیل معتبری وارد کنید."
+
+#: includes/elements/contact-form.php:176
+msgid "Please enter a message."
+msgstr "لطفا پیامی را وارد کنید."
+
+#: includes/elements/contact-form.php:213
+msgid "sorry, some problems occured with your form submission:"
+msgstr "متاسفیم، خطایی در ارسال فرم شما رخ داده است."
+
+#: includes/elements/contact-form.php:228
+msgid "Submit"
+msgstr "تایید"
+
+#: includes/elements/contact-form.php:231
+msgid "Thanks for your Message. Your message sent successfully."
+msgstr "از پیام شما متشکریم. پیام شما با موفقیت ارسال شد."
+
+#: includes/elements/divider.php:11
+msgid "[Phlox] Divider"
+msgstr "[فلوکس] جداکننده"
+
+#: includes/elements/divider.php:14
+msgid "Horizontal seperator"
+msgstr "جداکننده افقس"
+
+#: includes/elements/divider.php:38 includes/elements/highlight.php:37
+msgid "Divider style"
+msgstr "ظاهر جداکننده"
+
+#: includes/elements/divider.php:52 includes/elements/exclude/testfields.php:96
+#: includes/elements/text.php:276
+msgid "White Space"
+msgstr "فاصله خالی"
+
+#: includes/elements/divider.php:56 includes/elements/exclude/testfields.php:91
+#: includes/elements/text.php:280
+msgid "Solid"
+msgstr "یک دست"
+
+#: includes/elements/divider.php:60
+#: includes/elements/exclude/testfields.php:101 includes/elements/text.php:284
+msgid "Dashed"
+msgstr "خط چین"
+
+#: includes/elements/divider.php:68
+#: includes/elements/exclude/testfields.php:111
+msgid "Diamond"
+msgstr "الماس"
+
+#: includes/elements/divider.php:74
+msgid "Divider width"
+msgstr "عرض جداکننده"
+
+#: includes/elements/divider.php:75
+msgid "Specifies the width size of divider."
+msgstr "اندازه عرض جداکننده را مشخص می کند."
+
+#: includes/elements/divider.php:97
+msgid "Margin top (px)"
+msgstr "فاصله بیرونی بالا (پیکسل)"
+
+#: includes/elements/divider.php:98
+msgid "Adds space above  the divider in pixels."
+msgstr "فضای خالی (برحسب پیکسل) به بالای جداکننده اضافه می کند."
+
+#: includes/elements/divider.php:112
+msgid "Margin bottom (px)"
+msgstr "فاصله بیرونی پایین (پیکسل)"
+
+#: includes/elements/divider.php:113
+msgid "Adds space below the devider in pixels."
+msgstr "فضای خالی (برحسب پیکسل) به زیر جداکننده اضافه می کند."
+
+#: includes/elements/divider.php:128
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file. you can add "
+"multiple CSS class by separating them with space."
+msgstr ""
+"اگر می خواهید ظاهر این المان را به طور جداگانه تغییر دهید، از فیلد زیر برای "
+"افزودن نام کلاس دلخواه استفاده کنید و سپس در فایل css خود به آن ارجاع دهید. "
+"می توانید چند نام کلاس را با کاما از هم جدا کنید."
+
+#: includes/elements/dropcap.php:10
+msgid "[Phlox] Dropcap"
+msgstr "[فلوکس] دارپ کپ"
+
+#: includes/elements/dropcap.php:13
+msgid "Big styled character at the beginning of paragraph"
+msgstr "حرف بزرگ سبک دهی شده در اول پاراگراف"
+
+#: includes/elements/dropcap.php:37
+msgid "Dropcap style"
+msgstr "ظاهر دراپ کپ"
+
+#: includes/elements/dropcap.php:51
+#: includes/elements/exclude/accordion-tmp.php:33
+msgid "Classic"
+msgstr "کلاسیک"
+
+#: includes/elements/dropcap.php:59 includes/general-hooks.php:234
+msgid "Outline Square"
+msgstr "مربع با خط بیرونی"
+
+#: includes/elements/dropcap.php:63
+msgid "Round Square"
+msgstr "مربع لبه گرد"
+
+#: includes/elements/dropcap.php:71 includes/general-hooks.php:233
+msgid "Outline Circle"
+msgstr "دایره با خط بیرونی"
+
+#: includes/elements/dropcap.php:78
+msgid "Enter a text to show as dropcap text."
+msgstr "متنی را برای نمایش به شکل دراپ کپ وارد کنید."
+
+#: includes/elements/exclude/accordion-section.php:21
+msgid "Auxin Accordion Section"
+msgstr "اکسین بخش آکاردئون"
+
+#: includes/elements/exclude/accordion-section.php:24
+#: includes/elements/exclude/accordion-tmp.php:221
+msgid "Section for Tabs, Tours, Accordions."
+msgstr "بخش هایی برای زبانه ها، گشت و گذارها، آکاردئون ها."
+
+#: includes/elements/exclude/accordion-section.php:64
+#: includes/elements/exclude/auxin-accordion.php:72
+#: includes/elements/exclude/call-to-action.php:46
+#: includes/elements/exclude/call-to-action.php:136
+#: includes/elements/exclude/call-to-action.php:166
+#: includes/elements/exclude/testimonial-item.php:59
+#: includes/elements/exclude/testimonial-slider.php:74
+#: includes/elements/exclude/twitter-slider.php:59
+msgid "Style 1"
+msgstr "ظاهر 1"
+
+#: includes/elements/exclude/accordion-section.php:65
+#: includes/elements/exclude/auxin-accordion.php:73
+#: includes/elements/exclude/call-to-action.php:46
+#: includes/elements/exclude/call-to-action.php:136
+#: includes/elements/exclude/call-to-action.php:166
+#: includes/elements/exclude/testimonial-item.php:59
+#: includes/elements/exclude/testimonial-slider.php:74
+#: includes/elements/exclude/twitter-slider.php:59
+msgid "Style 2"
+msgstr "ظاهر 2"
+
+#: includes/elements/exclude/accordion-section.php:66
+#: includes/elements/exclude/auxin-accordion.php:74
+#: includes/elements/exclude/call-to-action.php:46
+#: includes/elements/exclude/call-to-action.php:136
+#: includes/elements/exclude/call-to-action.php:166
+#: includes/elements/exclude/testimonial-item.php:59
+#: includes/elements/exclude/testimonial-slider.php:74
+msgid "Style 3"
+msgstr "ظاهر 3"
+
+#: includes/elements/exclude/accordion-section.php:67
+#: includes/elements/exclude/auxin-accordion.php:75
+msgid "Style 4"
+msgstr "ظاهر 4"
+
+#: includes/elements/exclude/accordion-section.php:71
+#: includes/elements/exclude/accordion-tmp.php:38
+#: includes/elements/exclude/auxin-accordion.php:79
+#: includes/elements/exclude/call-to-action.php:49
+#: includes/elements/exclude/testimonial-item.php:62
+#: includes/elements/exclude/testimonial-slider.php:77
+#: includes/elements/tabs.php:48
+msgid "Style"
+msgstr "ظاهر"
+
+#: includes/elements/exclude/accordion-section.php:72
+#: includes/elements/exclude/accordion-tmp.php:39
+#: includes/elements/exclude/auxin-accordion.php:80
+msgid "Select accordion display style."
+msgstr "انتخاب نحوه نمایش آکاردئون."
+
+#: includes/elements/exclude/accordion-section.php:84
+#: includes/elements/exclude/auxin-accordion.php:92
+msgid "One toggle open at a time"
+msgstr "در یک زمان فقط یکی از بازشونده ها باز باشد."
+
+#: includes/elements/exclude/accordion-section.php:85
+#: includes/elements/exclude/auxin-accordion.php:93
+msgid "Multiple toggle open at a time"
+msgstr "در یک زمان چند بازشونده می توانند باز باشند."
+
+#: includes/elements/exclude/accordion-section.php:89
+#: includes/elements/exclude/auxin-accordion.php:97
+msgid "Toggle or accordion"
+msgstr "باز و بسته شونده یا آکاردئون"
+
+#: includes/elements/exclude/accordion-section.php:90
+#: includes/elements/exclude/auxin-accordion.php:98
+msgid "Multiple open or one."
+msgstr "باز بودن چندتایی یا تکی."
+
+#: includes/elements/exclude/accordion-tmp.php:12
+msgid "Accordionn"
+msgstr "آکاردئون"
+
+#: includes/elements/exclude/accordion-tmp.php:21
+msgid "Collapsible content panels"
+msgstr ""
+
+#: includes/elements/exclude/accordion-tmp.php:26
+#: public/templates/vcomposer/auxin_vc_extendes.php:23
+msgid "Widget title"
+msgstr "عنوان ابزارک"
+
+#: includes/elements/exclude/accordion-tmp.php:27
+#: public/templates/vcomposer/auxin_vc_extendes.php:25
+msgid "Enter text used as widget title (Note: located above content element)."
+msgstr ""
+
+#: includes/elements/exclude/accordion-tmp.php:34
+msgid "Modern"
+msgstr "مدرن"
+
+#: includes/elements/exclude/accordion-tmp.php:35
+msgid "Flat"
+msgstr "تخت"
+
+#: includes/elements/exclude/accordion-tmp.php:45
+#: includes/general-hooks.php:232
+msgid "Rounded"
+msgstr "گرد شده"
+
+#: includes/elements/exclude/accordion-tmp.php:49
+msgid "Shape"
+msgstr "شکل"
+
+#: includes/elements/exclude/accordion-tmp.php:50
+msgid "Select accordion shape."
+msgstr "انتخاب شکل آکاردئون."
+
+#: includes/elements/exclude/accordion-tmp.php:56
+msgid "Do not fill content area?"
+msgstr "پر "
+
+#: includes/elements/exclude/accordion-tmp.php:57
+msgid "Do not fill content area with color."
+msgstr "ناحیه محتوا را با رنگ پر نکن."
+
+#: includes/elements/exclude/accordion-tmp.php:63
+#: includes/elements/exclude/accordion-tmp.php:83
+#: includes/elements/exclude/accordion-tmp.php:114
+#: includes/elements/exclude/accordion-tmp.php:142
+#: includes/elements/flickr.php:151 includes/elements/flickr.php:200
+#: includes/elements/gallery.php:132 includes/elements/gallery.php:187
+#: includes/elements/image.php:121 includes/elements/image.php:137
+#: includes/elements/recent-posts-grid-carousel.php:485
+#: includes/general-hooks.php:229 includes/general-hooks.php:577
+#: public/templates/vcomposer/auxin_vc_extendes.php:63
+msgid "None"
+msgstr "هیچکدام"
+
+#: includes/elements/exclude/accordion-tmp.php:64
+#: includes/elements/exclude/accordion-tmp.php:84
+msgid "1px"
+msgstr "1پیکسل"
+
+#: includes/elements/exclude/accordion-tmp.php:65
+#: includes/elements/exclude/accordion-tmp.php:85
+msgid "2px"
+msgstr "2پیکسل"
+
+#: includes/elements/exclude/accordion-tmp.php:66
+#: includes/elements/exclude/accordion-tmp.php:86
+msgid "3px"
+msgstr "3پیکسل"
+
+#: includes/elements/exclude/accordion-tmp.php:67
+#: includes/elements/exclude/accordion-tmp.php:87
+msgid "4px"
+msgstr "4پیکسل"
+
+#: includes/elements/exclude/accordion-tmp.php:68
+#: includes/elements/exclude/accordion-tmp.php:88
+msgid "5px"
+msgstr "5پیکسل"
+
+#: includes/elements/exclude/accordion-tmp.php:69
+#: includes/elements/exclude/accordion-tmp.php:89
+msgid "10px"
+msgstr "10پیکسل"
+
+#: includes/elements/exclude/accordion-tmp.php:70
+#: includes/elements/exclude/accordion-tmp.php:90
+msgid "15px"
+msgstr "15پیکسل"
+
+#: includes/elements/exclude/accordion-tmp.php:71
+#: includes/elements/exclude/accordion-tmp.php:91
+msgid "20px"
+msgstr "20پیکسل"
+
+#: includes/elements/exclude/accordion-tmp.php:72
+#: includes/elements/exclude/accordion-tmp.php:92
+msgid "25px"
+msgstr "25پیکسل"
+
+#: includes/elements/exclude/accordion-tmp.php:73
+#: includes/elements/exclude/accordion-tmp.php:93
+msgid "30px"
+msgstr "30پیکسل"
+
+#: includes/elements/exclude/accordion-tmp.php:74
+#: includes/elements/exclude/accordion-tmp.php:94
+msgid "35px"
+msgstr "35پیکسل"
+
+#: includes/elements/exclude/accordion-tmp.php:76
+msgid "Spacing"
+msgstr "فاصله"
+
+#: includes/elements/exclude/accordion-tmp.php:77
+msgid "Select accordion spacing."
+msgstr "انتخاب فاصله خالی آکاردئون."
+
+#: includes/elements/exclude/accordion-tmp.php:96
+msgid "Gap"
+msgstr "شکاف"
+
+#: includes/elements/exclude/accordion-tmp.php:97
+msgid "Select accordion gap."
+msgstr "انتخاب شکاف آکاردئون"
+
+#: includes/elements/exclude/accordion-tmp.php:105
+#: includes/elements/quote.php:122
+#: includes/elements/recent-posts-timeline.php:72 includes/elements/text.php:84
+#: includes/elements/text.php:88 includes/general-hooks.php:258
+msgid "Center"
+msgstr "وسط"
+
+#: includes/elements/exclude/accordion-tmp.php:107
+#: includes/elements/image.php:113
+msgid "Alignment"
+msgstr "تراز"
+
+#: includes/elements/exclude/accordion-tmp.php:108
+msgid "Select accordion section title alignment."
+msgstr "انتخاب تراز عنوان بخش آکاردئون"
+
+#: includes/elements/exclude/accordion-tmp.php:115
+msgid "1"
+msgstr "1"
+
+#: includes/elements/exclude/accordion-tmp.php:116
+msgid "2"
+msgstr "2"
+
+#: includes/elements/exclude/accordion-tmp.php:117
+#: includes/elements/exclude/mini-twitter.php:89
+msgid "3"
+msgstr "3"
+
+#: includes/elements/exclude/accordion-tmp.php:118
+#: includes/elements/exclude/mini-twitter.php:89
+msgid "4"
+msgstr "4"
+
+#: includes/elements/exclude/accordion-tmp.php:119
+msgid "5"
+msgstr "5"
+
+#: includes/elements/exclude/accordion-tmp.php:120
+msgid "10"
+msgstr "10"
+
+#: includes/elements/exclude/accordion-tmp.php:121
+msgid "20"
+msgstr "20"
+
+#: includes/elements/exclude/accordion-tmp.php:122
+msgid "30"
+msgstr "30"
+
+#: includes/elements/exclude/accordion-tmp.php:123
+msgid "40"
+msgstr "40"
+
+#: includes/elements/exclude/accordion-tmp.php:124
+msgid "50"
+msgstr "50"
+
+#: includes/elements/exclude/accordion-tmp.php:125
+msgid "60"
+msgstr "60"
+
+#: includes/elements/exclude/accordion-tmp.php:128
+#: includes/elements/video.php:48
+msgid "Autoplay"
+msgstr "نمایش خودکار"
+
+#: includes/elements/exclude/accordion-tmp.php:129
+msgid ""
+"Select auto rotate for accordion in seconds (Note: disabled by default)."
+msgstr ""
+
+#: includes/elements/exclude/accordion-tmp.php:134
+msgid "Allow collapse all?"
+msgstr "اجازه باز کردن همه"
+
+#: includes/elements/exclude/accordion-tmp.php:135
+msgid "Allow collapse all accordion sections."
+msgstr "اجازه باز کردن همه بخش های آکاردئون"
+
+#: includes/elements/exclude/accordion-tmp.php:143
+msgid "Chevron"
+msgstr "جهت نما"
+
+#: includes/elements/exclude/accordion-tmp.php:144
+#: includes/elements/image.php:138
+msgid "Plus"
+msgstr "بعلاوه"
+
+#: includes/elements/exclude/accordion-tmp.php:145
+msgid "Triangle"
+msgstr "مثلث"
+
+#: includes/elements/exclude/accordion-tmp.php:148
+#: includes/elements/exclude/list-item.php:57
+#: includes/elements/exclude/list.php:57 includes/elements/text.php:154
+#: includes/general-hooks.php:117 includes/general-hooks.php:135
+#: includes/general-hooks.php:152 includes/general-hooks.php:168
+#: includes/general-hooks.php:184 includes/general-hooks.php:199
+msgid "Icon"
+msgstr "شکلک"
+
+#: includes/elements/exclude/accordion-tmp.php:149
+msgid "Select accordion navigation icon."
+msgstr ""
+
+#: includes/elements/exclude/accordion-tmp.php:162
+msgid "Position"
+msgstr "موقعیت"
+
+#: includes/elements/exclude/accordion-tmp.php:163
+msgid "Select accordion navigation icon position."
+msgstr ""
+
+#: includes/elements/exclude/accordion-tmp.php:169
+msgid "Active section"
+msgstr "بخش فعال"
+
+#: includes/elements/exclude/accordion-tmp.php:171
+msgid ""
+"Enter active section number (Note: to have all sections closed on initial "
+"load enter non-existing number)."
+msgstr ""
+
+#: includes/elements/exclude/accordion-tmp.php:190
+#: includes/elements/exclude/auxin-accordion.php:45
+msgid "Add Section"
+msgstr "افزودن بخش"
+
+#: includes/elements/exclude/accordion-tmp.php:200
+#: includes/elements/exclude/accordion-tmp.php:201
+#: includes/elements/exclude/accordion-tmp.php:210
+#: includes/elements/exclude/auxin-accordion.php:55
+#: includes/elements/exclude/auxin-accordion.php:56
+msgid "Section"
+msgstr "بخش"
+
+#: includes/elements/exclude/accordion.php:67
+#, php-format
+msgid ""
+"Please use below sample for each accordion item.%s[accordion_section label="
+"\"Accordion label here\" ] accordion content here [/accordion_section]"
+msgstr ""
+
+#: includes/elements/exclude/auxin-accordion.php:20
+msgid "Auxin Accordion"
+msgstr "آکاردئون اکسین"
+
+#: includes/elements/exclude/auxin-accordion.php:23
+#: includes/elements/exclude/chart.php:24
+msgid "This is will add accordion element"
+msgstr ""
+
+#: includes/elements/exclude/auxin-accordion.php:112
+msgid "active section"
+msgstr "بخش فعال"
+
+#: includes/elements/exclude/auxin-accordion.php:113
+msgid ""
+"Enter section number to be active on load or enter false to collapse all "
+"sections."
+msgstr ""
+
+#: includes/elements/exclude/call-to-action.php:20
+msgid "Auxin Call to action "
+msgstr "اکسین فراخوان برای عملیات"
+
+#: includes/elements/exclude/call-to-action.php:23
+msgid "This is will add call_to_action element"
+msgstr ""
+
+#: includes/elements/exclude/call-to-action.php:50
+#: includes/elements/exclude/testimonial-item.php:63
+#: includes/elements/exclude/testimonial-slider.php:78
+#: includes/elements/exclude/testimonial-slider.php:93
+#: includes/elements/exclude/testimonial-slider.php:108
+#: includes/elements/exclude/testimonial-slider.php:123
+#: includes/elements/exclude/testimonial-slider.php:138
+msgid "The sets the style of callout"
+msgstr ""
+
+#: includes/elements/exclude/call-to-action.php:64
+msgid "Heading"
+msgstr "تیتر گذاری"
+
+#: includes/elements/exclude/call-to-action.php:65
+msgid "Enter text for heading line."
+msgstr "متنی را برای خط عنوان وارد کنید."
+
+#: includes/elements/exclude/call-to-action.php:80
+#: includes/elements/exclude/col.php:50
+#: includes/elements/exclude/latest-blog.php:244
+#: includes/elements/exclude/latest-news.php:228
+#: includes/elements/exclude/link.php:93 includes/elements/exclude/list.php:81
+#: includes/elements/exclude/pricetable.php:80
+#: includes/elements/exclude/related-posts.php:198
+#: includes/elements/exclude/services.php:153
+#: includes/elements/exclude/soundcloud.php:99
+#: includes/elements/exclude/testfields.php:176
+#: includes/elements/exclude/testimonial.php:153
+msgid "Enter your content."
+msgstr "محتوای خود را وارد کنید."
+
+#: includes/elements/exclude/call-to-action.php:94
+msgid "Subheading"
+msgstr "زیرعنوان"
+
+#: includes/elements/exclude/call-to-action.php:95
+msgid "Enter text for subheading line."
+msgstr ""
+
+#: includes/elements/exclude/call-to-action.php:109
+#: includes/elements/instagram-feed.php:219
+msgid "Background color"
+msgstr "رنگ پس زمینه"
+
+#: includes/elements/exclude/call-to-action.php:110
+msgid "Background color for call out element"
+msgstr ""
+
+#: includes/elements/exclude/call-to-action.php:124
+#: includes/elements/exclude/testfields.php:157
+#: includes/elements/latest-posts-slider.php:237
+msgid "Background image"
+msgstr "تصویر پس زمینه"
+
+#: includes/elements/exclude/call-to-action.php:125
+#: includes/elements/exclude/testfields.php:158
+msgid "Background image for call out element"
+msgstr ""
+
+#: includes/elements/exclude/call-to-action.php:140
+msgid "The sets style of button"
+msgstr "مجموعه سبک های دکمه"
+
+#: includes/elements/exclude/call-to-action.php:154
+#: includes/elements/exclude/call-to-action.php:184
+msgid "Button text"
+msgstr "متن دکمه"
+
+#: includes/elements/exclude/call-to-action.php:155
+#: includes/elements/exclude/call-to-action.php:185
+msgid "Enter button label."
+msgstr "برچسب دکمه را وارد کنید."
+
+#: includes/elements/exclude/call-to-action.php:166
+msgid "No second button"
+msgstr "بدون دکمه دوم"
+
+#: includes/elements/exclude/call-to-action.php:169
+msgid "Second Button style"
+msgstr "ظاهر دکمه دوم"
+
+#: includes/elements/exclude/call-to-action.php:170
+msgid "Set it on No second button to remove second button"
+msgstr ""
+
+#: includes/elements/exclude/caption.php:19
+msgid "Auxin Captionn "
+msgstr "اکسین عنوان"
+
+#: includes/elements/exclude/caption.php:22
+msgid "This is will add Caption element"
+msgstr ""
+
+#: includes/elements/exclude/caption.php:48
+msgid "Caption"
+msgstr "عنوان"
+
+#: includes/elements/exclude/caption.php:49
+#: includes/elements/exclude/carousel.php:48
+#: includes/elements/exclude/carousel.php:63
+#: includes/elements/exclude/faq.php:49 includes/elements/exclude/faq.php:94
+#: includes/elements/exclude/faq.php:109
+#: includes/elements/exclude/get-pages.php:48
+#: includes/elements/exclude/get-pages.php:78
+#: includes/elements/exclude/get-pages.php:93
+#: includes/elements/exclude/get-pages.php:138
+#: includes/elements/exclude/get-testimonials.php:47
+#: includes/elements/exclude/get-testimonials.php:62
+#: includes/elements/exclude/get-testimonials.php:77
+#: includes/elements/exclude/get-testimonials.php:92
+#: includes/elements/exclude/latest-blog.php:49
+#: includes/elements/exclude/latest-blog.php:64
+#: includes/elements/exclude/latest-blog.php:94
+#: includes/elements/exclude/latest-blog.php:109
+#: includes/elements/exclude/latest-blog.php:124
+#: includes/elements/exclude/latest-blog.php:154
+#: includes/elements/exclude/latest-blog.php:169
+#: includes/elements/exclude/latest-news.php:48
+#: includes/elements/exclude/latest-news.php:63
+#: includes/elements/exclude/latest-news.php:93
+#: includes/elements/exclude/latest-news.php:108
+#: includes/elements/exclude/latest-news.php:153
+#: includes/elements/exclude/link.php:48 includes/elements/exclude/link.php:63
+#: includes/elements/exclude/list-item.php:48
+#: includes/elements/exclude/list-item.php:81
+#: includes/elements/exclude/list-item.php:96
+#: includes/elements/exclude/list.php:48
+#: includes/elements/exclude/masterslider.php:48
+#: includes/elements/exclude/masterslider.php:63
+#: includes/elements/exclude/masterslider.php:78
+#: includes/elements/exclude/mini-twitter.php:48
+#: includes/elements/exclude/mini-twitter.php:63
+#: includes/elements/exclude/msgbox.php:37
+#: includes/elements/exclude/pricetable.php:50
+#: includes/elements/exclude/related-posts.php:78
+#: includes/elements/exclude/related-posts.php:93
+#: includes/elements/exclude/related-posts.php:123
+#: includes/elements/exclude/related-posts.php:168
+#: includes/elements/exclude/services.php:48
+#: includes/elements/exclude/services.php:63
+#: includes/elements/exclude/services.php:93
+#: includes/elements/exclude/services.php:108
+#: includes/elements/exclude/services.php:138
+#: includes/elements/exclude/soundcloud.php:69
+#: includes/elements/exclude/soundcloud.php:84
+#: includes/elements/exclude/staffs.php:48
+#: includes/elements/exclude/staffs.php:63
+#: includes/elements/exclude/staffs.php:78
+#: includes/elements/exclude/staffs.php:93
+#: includes/elements/exclude/staffs.php:153
+#: includes/elements/exclude/testimonial-item.php:93
+#: includes/elements/exclude/testimonial.php:48
+#: includes/elements/exclude/testimonial.php:63
+#: includes/elements/exclude/testimonial.php:78
+#: includes/elements/exclude/testimonial.php:93
+#: includes/elements/exclude/testimonial.php:108
+#: includes/elements/exclude/testimonial.php:138
+#: includes/elements/exclude/twitter-slider.php:48
+#: includes/elements/exclude/twitter.php:48
+#: includes/elements/exclude/twitter.php:63
+#: includes/elements/exclude/twitter.php:93
+#: includes/elements/exclude/twitter.php:108
+#: includes/elements/latest-items.php:42
+#: includes/elements/sample-element.php:59
+msgid "If you choose Callout a big box appears around the content"
+msgstr ""
+
+#: includes/elements/exclude/carousel.php:18
+msgid "Auxin Carousel "
+msgstr "اکسین گردونه"
+
+#: includes/elements/exclude/carousel.php:21
+#: includes/elements/exclude/col.php:23 includes/elements/exclude/link.php:21
+#: includes/elements/exclude/mini-twitter.php:21
+msgid "This is will add Callout element"
+msgstr ""
+
+#: includes/elements/exclude/carousel.php:62
+msgid "Custom CSS"
+msgstr "سی اس اس دلخواه"
+
+#: includes/elements/exclude/carousel.php:75
+#: includes/elements/exclude/clients.php:60
+#: includes/elements/exclude/get-pages.php:104
+#: includes/elements/exclude/get-pages.php:119
+#: includes/elements/exclude/latest-blog.php:75
+#: includes/elements/exclude/latest-blog.php:180
+#: includes/elements/exclude/latest-news.php:74
+#: includes/elements/exclude/latest-news.php:164
+#: includes/elements/exclude/mini-twitter.php:74
+#: includes/elements/exclude/mini-twitter.php:104
+#: includes/elements/exclude/recent-posts2.php:59
+#: includes/elements/exclude/related-posts.php:44
+#: includes/elements/exclude/twitter-slider.php:74
+#: includes/elements/exclude/twitter.php:74
+#: includes/elements/latest-items.php:173
+#: includes/elements/latest-items.php:188
+msgid "No"
+msgstr "خیر"
+
+#: includes/elements/exclude/carousel.php:75
+#: includes/elements/exclude/get-pages.php:104
+#: includes/elements/exclude/get-pages.php:119
+#: includes/elements/exclude/get-testimonials.php:118
+#: includes/elements/exclude/get-testimonials.php:133
+#: includes/elements/exclude/latest-blog.php:75
+#: includes/elements/exclude/latest-blog.php:180
+#: includes/elements/exclude/latest-news.php:209
+#: includes/elements/exclude/mini-twitter.php:74
+#: includes/elements/exclude/mini-twitter.php:104
+#: includes/elements/exclude/recent-posts2.php:59
+#: includes/elements/exclude/twitter-slider.php:74
+#: includes/elements/exclude/twitter.php:74
+#: includes/elements/latest-items.php:173
+#: includes/elements/latest-items.php:188
+msgid "Yes"
+msgstr "بله"
+
+#: includes/elements/exclude/carousel.php:78
+msgid "Aotu play"
+msgstr "نمایش خودکار"
+
+#: includes/elements/exclude/carousel.php:79
+msgid "The sets auto_play of eslement"
+msgstr ""
+
+#: includes/elements/exclude/chart.php:21
+msgid "Auxin Chart"
+msgstr "اکسین نمودار"
+
+#: includes/elements/exclude/chart.php:51
+msgid "The title of your element"
+msgstr ""
+
+#: includes/elements/exclude/clients.php:20
+msgid "Auxin Clients"
+msgstr "اکسین مشتریان"
+
+#: includes/elements/exclude/clients.php:23
+#: includes/elements/exclude/get-pages.php:21
+msgid "This is will add brands element"
+msgstr ""
+
+#: includes/elements/exclude/clients.php:49
+#: includes/elements/exclude/clients.php:64
+#: includes/elements/exclude/clients.php:79
+#: includes/elements/exclude/get-pages.php:63
+#: includes/elements/exclude/get-pages.php:108
+#: includes/elements/exclude/get-pages.php:123
+#: includes/elements/exclude/recent-posts2.php:48
+#: includes/elements/exclude/recent-posts2.php:63
+#: includes/elements/exclude/related-posts.php:48
+#: includes/elements/exclude/related-posts.php:63
+#: includes/elements/exclude/related-posts.php:108
+#: includes/elements/exclude/related-posts.php:153
+#: includes/elements/exclude/related-posts.php:183
+#: includes/elements/exclude/services.php:78
+#: includes/elements/exclude/services.php:123
+#: includes/elements/exclude/staffs.php:108
+#: includes/elements/exclude/staffs.php:123
+#: includes/elements/exclude/staffs.php:138
+#: includes/elements/exclude/testimonial-item.php:108
+#: includes/elements/exclude/testimonial.php:123
+msgid "The title of recent post eslements"
+msgstr ""
+
+#: includes/elements/exclude/clients.php:60
+msgid "Slider"
+msgstr "اسلایدر"
+
+#: includes/elements/exclude/clients.php:63
+#: includes/elements/exclude/get-pages.php:62
+msgid "Display Type"
+msgstr "نوع نمایش"
+
+#: includes/elements/exclude/clients.php:75
+#: includes/elements/exclude/latest-blog.php:225
+#: includes/elements/exclude/latest-news.php:74
+#: includes/elements/exclude/latest-news.php:164
+#: includes/elements/exclude/related-posts.php:179
+#: includes/elements/exclude/services.php:74
+#: includes/elements/exclude/staffs.php:104
+#: includes/elements/exclude/staffs.php:119
+#: includes/elements/exclude/staffs.php:134
+msgid "yes"
+msgstr "بله"
+
+#: includes/elements/exclude/clients.php:75
+#: includes/elements/exclude/get-testimonials.php:118
+#: includes/elements/exclude/get-testimonials.php:133
+#: includes/elements/exclude/latest-blog.php:225
+#: includes/elements/exclude/latest-news.php:209
+#: includes/elements/exclude/related-posts.php:179
+#: includes/elements/exclude/services.php:74
+#: includes/elements/exclude/staffs.php:104
+#: includes/elements/exclude/staffs.php:119
+#: includes/elements/exclude/staffs.php:134
+msgid "no"
+msgstr "خیر"
+
+#: includes/elements/exclude/clients.php:78
+msgid "Auto play"
+msgstr "نمایش خودکار"
+
+#: includes/elements/exclude/col.php:20
+msgid "Auxin col "
+msgstr "ستون اکسین"
+
+#: includes/elements/exclude/faq.php:19
+msgid "Auxin faq"
+msgstr "اکسین پرسش و پاسخ"
+
+#: includes/elements/exclude/faq.php:22
+msgid "This is will add faq element"
+msgstr ""
+
+#: includes/elements/exclude/faq.php:63
+#: includes/elements/exclude/testfields.php:124
+msgid "First one open?"
+msgstr "اولی باز باشد؟"
+
+#: includes/elements/exclude/faq.php:64
+#: includes/elements/exclude/latest-blog.php:79
+#: includes/elements/exclude/latest-blog.php:139
+#: includes/elements/exclude/latest-blog.php:184
+#: includes/elements/exclude/latest-blog.php:199
+#: includes/elements/exclude/latest-blog.php:214
+#: includes/elements/exclude/latest-blog.php:229
+#: includes/elements/exclude/latest-news.php:78
+#: includes/elements/exclude/latest-news.php:123
+#: includes/elements/exclude/latest-news.php:168
+#: includes/elements/exclude/latest-news.php:183
+#: includes/elements/exclude/latest-news.php:198
+#: includes/elements/exclude/latest-news.php:213
+#: includes/elements/exclude/link.php:78
+#: includes/elements/exclude/mini-twitter.php:78
+#: includes/elements/exclude/mini-twitter.php:93
+#: includes/elements/exclude/mini-twitter.php:108
+#: includes/elements/exclude/testfields.php:125
+#: includes/elements/exclude/twitter-slider.php:63
+#: includes/elements/exclude/twitter-slider.php:78
+#: includes/elements/exclude/twitter.php:78
+#: includes/elements/latest-items.php:57 includes/elements/latest-items.php:102
+#: includes/elements/latest-items.php:132
+#: includes/elements/latest-items.php:177
+#: includes/elements/latest-items.php:192
+msgid "The round is used got button"
+msgstr ""
+
+#: includes/elements/exclude/faq.php:75
+msgid "all"
+msgstr "همه"
+
+#: includes/elements/exclude/faq.php:75
+msgid "dotted"
+msgstr "نقطه ای"
+
+#: includes/elements/exclude/faq.php:75
+msgid "dashed"
+msgstr "خط چین"
+
+#: includes/elements/exclude/faq.php:75
+msgid "bar"
+msgstr "نوار"
+
+#: includes/elements/exclude/faq.php:75
+msgid "space"
+msgstr "فضای خالی"
+
+#: includes/elements/exclude/faq.php:79
+msgid "The style is used got button"
+msgstr ""
+
+#: includes/elements/exclude/faq.php:93
+msgid "Number"
+msgstr "شماره"
+
+#: includes/elements/exclude/faq.php:108
+msgid "Paged"
+msgstr "صفحه بندی شده"
+
+#: includes/elements/exclude/get-pages.php:18
+msgid "Auxin get_pages"
+msgstr "اکسین get_pages"
+
+#: includes/elements/exclude/get-pages.php:47
+#: includes/elements/exclude/latest-blog.php:63
+#: includes/elements/exclude/latest-news.php:62
+#: includes/elements/exclude/services.php:62
+#: includes/elements/exclude/staffs.php:47
+#: includes/elements/latest-items.php:41
+msgid "col"
+msgstr "col"
+
+#: includes/elements/exclude/get-pages.php:59
+#: includes/elements/exclude/latest-blog.php:135
+#: includes/elements/exclude/latest-news.php:119
+#: includes/elements/exclude/related-posts.php:104
+#: includes/elements/latest-items.php:98
+msgid "pagination"
+msgstr "صفحه بندی"
+
+#: includes/elements/exclude/get-pages.php:59
+#: includes/elements/exclude/related-posts.php:104
+#: includes/elements/exclude/related-posts.php:149
+msgid "filterable"
+msgstr "قابل فیلتر"
+
+#: includes/elements/exclude/get-pages.php:92
+msgid "ids"
+msgstr "شناسه ها"
+
+#: includes/elements/exclude/get-pages.php:107
+msgid "Display Excerpt?"
+msgstr "نمایش خلاصه؟"
+
+#: includes/elements/exclude/get-pages.php:122
+msgid "Display Title?"
+msgstr "نمایش عنوان؟"
+
+#: includes/elements/exclude/get-pages.php:137
+#: includes/elements/popular-posts-widget.php:170
+#: includes/elements/recent-posts-grid-carousel.php:330
+#: includes/elements/recent-posts-land-style.php:333
+#: includes/elements/recent-posts-masonry.php:313
+#: includes/elements/recent-posts-timeline.php:339
+#: includes/elements/recent-posts-widget.php:130
+msgid "Excerpt length"
+msgstr "طول خلاصه"
+
+#: includes/elements/exclude/get-slider.php:20
+#: includes/elements/exclude/masterslider.php:127
+msgid "Invalid slider id"
+msgstr "شناسه اسلایدر نامعتبر"
+
+#: includes/elements/exclude/get-testimonials.php:17
+msgid "Auxin get_testimonial"
+msgstr "اکسین get_testimonial"
+
+#: includes/elements/exclude/get-testimonials.php:20
+msgid "This is will add get_testimonial element"
+msgstr ""
+
+#: includes/elements/exclude/get-testimonials.php:103
+#: includes/elements/exclude/testimonial-item.php:104
+#: includes/elements/exclude/testimonial.php:119
+msgid "blockquote"
+msgstr "نقل قول"
+
+#: includes/elements/exclude/get-testimonials.php:103
+#: includes/elements/gallery.php:109
+msgid "DESC"
+msgstr "نزولی"
+
+#: includes/elements/exclude/get-testimonials.php:107
+#: includes/elements/exclude/get-testimonials.php:122
+#: includes/elements/exclude/get-testimonials.php:137
+msgid "The sets type of eslement"
+msgstr ""
+
+#: includes/elements/exclude/get-testimonials.php:136
+msgid "display_avatar"
+msgstr "display_avatar"
+
+#: includes/elements/exclude/latest-blog.php:19
+msgid "Auxin latest_blog "
+msgstr "اکسین latest_blog"
+
+#: includes/elements/exclude/latest-blog.php:22
+msgid "This is will add latest_blog element"
+msgstr "این یک المان latest_blog اضافه می کند."
+
+#: includes/elements/exclude/latest-blog.php:78
+msgid "view_more type"
+msgstr "view_more type"
+
+#: includes/elements/exclude/latest-blog.php:93
+msgid "more_label"
+msgstr "more_label"
+
+#: includes/elements/exclude/latest-blog.php:108
+#: includes/elements/exclude/latest-news.php:107
+#: includes/elements/exclude/related-posts.php:92
+#: includes/elements/exclude/related-posts.php:137
+#: includes/elements/exclude/services.php:137
+#: includes/elements/exclude/staffs.php:62
+#: includes/elements/latest-items.php:86
+msgid "num"
+msgstr "شماره"
+
+#: includes/elements/exclude/latest-blog.php:123
+msgid "perpage"
+msgstr "هر صفحه"
+
+#: includes/elements/exclude/latest-blog.php:135
+#: includes/elements/exclude/latest-news.php:119
+#: includes/elements/latest-items.php:98 includes/elements/latest-items.php:128
+msgid "regular"
+msgstr "معمولی"
+
+#: includes/elements/exclude/latest-blog.php:138
+#: includes/elements/exclude/latest-news.php:122
+#: includes/elements/latest-items.php:101
+msgid "nav type"
+msgstr ""
+
+#: includes/elements/exclude/latest-blog.php:153
+#: includes/elements/exclude/latest-news.php:137
+#: includes/elements/exclude/services.php:92
+#: includes/elements/latest-items.php:206
+msgid "excerpt_len"
+msgstr "excerpt_len"
+
+#: includes/elements/exclude/latest-blog.php:168
+#: includes/elements/exclude/latest-news.php:152
+#: includes/elements/exclude/services.php:107
+#: includes/elements/exclude/staffs.php:92
+#: includes/elements/latest-items.php:146
+msgid "cat_id"
+msgstr "cat_id"
+
+#: includes/elements/exclude/latest-blog.php:183
+msgid "view_thumb?"
+msgstr "view_thumb?"
+
+#: includes/elements/exclude/latest-blog.php:195
+#: includes/elements/exclude/latest-news.php:179
+msgid "top"
+msgstr "بالا"
+
+#: includes/elements/exclude/latest-blog.php:195
+#: includes/elements/exclude/latest-blog.php:210
+#: includes/elements/exclude/latest-news.php:179
+#: includes/elements/exclude/latest-news.php:194
+msgid "left"
+msgstr "چپ"
+
+#: includes/elements/exclude/latest-blog.php:195
+#: includes/elements/exclude/latest-blog.php:210
+msgid "icon"
+msgstr "شکلک"
+
+#: includes/elements/exclude/latest-blog.php:198
+#: includes/elements/exclude/latest-news.php:182
+msgid "thumb_mode"
+msgstr ""
+
+#: includes/elements/exclude/latest-blog.php:210
+#: includes/elements/exclude/latest-news.php:194
+msgid "big"
+msgstr "بزرگ"
+
+#: includes/elements/exclude/latest-blog.php:213
+msgid "date type"
+msgstr "نوع تاریخ"
+
+#: includes/elements/exclude/latest-blog.php:228
+msgid "auto play"
+msgstr "نمایش خودکار"
+
+#: includes/elements/exclude/latest-blog.php:239
+#: includes/elements/exclude/latest-blog.php:240
+#: includes/elements/exclude/latest-news.php:223
+#: includes/elements/exclude/latest-news.php:224
+#: includes/elements/exclude/link.php:88 includes/elements/exclude/link.php:89
+#: includes/elements/exclude/list.php:76 includes/elements/exclude/list.php:77
+#: includes/elements/exclude/pricetable.php:75
+#: includes/elements/exclude/pricetable.php:76
+#: includes/elements/exclude/related-posts.php:193
+#: includes/elements/exclude/related-posts.php:194
+#: includes/elements/exclude/services.php:148
+#: includes/elements/exclude/services.php:149
+#: includes/elements/exclude/soundcloud.php:94
+#: includes/elements/exclude/soundcloud.php:95
+#: includes/elements/exclude/testimonial.php:148
+#: includes/elements/exclude/testimonial.php:149
+msgid "<p>I am test text block. Click edit button to change this text.</p>"
+msgstr ""
+"<p> من آخرین بلوک متن هستم. برای تغییر این متن بر روی ویرایش کلیک کنید."
+
+#: includes/elements/exclude/latest-news.php:18
+msgid "Auxin latest_news "
+msgstr "اکسین latest_news"
+
+#: includes/elements/exclude/latest-news.php:21
+msgid "This is will add latest_news element"
+msgstr ""
+
+#: includes/elements/exclude/latest-news.php:77
+msgid "view_more"
+msgstr "view_more"
+
+#: includes/elements/exclude/latest-news.php:138
+#: includes/elements/latest-items.php:162
+#: includes/elements/latest-items.php:207
+msgid "attachment width"
+msgstr "عرض پیوست"
+
+#: includes/elements/exclude/latest-news.php:167
+msgid "view_thumb"
+msgstr "view_thumb"
+
+#: includes/elements/exclude/latest-news.php:179
+#: includes/elements/exclude/latest-news.php:194
+msgid "mini"
+msgstr "کوچک"
+
+#: includes/elements/exclude/latest-news.php:197
+msgid "date_type"
+msgstr "date_type"
+
+#: includes/elements/exclude/latest-news.php:212
+msgid "auto_play"
+msgstr "auto_play"
+
+#: includes/elements/exclude/link.php:18
+msgid "Auxin link "
+msgstr "اکسین پیوند"
+
+#: includes/elements/exclude/link.php:62
+#: includes/elements/exclude/list-item.php:80
+msgid "url"
+msgstr "url"
+
+#: includes/elements/exclude/link.php:74
+msgid "_self"
+msgstr "_self"
+
+#: includes/elements/exclude/link.php:74
+msgid "_blank"
+msgstr "_blank"
+
+#: includes/elements/exclude/link.php:77
+msgid "target"
+msgstr "هدف"
+
+#: includes/elements/exclude/list-item.php:18
+msgid "Auxin list item"
+msgstr "اکسین آیتم لیست"
+
+#: includes/elements/exclude/list-item.php:21
+msgid "This is will add list_item element"
+msgstr ""
+
+#: includes/elements/exclude/list-item.php:71
+#: includes/elements/exclude/list.php:71 includes/general-hooks.php:131
+#: includes/general-hooks.php:148 includes/general-hooks.php:164
+#: includes/general-hooks.php:180 includes/general-hooks.php:211
+msgid "Select icon from library."
+msgstr "انتخاب شکلک از کتابخانه."
+
+#: includes/elements/exclude/list.php:18
+msgid "Auxin list "
+msgstr "اکسین لیست"
+
+#: includes/elements/exclude/list.php:21
+#: includes/elements/exclude/masterslider.php:21
+msgid "This is will add list element"
+msgstr ""
+
+#: includes/elements/exclude/masterslider.php:18
+msgid "masterslider_axi"
+msgstr "masterslider_axi"
+
+#: includes/elements/exclude/masterslider.php:62
+msgid "class"
+msgstr "کلاس"
+
+#: includes/elements/exclude/masterslider.php:77
+msgid "size"
+msgstr "اندازه"
+
+#: includes/elements/exclude/masterslider.php:130
+msgid "Please install and activate Masterslider WP"
+msgstr ""
+
+#: includes/elements/exclude/mini-twitter.php:18
+msgid "Auxin latest_tweets "
+msgstr "اکسین latest_tweets "
+
+#: includes/elements/exclude/mini-twitter.php:62
+msgid "user"
+msgstr "کاربر"
+
+#: includes/elements/exclude/mini-twitter.php:77
+#: includes/elements/exclude/twitter-slider.php:77
+#: includes/elements/exclude/twitter.php:77
+msgid "avatar type"
+msgstr "نوع آواتار"
+
+#: includes/elements/exclude/mini-twitter.php:92
+msgid "avatar limit"
+msgstr "محدودیت آواتار"
+
+#: includes/elements/exclude/mini-twitter.php:107
+msgid "uid type"
+msgstr ""
+
+#: includes/elements/exclude/mini-twitter.php:153
+#: includes/elements/exclude/twitter-slider.php:127
+#: includes/elements/exclude/twitter.php:156
+msgid "Twitter username not found"
+msgstr ""
+
+#: includes/elements/exclude/mini-twitter.php:179
+msgid "Loading Tweets ..."
+msgstr ""
+
+#: includes/elements/exclude/msgbox.php:7
+msgid "[Phlox] Message Box "
+msgstr "[فلوکس] جعبه پیام"
+
+#: includes/elements/exclude/msgbox.php:10
+msgid "This is will add msgbox element"
+msgstr ""
+
+#: includes/elements/exclude/msgbox.php:48
+msgid "success"
+msgstr "موفق"
+
+#: includes/elements/exclude/msgbox.php:48
+msgid "warn"
+msgstr "هشدار"
+
+#: includes/elements/exclude/msgbox.php:48
+msgid "error"
+msgstr "خطا"
+
+#: includes/elements/exclude/msgbox.php:48
+msgid "info"
+msgstr "اطلاعات"
+
+#: includes/elements/exclude/msgbox.php:48
+msgid "help"
+msgstr "کمک"
+
+#: includes/elements/exclude/msgbox.php:48
+msgid "notice"
+msgstr "نکته"
+
+#: includes/elements/exclude/msgbox.php:51
+msgid "Button type"
+msgstr "نوع دکمه"
+
+#: includes/elements/exclude/msgbox.php:52
+msgid "The type is used got button"
+msgstr ""
+
+#: includes/elements/exclude/msgbox.php:65
+msgid "Show icon"
+msgstr "نمایش شکلک"
+
+#: includes/elements/exclude/msgbox.php:66
+msgid "Show icon on message box."
+msgstr ""
+
+#: includes/elements/exclude/msgbox.php:81
+msgid "Enter your message text."
+msgstr ""
+
+#: includes/elements/exclude/msgbox.php:168
+msgid "No Message"
+msgstr "بدون پیام"
+
+#: includes/elements/exclude/pricetable.php:20
+msgid "Auxin pricetable"
+msgstr "جدول قیمت اکسین"
+
+#: includes/elements/exclude/pricetable.php:23
+msgid "This is will add pricetable element"
+msgstr ""
+
+#: includes/elements/exclude/pricetable.php:64
+msgid "table_id"
+msgstr "table_id"
+
+#: includes/elements/exclude/pricetable.php:65
+msgid "If you choose table_id a big box appears around the content"
+msgstr ""
+
+#: includes/elements/exclude/recent-posts2.php:19
+msgid "Auxin Recent Post"
+msgstr "اکسین نوشته های اخیر"
+
+#: includes/elements/exclude/recent-posts2.php:22
+msgid "This is will add recent posts element"
+msgstr ""
+
+#: includes/elements/exclude/recent-posts2.php:59
+#: includes/elements/exclude/related-posts.php:44
+msgid "Not at all"
+msgstr "اصلا"
+
+#: includes/elements/exclude/recent-posts2.php:62
+#: includes/elements/exclude/related-posts.php:47
+msgid "Display Post Format?"
+msgstr "نمایش فرمت نوشته؟"
+
+#: includes/elements/exclude/related-posts.php:18
+msgid "Auxin related_items "
+msgstr "اکسین related_items "
+
+#: includes/elements/exclude/related-posts.php:21
+msgid "This is will add related_items element"
+msgstr ""
+
+#: includes/elements/exclude/related-posts.php:44
+#: includes/elements/exclude/related-posts.php:59
+msgid "three-column"
+msgstr "سه-ستون"
+
+#: includes/elements/exclude/related-posts.php:59
+#: includes/elements/latest-items.php:53
+msgid "none"
+msgstr "هیچکدام"
+
+#: includes/elements/exclude/related-posts.php:62
+#: includes/elements/exclude/services.php:77
+msgid "mode"
+msgstr "حالت"
+
+#: includes/elements/exclude/related-posts.php:77
+#: includes/elements/latest-items.php:71
+msgid "grid"
+msgstr "شبکه"
+
+#: includes/elements/exclude/related-posts.php:107
+msgid "nav"
+msgstr "nav"
+
+#: includes/elements/exclude/related-posts.php:122
+#: includes/elements/latest-items.php:116
+msgid "title"
+msgstr "عنوان"
+
+#: includes/elements/exclude/related-posts.php:138
+msgid "number of double size images"
+msgstr ""
+
+#: includes/elements/exclude/related-posts.php:149
+#: includes/elements/latest-items.php:128
+msgid "post"
+msgstr "نوشته"
+
+#: includes/elements/exclude/related-posts.php:152
+msgid "posttype"
+msgstr "نوع نوشته"
+
+#: includes/elements/exclude/related-posts.php:167
+msgid "tax"
+msgstr "tax"
+
+#: includes/elements/exclude/related-posts.php:182
+msgid "excerpt"
+msgstr "خلاصه"
+
+#: includes/elements/exclude/related-posts.php:335
+msgid "No Related Item Available"
+msgstr ""
+
+#: includes/elements/exclude/services.php:18
+msgid "Auxin services "
+msgstr "اکسین خدمات"
+
+#: includes/elements/exclude/services.php:21
+msgid "This is will add services element"
+msgstr ""
+
+#: includes/elements/exclude/services.php:119
+msgid "column"
+msgstr "ستون"
+
+#: includes/elements/exclude/services.php:119
+msgid "tab"
+msgstr "زبانه"
+
+#: includes/elements/exclude/services.php:122
+msgid "display_type"
+msgstr "display_type"
+
+#: includes/elements/exclude/soundcloud.php:39
+msgid "Auxin soundcloud "
+msgstr "اکسین soundcloud "
+
+#: includes/elements/exclude/soundcloud.php:42
+msgid "This is will add soundcloud element"
+msgstr ""
+
+#: includes/elements/exclude/staffs.php:18
+msgid "Auxin axi_staffs "
+msgstr ""
+
+#: includes/elements/exclude/staffs.php:21
+msgid "This is will add axi_staffs element"
+msgstr ""
+
+#: includes/elements/exclude/staffs.php:107
+#: includes/elements/exclude/testimonial.php:122
+msgid "view_excerpt"
+msgstr "view_excerpt"
+
+#: includes/elements/exclude/staffs.php:122
+msgid "view_socials"
+msgstr "view_socials"
+
+#: includes/elements/exclude/staffs.php:137
+msgid "link_to_single"
+msgstr ""
+
+#: includes/elements/exclude/staffs.php:152
+#: includes/elements/latest-items.php:236
+msgid "paged"
+msgstr "صفحه بندی شده"
+
+#: includes/elements/exclude/tabs.php:10 includes/elements/tabs.php:10
+msgid "[Phlox] Tabs"
+msgstr "[فلوکس] زبانه ها"
+
+#: includes/elements/exclude/tabs.php:13 includes/elements/tabs.php:13
+msgid "It adds tabs element."
+msgstr "یک المان زبانه اضافه می کند."
+
+#: includes/elements/exclude/tabs.php:34 includes/elements/tabs.php:35
+msgid "Tabs title, leave it empty if you don`t need title."
+msgstr "عنوان زبانه، اگر به عنوان نیازی ندارید این بخش را خالی بگذارید."
+
+#: includes/elements/exclude/tabs.php:48
+msgid ""
+"Please use below sample for each tab item.<br>[tab_section label=\"Tab label "
+"here\" ]Tab content here [/tab_section]"
+msgstr ""
+
+#: includes/elements/exclude/testfields.php:13
+msgid "Auxin Sample "
+msgstr "اکسین نمونه"
+
+#: includes/elements/exclude/testfields.php:16
+#: includes/elements/sample-element.php:15
+msgid "The element description"
+msgstr "توضیحات المان"
+
+#: includes/elements/exclude/testfields.php:51
+#: includes/elements/sample-element.php:45
+msgid "Description for this element"
+msgstr "توضیحات این المان"
+
+#: includes/elements/exclude/testfields.php:68
+msgid "Button border style"
+msgstr "ظاهر کادر دکمه"
+
+#: includes/elements/exclude/testfields.php:82
+msgid "Divider Style"
+msgstr "ظاهر جداکننده"
+
+#: includes/elements/exclude/testfields.php:83
+msgid "The style of divider"
+msgstr "ظاهر جداکننده"
+
+#: includes/elements/exclude/testfields.php:139
+msgid "Icon Color"
+msgstr "رنگ شکلک"
+
+#: includes/elements/exclude/testfields.php:140
+msgid "Choose a color for icon"
+msgstr "رنگی برای شکلک انتخاب کنید"
+
+#: includes/elements/exclude/testimonial-item.php:18
+msgid "Auxin testimonial_item"
+msgstr "اکسین testimonial_item"
+
+#: includes/elements/exclude/testimonial-item.php:21
+msgid "This is will add testimonial_item element"
+msgstr "یک testimonial_item اضافه می کند."
+
+#: includes/elements/exclude/testimonial-item.php:77
+#: includes/elements/exclude/testimonial-slider.php:152
+msgid "Show author"
+msgstr "نمایش نویسنده"
+
+#: includes/elements/exclude/testimonial-item.php:92
+#: includes/elements/exclude/testimonial.php:107
+msgid "link"
+msgstr "پیوند"
+
+#: includes/elements/exclude/testimonial-item.php:104
+#: includes/elements/exclude/testimonial.php:119
+msgid "box"
+msgstr "جعبه"
+
+#: includes/elements/exclude/testimonial-item.php:107
+msgid "Select Testimonial"
+msgstr "انتخاب اظهار نظر"
+
+#: includes/elements/exclude/testimonial-item.php:231
+msgid "more .."
+msgstr "بیشتر .."
+
+#: includes/elements/exclude/testimonial-slider.php:18
+msgid "Auxin testimonial_slider"
+msgstr "اکسین testimonial_slider"
+
+#: includes/elements/exclude/testimonial-slider.php:21
+msgid "This is will add testimonial_slider element"
+msgstr "یک المان testimonial_slider اضافه می کند."
+
+#: includes/elements/exclude/testimonial-slider.php:62
+msgid "Number of testimonials"
+msgstr "تعداد اظهار نظرها"
+
+#: includes/elements/exclude/testimonial-slider.php:89
+#: includes/elements/exclude/testimonial-slider.php:104
+msgid "Category 1"
+msgstr "دسته 1"
+
+#: includes/elements/exclude/testimonial-slider.php:89
+#: includes/elements/exclude/testimonial-slider.php:104
+msgid "Category 2"
+msgstr "دسته 2"
+
+#: includes/elements/exclude/testimonial-slider.php:89
+#: includes/elements/exclude/testimonial-slider.php:104
+msgid "Category 3"
+msgstr "دسته 3"
+
+#: includes/elements/exclude/testimonial-slider.php:92
+msgid "Category"
+msgstr "دسته"
+
+#: includes/elements/exclude/testimonial-slider.php:107
+msgid "Select specific testimonials"
+msgstr "انتخاب اظهار نظرهای مشخص"
+
+#: includes/elements/exclude/testimonial-slider.php:119
+#: includes/elements/gallery.php:130
+#: includes/elements/latest-posts-slider.php:131
+#: includes/elements/popular-posts-widget.php:192
+#: includes/elements/recent-posts-grid-carousel.php:191
+#: includes/elements/recent-posts-land-style.php:192
+#: includes/elements/recent-posts-masonry.php:191
+#: includes/elements/recent-posts-tiles.php:197
+#: includes/elements/recent-posts-timeline.php:218
+#: includes/elements/recent-posts-widget.php:152
+msgid "Date"
+msgstr "تاریخ"
+
+#: includes/elements/exclude/testimonial-slider.php:119
+#: includes/elements/latest-posts-slider.php:135
+#: includes/elements/popular-posts-widget.php:196
+#: includes/elements/recent-posts-grid-carousel.php:195
+#: includes/elements/recent-posts-land-style.php:196
+#: includes/elements/recent-posts-masonry.php:195
+#: includes/elements/recent-posts-tiles.php:201
+#: includes/elements/recent-posts-timeline.php:222
+#: includes/elements/recent-posts-widget.php:156
+msgid "Random"
+msgstr "تصادفی"
+
+#: includes/elements/exclude/testimonial-slider.php:122
+#: includes/elements/latest-posts-slider.php:125
+#: includes/elements/popular-posts-widget.php:184
+#: includes/elements/recent-posts-grid-carousel.php:183
+#: includes/elements/recent-posts-land-style.php:184
+#: includes/elements/recent-posts-masonry.php:183
+#: includes/elements/recent-posts-tiles.php:189
+#: includes/elements/recent-posts-timeline.php:210
+#: includes/elements/recent-posts-widget.php:144
+msgid "Order by"
+msgstr "مرتب سازی بر اساس"
+
+#: includes/elements/exclude/testimonial-slider.php:134
+#: includes/elements/latest-posts-slider.php:156
+#: includes/elements/popular-posts-widget.php:217
+#: includes/elements/recent-posts-grid-carousel.php:216
+#: includes/elements/recent-posts-land-style.php:217
+#: includes/elements/recent-posts-masonry.php:216
+#: includes/elements/recent-posts-tiles.php:222
+#: includes/elements/recent-posts-timeline.php:243
+#: includes/elements/recent-posts-widget.php:177
+msgid "Ascending"
+msgstr "صعودی"
+
+#: includes/elements/exclude/testimonial-slider.php:134
+#: includes/elements/latest-posts-slider.php:155
+#: includes/elements/popular-posts-widget.php:216
+#: includes/elements/recent-posts-grid-carousel.php:215
+#: includes/elements/recent-posts-land-style.php:216
+#: includes/elements/recent-posts-masonry.php:215
+#: includes/elements/recent-posts-tiles.php:221
+#: includes/elements/recent-posts-timeline.php:242
+#: includes/elements/recent-posts-widget.php:176
+msgid "Descending"
+msgstr "نزولی"
+
+#: includes/elements/exclude/testimonial-slider.php:137
+#: includes/elements/gallery.php:102
+#: includes/elements/popular-posts-widget.php:208
+#: includes/elements/recent-posts-grid-carousel.php:207
+#: includes/elements/recent-posts-land-style.php:208
+#: includes/elements/recent-posts-masonry.php:207
+#: includes/elements/recent-posts-tiles.php:213
+#: includes/elements/recent-posts-timeline.php:234
+#: includes/elements/recent-posts-widget.php:168
+msgid "Order"
+msgstr "ترتیب"
+
+#: includes/elements/exclude/testimonial.php:18
+msgid "Auxin testimonial "
+msgstr "اکسین نظرات دیگران"
+
+#: includes/elements/exclude/testimonial.php:21
+msgid "This is will add testimonial element"
+msgstr ""
+
+#: includes/elements/exclude/testimonial.php:62
+msgid "author"
+msgstr "نویسنده"
+
+#: includes/elements/exclude/testimonial.php:77
+msgid "avatar"
+msgstr "آواتار"
+
+#: includes/elements/exclude/testimonial.php:92
+msgid "role"
+msgstr "نقش"
+
+#: includes/elements/exclude/testimonial.php:137
+msgid "refer"
+msgstr "refer"
+
+#: includes/elements/exclude/twitter-slider.php:18
+msgid "Auxin latest_tweets_slider "
+msgstr "اکسین latest_tweets_slider "
+
+#: includes/elements/exclude/twitter-slider.php:21
+#: includes/elements/exclude/twitter.php:21
+msgid "This is will add latest_tweets element"
+msgstr "یک المان add latest_tweets اضافه می کند."
+
+#: includes/elements/exclude/twitter-slider.php:47
+msgid "Number of tweets to fetch"
+msgstr "تعداد توییت ها برای استخراج"
+
+#: includes/elements/exclude/twitter-slider.php:62
+msgid "style type"
+msgstr "نوع ظاهر"
+
+#: includes/elements/exclude/twitter.php:18
+msgid "Auxin latest_tweets2 "
+msgstr "اکسین latest_tweets2 "
+
+#: includes/elements/exclude/twitter.php:62
+msgid "id"
+msgstr "شناسه"
+
+#: includes/elements/exclude/twitter.php:92
+msgid "limit"
+msgstr "محدودیت"
+
+#: includes/elements/exclude/twitter.php:107
+msgid "uid"
+msgstr "uid"
+
+#: includes/elements/facebook.php:11
+msgid "[Phlox] Custom Facebook Feed"
+msgstr "[فلوکس] خوراک فیسبوک سفارشی"
+
+#: includes/elements/facebook.php:14
+msgid "It uses Custom Facebook Feed plugin."
+msgstr "از افزونه خوراک دلخواه وردپرس استفاده می کند."
+
+#: includes/elements/facebook.php:38
+msgid "Page ID"
+msgstr "شناسه برگه"
+
+#: includes/elements/facebook.php:39
+#, php-format
+msgid ""
+"ID of your Facebook Page or Group. Use %sthis tool%s to help you in finding "
+"this."
+msgstr ""
+"شناسه صفحه یا گروه شما در فیسبوک. برای پیداکردن شناسه خود می توانید از %sاین "
+"ابزار%s استفاده کنید."
+
+#: includes/elements/facebook.php:53
+msgid "Page type"
+msgstr "نوع صفحه"
+
+#: includes/elements/facebook.php:54
+msgid "Specifies whether to display posts from a page or group."
+msgstr "مشخص می کند پست ها از یک صفحه یا گروه نمایش داده شوند."
+
+#: includes/elements/facebook.php:58
+msgid "Page"
+msgstr "صفحه"
+
+#: includes/elements/facebook.php:59
+msgid "Group"
+msgstr "گروه"
+
+#: includes/elements/facebook.php:71
+msgid "Number of posts"
+msgstr "تعداد نوشته ها"
+
+#: includes/elements/facebook.php:72
+msgid "The number of posts you wish to display."
+msgstr "تعداد پست هایی که می خواهید نمایش داده شوند."
+
+#: includes/elements/facebook.php:86
+msgid "Display posts by others"
+msgstr "نمایش پست هایی که دیگران نوشته اند"
+
+#: includes/elements/facebook.php:87
+msgid ""
+"Specifies to display posts by only the page owner, anyone who posts on your "
+"page, or only others who post on your page."
+msgstr ""
+"مشخص می کند فقط پست هایی که شما نوشته اید، هر پستی که در صفحه شما نوشته شده "
+"است، یا فقط پست هایی که دیگران در صفحه شما نوشته اند نمایش داده شود."
+
+#: includes/elements/facebook.php:91
+msgid "Only the page owner"
+msgstr "فقط صاحب برگه"
+
+#: includes/elements/facebook.php:92
+msgid "Page owner and other people"
+msgstr "صاحب برگه و دیگران"
+
+#: includes/elements/facebook.php:93
+msgid "Only other people"
+msgstr "فقط دیگران"
+
+#: includes/elements/facebook.php:105
+msgid "Post text length"
+msgstr "طول متن نوشته"
+
+#: includes/elements/facebook.php:106
+msgid "The maximum character length of the post text."
+msgstr "حداکثر تعداد کاراکترها در متن نوشته."
+
+#: includes/elements/facebook.php:118
+msgid "Display post author"
+msgstr "نمایش نویسنده نوشته"
+
+#: includes/elements/facebook.php:119
+msgid "Enable it to display name and avatar of the post author."
+msgstr "برای نمایش نام و آواتار نویسنده پست این گزینه را فعال کنید."
+
+#: includes/elements/facebook.php:131
+msgid "Display the feed header"
+msgstr "نمایش سربرگ خوراک"
+
+#: includes/elements/facebook.php:132
+msgid "Enable it to display a customizable header at the top of the feed."
+msgstr "برای نمایش سربرگ قابل شخصی سازی در بالای خوراک این گزینه را فعال کنید."
+
+#: includes/elements/facebook.php:144
+msgid "Ajax"
+msgstr "آیجکس"
+
+#: includes/elements/facebook.php:145
+msgid "Enable it for being loaded via Ajax."
+msgstr "برای بارگذاری محتوا به صورت ایجکسی این گزینه را فعال کنید."
+
+#: includes/elements/flickr.php:11
+msgid "[Phlox] Flickr Justified Gallery"
+msgstr "[فلوکس] گالری تصویر مرتب شده فلیکر"
+
+#: includes/elements/flickr.php:14
+msgid "It uses Flickr Justified Gallery plugin."
+msgstr "از افزونه گالری مرتب شده فلیکر استفاده می کند."
+
+#: includes/elements/flickr.php:38
+msgid "User ID"
+msgstr "شناسه کاربر"
+
+#: includes/elements/flickr.php:39
+#, php-format
+msgid ""
+"Displays the photostream of the specified user, no matter what is the "
+"default user ID in the settings. Remember that you can use %sidgettr%s to "
+"retrieve the user_id."
+msgstr ""
+"یک جریان تصویر از کاربر مشخص شده را نمایش می دهد، مهم نیست شناسه پیش فرض "
+"کاربر در تنظیمات چه چیزی باشد. به یاد داشته باشید می توانید از %sidgettr%s "
+"برای دستیابی به شناسه کاربر استفاده کنید."
+
+#: includes/elements/flickr.php:53
+msgid "Flickr image type"
+msgstr "نوع تصویر فلیکر"
+
+#: includes/elements/flickr.php:58
+msgid "Photostream"
+msgstr "جریان تصویر"
+
+#: includes/elements/flickr.php:59
+msgid "Galleries"
+msgstr "گالری ها"
+
+#: includes/elements/flickr.php:60
+msgid "Album"
+msgstr "آلبوم"
+
+#: includes/elements/flickr.php:61 includes/elements/flickr.php:110
+msgid "Group pools"
+msgstr "'v,i"
+
+#: includes/elements/flickr.php:62 includes/elements/flickr.php:128
+msgid "Tags"
+msgstr "برچسب ها"
+
+#: includes/elements/flickr.php:74
+msgid "Gallery ID"
+msgstr "شناسه گالری"
+
+#: includes/elements/flickr.php:75
+msgid ""
+"To show the photos of a particular gallery, you need to know its id. For "
+"example, the id of the gallery located in the URL: http://www.flickr.com/"
+"photos/miro-mannino/galleries/72157636382842016/ is: 72157636382842016"
+msgstr ""
+"برای نشان دادن تصاویر از یک گالری مشخص، نیاز است شناسه آن را بدانید. برای "
+"مثال، شناسه گالری در آدرس: http://www.flickr.com/photos/miro-mannino/"
+"galleries/72157636382842016 برابر است با : 72157636382842016"
+
+#: includes/elements/flickr.php:92
+msgid "Album ID"
+msgstr "شناسه آلبوم"
+
+#: includes/elements/flickr.php:93
+msgid ""
+"To show the photos of a particular photo set (also called \"album\"), you "
+"need to know its photoset_id. For example, the photoset_id of the photo set "
+"located in the URL: http://www.flickr.com/photos/miro-mannino/"
+"sets/72157629228993613/ is: 72157629228993613"
+msgstr ""
+"برای نمایش تصاویر از یک مجموعه تصویر مشخص (که \"آلبوم\" نامیده شده)،  نیاز "
+"است تا شناسه آلبوم را بدانید. برای مثال در آدرس: http://www.flickr.com/"
+"photos/miro-mannino/sets/72157629228993613 شناسه آلبوم برابر است با: "
+"72157629228993613"
+
+#: includes/elements/flickr.php:111
+#, php-format
+msgid ""
+"Display photos of a particular group pool, you need to know the group id, "
+"that you can retrieve using %sidgettr%s."
+msgstr ""
+"تصاویر از یک گروه خاص را نشان می دهد، نیاز است شناسه گروه را بدانید که می "
+"توانید از ابزار  %sidgettr%s برای دستیابی به آن استفاده کنید."
+
+#: includes/elements/flickr.php:129
+msgid ""
+"Display photos that have some particular tags, Seprate words with , for "
+"example: cat, square, nikon"
+msgstr ""
+"تصاویری از برچسب های مشخص را نشان می دهد که برچسب ها با کاما جدا می شوند. "
+"برای مثال: گربه، مربع، نیکون"
+
+#: includes/elements/flickr.php:146 includes/elements/gallery.php:186
+msgid "Lightbox"
+msgstr "لایت باکس"
+
+#: includes/elements/flickr.php:147
+msgid ""
+"In case of using Colorbox or Swipebox, you need to enable it on Flickr "
+"Justified Gallery plugin settings."
+msgstr ""
+"برای مواردی که م یخواهید از Colorbox یا Swipebox استفاده کنید، لازم است آن "
+"را در تنظیمات افزونه گالری مرتب شده فیلکر فعال کنید."
+
+#: includes/elements/flickr.php:152
+msgid "Colorbox"
+msgstr "جعبه رنگ"
+
+#: includes/elements/flickr.php:153
+msgid "Swipebox"
+msgstr "Swipebox"
+
+#: includes/elements/flickr.php:165
+msgid "Images height"
+msgstr "ارتفاع تصاویر"
+
+#: includes/elements/flickr.php:166
+msgid "You can use the this option to set images height in px."
+msgstr "بمی توانید از این تنظیمات برای تنظیم ارتفاع تصویر استفاده کنید."
+
+#: includes/elements/flickr.php:180
+msgid "Max number of photos"
+msgstr "بیشترین تعداد تصاویر"
+
+#: includes/elements/flickr.php:181
+msgid ""
+"Maximum number of photos. Please note if pagination option is activaited "
+"then this options is used as maximum number of photos per page."
+msgstr ""
+"بیشترین تعداد تصاویر. لطفا توجه کنید اگر تنظیمات صفحه بندی فعال باشد این "
+"تنظیمات نشانگر تعداد تصاویر در هر ثفحه خواهد بود."
+
+#: includes/elements/flickr.php:195
+msgid "Pagination"
+msgstr "صفحه بندی"
+
+#: includes/elements/flickr.php:201
+msgid "Previous and Next"
+msgstr "قبلی و بعدی"
+
+#: includes/elements/flickr.php:202
+msgid "Page Numbers"
+msgstr "شماره صفحات"
+
+#: includes/elements/flickr.php:214
+msgid "Fixed height"
+msgstr "ارتفاع ثابت"
+
+#: includes/elements/flickr.php:215
+msgid "Each row has the same height, but the images will be cut more."
+msgstr "همه ردیف ها ارتفاع یکسان دارند، اما  تصاویر بیشتر برش خورده می شوند."
+
+#: includes/elements/flickr.php:227
+msgid "Randomize images order"
+msgstr "ترتیب تصادفی برای تصاویر"
+
+#: includes/elements/flickr.php:240
+msgid "Margin between the images"
+msgstr "فاصله بیرونی بین تصاویر"
+
+#: includes/elements/flickr.php:241
+msgid "Specifies the space between images."
+msgstr "فضای خالی بین تصاویر را مشخص می کند."
+
+#: includes/elements/gallery.php:10
+msgid "[Phlox] Gallery"
+msgstr "[فلوکس] گالری"
+
+#: includes/elements/gallery.php:13
+msgid "Filterable and grid gallery with lightbox"
+msgstr "شبکه گالری قابل فیلترگذاری با لایت باکس"
+
+#: includes/elements/gallery.php:52
+#: public/templates/vcomposer/auxin_vc_extendes.php:42
+msgid "Images"
+msgstr "تصاویر"
+
+#: includes/elements/gallery.php:67
+msgid "Column number"
+msgstr "تعداد ستون"
+
+#: includes/elements/gallery.php:72
+msgid "1 Column"
+msgstr "1 ستون"
+
+#: includes/elements/gallery.php:73
+msgid "2 Columns"
+msgstr "2 ستون"
+
+#: includes/elements/gallery.php:74
+msgid "3 Columns"
+msgstr "3 ستون"
+
+#: includes/elements/gallery.php:75
+msgid "4 Columns"
+msgstr "4 ستون"
+
+#: includes/elements/gallery.php:76
+msgid "5 Columns"
+msgstr "5 ستون"
+
+#: includes/elements/gallery.php:77
+msgid "6 Columns"
+msgstr "6 ستون"
+
+#: includes/elements/gallery.php:89
+msgid "Order images by query"
+msgstr "مرتب سازی تصاویر بر اساس کوئری"
+
+#: includes/elements/gallery.php:103
+msgid "Order images ascending or descending"
+msgstr "مرتب سازی صعودی یا نزولی تصاویر"
+
+#: includes/elements/gallery.php:108
+msgid "ASC"
+msgstr "صعودی"
+
+#: includes/elements/gallery.php:123
+msgid "Order images by"
+msgstr "مرتب کردن تصاویر بر اساس"
+
+#: includes/elements/gallery.php:129
+#: includes/elements/latest-posts-slider.php:132
+#: includes/elements/popular-posts-widget.php:193
+#: includes/elements/recent-posts-grid-carousel.php:192
+#: includes/elements/recent-posts-land-style.php:193
+#: includes/elements/recent-posts-masonry.php:192
+#: includes/elements/recent-posts-tiles.php:198
+#: includes/elements/recent-posts-timeline.php:219
+#: includes/elements/recent-posts-widget.php:153
+msgid "Menu Order"
+msgstr "ترتیب فهرست"
+
+#: includes/elements/gallery.php:131
+#: includes/elements/latest-posts-slider.php:134
+#: includes/elements/popular-posts-widget.php:195
+#: includes/elements/recent-posts-grid-carousel.php:194
+#: includes/elements/recent-posts-land-style.php:195
+#: includes/elements/recent-posts-masonry.php:194
+#: includes/elements/recent-posts-tiles.php:200
+#: includes/elements/recent-posts-timeline.php:221
+#: includes/elements/recent-posts-widget.php:155
+msgid "ID"
+msgstr "شناسه"
+
+#: includes/elements/gallery.php:146
+msgid "Gallery layout"
+msgstr "چیدمان گالری"
+
+#: includes/elements/gallery.php:152
+#: public/templates/vcomposer/auxin_vc_extendes.php:35
+msgid "Grid"
+msgstr "شبکه"
+
+#: includes/elements/gallery.php:153
+#: public/templates/vcomposer/auxin_vc_extendes.php:32
+msgid "Masonry"
+msgstr "ساختمانی"
+
+#: includes/elements/gallery.php:165
+msgid "Space"
+msgstr "فضای خالی"
+
+#: includes/elements/gallery.php:166
+msgid "Space between gallery items in pixel."
+msgstr "فضای خالی بین تصاویر گالری بر حسب پیکسل"
+
+#: includes/elements/gallery.php:180
+msgid "Link images to"
+msgstr "لینک کردن تصاویر به"
+
+#: includes/elements/gallery.php:188
+msgid "Attachment Page"
+msgstr "صفحه پیوست"
+
+#: includes/elements/gallery.php:189
+msgid "File"
+msgstr "فایل"
+
+#: includes/elements/gallery.php:200
+#: public/templates/vcomposer/auxin_vc_extendes.php:49
+msgid "Image size"
+msgstr "اندازه تصویر"
+
+#: includes/elements/gallery.php:206
+msgid "Original"
+msgstr "اصلی"
+
+#: includes/elements/gallery.php:210
+msgid "Thumbnail"
+msgstr "بندانگشتی"
+
+#: includes/elements/gallery.php:221
+msgid "Enable pagination"
+msgstr "فعال سازی صفحه بندی"
+
+#: includes/elements/gallery.php:234
+msgid "Images per page"
+msgstr "تعداد عکس در صفحه"
+
+#: includes/elements/gmap.php:10
+msgid "[Phlox] Map "
+msgstr "[فلوکس] نقشه"
+
+#: includes/elements/gmap.php:13
+msgid "Google map block"
+msgstr "بلوک نقشه گوگل"
+
+#: includes/elements/gmap.php:34
+msgid "Map title, leave it empty if you don`t need title."
+msgstr "عنوان نقشه، اگر به عنوان نیازی ندارید این بخش را خالی بگذارید."
+
+#: includes/elements/gmap.php:47 includes/elements/image.php:98
+#: includes/elements/instagram-feed.php:186 includes/elements/video.php:91
+msgid "Height"
+msgstr "ارتفاع"
+
+#: includes/elements/gmap.php:108
+msgid ""
+"This feild allow you to customize the presentation of the standard Google "
+"base maps. You can find many preset styles in "
+msgstr ""
+"این فیلد به شما اجازه می دهد نحوه نمایش پایه ای نقشه گوگل را تغییر دهید. شما "
+"می توانید سبک های پیش ساخته را در اینجا پیدا کنید:"
+
+#: includes/elements/gmap.php:139
+msgid "Show navigation control on map."
+msgstr "نمایش کنترل های ناوبری در نقشه."
+
+#: includes/elements/highlight.php:10
+msgid "[Phlox] Highlight"
+msgstr "[فلوکس] برجسته"
+
+#: includes/elements/highlight.php:13
+msgid "Highlighted Text"
+msgstr "متن هایلایت شده"
+
+#: includes/elements/highlight.php:38
+msgid "The style of divider."
+msgstr "ظاهر جداکننده."
+
+#: includes/elements/highlight.php:51
+msgid "Red"
+msgstr "قرمز"
+
+#: includes/elements/highlight.php:56
+msgid "Blue"
+msgstr "آبی"
+
+#: includes/elements/highlight.php:61
+msgid "Yellow"
+msgstr "زرد"
+
+#: includes/elements/highlight.php:66
+msgid "Green"
+msgstr "سبز"
+
+#: includes/elements/highlight.php:74
+msgid "Enter the text to be highlighted."
+msgstr "متنی که می خواهید هایلایت شود را وارد کنید."
+
+#: includes/elements/image.php:10
+msgid "[Phlox] Image"
+msgstr "[فلوکس] تصویر"
+
+#: includes/elements/image.php:13
+msgid "Image with lightbox option"
+msgstr "تنظیمات تصویر با لایت باکس"
+
+#: includes/elements/image.php:38
+msgid "Image title, leave it empty if you don`t need title."
+msgstr "عنوان تصویر، اگر به عنوان نیازی ندارید این بخش را خالی بگذارید."
+
+#: includes/elements/image.php:67
+msgid "Image hover"
+msgstr "تصویر شناور"
+
+#: includes/elements/image.php:83 includes/elements/video.php:76
+msgid "Width"
+msgstr "عرض"
+
+#: includes/elements/image.php:114
+msgid "Image alignment in content."
+msgstr "تراز تصویر در محتوا."
+
+#: includes/elements/image.php:131
+msgid "Iconic button"
+msgstr "دکمه شکلک دار"
+
+#: includes/elements/image.php:150
+msgid "Open large image in lightbox"
+msgstr "بازشدن تصویر بزرگ در لایت باکس"
+
+#: includes/elements/image.php:165
+msgid "Link URL"
+msgstr "آدرس پیوند"
+
+#: includes/elements/image.php:183
+msgid "Target"
+msgstr "هدف"
+
+#: includes/elements/image.php:184
+msgid "Open in new page or this page."
+msgstr "در صفحه جدید یا در همین صفحه باز شود."
+
+#: includes/elements/image.php:189
+msgid "Self"
+msgstr "همین صفحه"
+
+#: includes/elements/image.php:190
+msgid "Blank"
+msgstr "خالی"
+
+#: includes/elements/instagram-feed.php:10
+msgid "[Phlox] instagram feed"
+msgstr "[فلوکس] خوراک اینستاگرام"
+
+#: includes/elements/instagram-feed.php:13
+msgid "It adds an instagram feed element."
+msgstr "یک المان خوراک اینستاگرام اضافه می کند."
+
+#: includes/elements/instagram-feed.php:38
+msgid "A title for instagram element"
+msgstr "عنوانی برای المان اینستاگرام"
+
+#: includes/elements/instagram-feed.php:51
+msgid "Instagram user ID"
+msgstr "شناسه کاربر اینستاگرام"
+
+#: includes/elements/instagram-feed.php:53
+#, php-format
+msgid ""
+"Instagram User ID. Separate multiple IDs by commas. You can find the User ID "
+"with %sthis tool%s."
+msgstr ""
+"شناسه کاربر اینستاگرام. شناسه ها را با کاما از هم جدا کنید. می توانید شناسه "
+"کاربر را با %sاین ابزار%s پیدا کنید."
+
+#: includes/elements/instagram-feed.php:70
+msgid "Number of photo"
+msgstr "تعداد عکس ها"
+
+#: includes/elements/instagram-feed.php:71
+msgid "Number of photos to display initially. Maximum is 33."
+msgstr "تعداد تصاویر برای نمایش اولیه. حداکثر 33."
+
+#: includes/elements/instagram-feed.php:85
+msgid "Resolution/size of the photos. "
+msgstr "رزولوشن/اندازه تصاویر."
+
+#: includes/elements/instagram-feed.php:91 includes/general-hooks.php:550
+msgid "Auto"
+msgstr "خودکار"
+
+#: includes/elements/instagram-feed.php:92
+msgid "Thumb"
+msgstr "بند انگشتی"
+
+#: includes/elements/instagram-feed.php:94
+msgid "Full"
+msgstr "کامل"
+
+#: includes/elements/instagram-feed.php:105
+msgid "Columns"
+msgstr "ستون ها"
+
+#: includes/elements/instagram-feed.php:106
+msgid "Number of columns in the feed. 1 - 10."
+msgstr "تعداد ستون ها در خوراک. 1 - 10"
+
+#: includes/elements/instagram-feed.php:120
+msgid "Spacing around the photos"
+msgstr "فضای خالی اطراف عکس"
+
+#: includes/elements/instagram-feed.php:135
+msgid "Unit of the spacing."
+msgstr "واحد فضای خالی"
+
+#: includes/elements/instagram-feed.php:141
+#: includes/elements/instagram-feed.php:207
+msgid "Percentage (%)"
+msgstr "درصد (%)"
+
+#: includes/elements/instagram-feed.php:142
+#: includes/elements/instagram-feed.php:208
+msgid "Pixels (px)"
+msgstr "پیکسل"
+
+#: includes/elements/instagram-feed.php:187
+msgid "The height of the feed"
+msgstr "ارتفاع خوراک"
+
+#: includes/elements/instagram-feed.php:201
+msgid "Unit of the height."
+msgstr "واحد ارتفاع."
+
+#: includes/elements/instagram-feed.php:234
+msgid "Show header"
+msgstr "نمایش سربرگ"
+
+#: includes/elements/instagram-feed.php:235
+msgid "Whether to show the feed header."
+msgstr "سربرگ خوراک نمایش داده شود یا خیر."
+
+#: includes/elements/instagram-feed.php:249
+msgid "Show follow button"
+msgstr "نمایش دکمه دنبال کردن"
+
+#: includes/elements/instagram-feed.php:250
+msgid "Whether to show the Follow on Instagram button."
+msgstr "دکمه دنبال کردن اینستاگرام نمایش داده شود یا خیر."
+
+#: includes/elements/instagram-feed.php:264
+msgid "Show load more button"
+msgstr "نمایش دکمه بارگذاری بیشتر"
+
+#: includes/elements/instagram-feed.php:265
+msgid " Whether to show the load more button."
+msgstr "دکمه نمایش بیشتر نشان داده شود یا نه."
+
+#: includes/elements/latest-items.php:12
+msgid "Auxin latest_items"
+msgstr "اکسین latest_items"
+
+#: includes/elements/latest-items.php:15
+msgid "This is will add latest_items element"
+msgstr "یک المان latest_items اضافه می کند."
+
+#: includes/elements/latest-items.php:53
+msgid "caption-over"
+msgstr "caption-over"
+
+#: includes/elements/latest-items.php:56
+msgid "mode type"
+msgstr "نوع حالت"
+
+#: includes/elements/latest-items.php:72
+msgid "attachment grid"
+msgstr "شبکه پیوست"
+
+#: includes/elements/latest-items.php:87
+msgid "attachment num"
+msgstr "شماره پیوست"
+
+#: includes/elements/latest-items.php:117
+msgid "attachment link"
+msgstr "لینک پیوست"
+
+#: includes/elements/latest-items.php:131
+msgid "posttype type"
+msgstr "نوع نوشته"
+
+#: includes/elements/latest-items.php:147
+msgid "attachment alt"
+msgstr "جایگزین پیوست"
+
+#: includes/elements/latest-items.php:161
+msgid "width"
+msgstr "عرض"
+
+#: includes/elements/latest-items.php:176
+msgid "view_excerpt ?"
+msgstr "view_excerpt ?"
+
+#: includes/elements/latest-items.php:191
+msgid "view_title ?"
+msgstr "view_title ?"
+
+#: includes/elements/latest-items.php:221
+msgid "section_index"
+msgstr "section_index"
+
+#: includes/elements/latest-items.php:222
+msgid "attachment section_index"
+msgstr "section_index پیوست"
+
+#: includes/elements/latest-items.php:237
+msgid "attachment paged"
+msgstr "پیوست صفحه بندی شده"
+
+#: includes/elements/latest-posts-slider.php:10
+msgid "[Phlox] Latest Posts Slider "
+msgstr "[فلوکس] اسلایدر آخرین نوشته ها"
+
+#: includes/elements/latest-posts-slider.php:13
+msgid "Slider for latest posts."
+msgstr "اسلایدر برای آخرین نوشته ها."
+
+#: includes/elements/latest-posts-slider.php:38
+msgid "Latest post slider title, leave it empty if you don`t need title."
+msgstr ""
+"عنوان اسلایدر آخرین نوشته ها، اگر به عنوان نیازی ندارید آن را خالی بگذارید."
+
+#: includes/elements/latest-posts-slider.php:51
+msgid "Create slides from"
+msgstr "ساخت اسلایدها از"
+
+#: includes/elements/latest-posts-slider.php:57
+msgid "Posts"
+msgstr "نوشته ها"
+
+#: includes/elements/latest-posts-slider.php:58
+msgid "Pages"
+msgstr "برگه ها"
+
+#: includes/elements/latest-posts-slider.php:69
+msgid "Slides number"
+msgstr "تعداد اسلایدها"
+
+#: includes/elements/latest-posts-slider.php:70
+msgid "Specifies maximum number of slides in slider."
+msgstr "بیشترین تعداد اسلاید در اسلایدر را مشخص می کند."
+
+#: includes/elements/latest-posts-slider.php:83
+#: includes/elements/recent-posts-grid-carousel.php:155
+#: includes/elements/recent-posts-land-style.php:156
+#: includes/elements/recent-posts-masonry.php:155
+#: includes/elements/recent-posts-tiles.php:161
+#: includes/elements/recent-posts-timeline.php:182
+msgid "Exclude posts"
+msgstr "نادیده گرفتن این نوشته ها"
+
+#: includes/elements/latest-posts-slider.php:84
+#: includes/elements/latest-posts-slider.php:98
+msgid "Post IDs separated by comma (eg. 53,34,87,25)."
+msgstr "شناسه نوشته ها که با کاما از هم جدا شده اند. (مثلا 53,34,87,25)."
+
+#: includes/elements/latest-posts-slider.php:97
+#: includes/elements/recent-posts-grid-carousel.php:169
+#: includes/elements/recent-posts-land-style.php:170
+#: includes/elements/recent-posts-masonry.php:169
+#: includes/elements/recent-posts-tiles.php:175
+#: includes/elements/recent-posts-timeline.php:196
+msgid "Include posts"
+msgstr "شامل شدن این نوشته ها"
+
+#: includes/elements/latest-posts-slider.php:111
+#: includes/elements/recent-posts-grid-carousel.php:225
+#: includes/elements/recent-posts-land-style.php:226
+#: includes/elements/recent-posts-masonry.php:225
+#: includes/elements/recent-posts-tiles.php:232
+#: includes/elements/recent-posts-timeline.php:252
+msgid "Start offset"
+msgstr "پرش از ابتدا"
+
+#: includes/elements/latest-posts-slider.php:112
+#: includes/elements/recent-posts-grid-carousel.php:226
+#: includes/elements/recent-posts-land-style.php:227
+#: includes/elements/recent-posts-masonry.php:226
+#: includes/elements/recent-posts-tiles.php:233
+#: includes/elements/recent-posts-timeline.php:253
+msgid "Number of post to displace or pass over."
+msgstr "تعداد نوشته هایی که باید از آن ها عبور کرد یا آن ها را نادیده گرفت."
+
+#: includes/elements/latest-posts-slider.php:136
+#: includes/elements/popular-posts-widget.php:197
+#: includes/elements/recent-posts-grid-carousel.php:196
+#: includes/elements/recent-posts-land-style.php:197
+#: includes/elements/recent-posts-masonry.php:196
+#: includes/elements/recent-posts-tiles.php:202
+#: includes/elements/recent-posts-timeline.php:223
+#: includes/elements/recent-posts-widget.php:157
+msgid "Comments"
+msgstr "دیدگاه ها"
+
+#: includes/elements/latest-posts-slider.php:137
+#: includes/elements/popular-posts-widget.php:198
+#: includes/elements/recent-posts-grid-carousel.php:197
+#: includes/elements/recent-posts-land-style.php:198
+#: includes/elements/recent-posts-masonry.php:197
+#: includes/elements/recent-posts-tiles.php:203
+#: includes/elements/recent-posts-timeline.php:224
+#: includes/elements/recent-posts-widget.php:158
+msgid "Date Modified"
+msgstr "تاریخ ویرایش"
+
+#: includes/elements/latest-posts-slider.php:138
+#: includes/elements/popular-posts-widget.php:199
+#: includes/elements/recent-posts-grid-carousel.php:198
+#: includes/elements/recent-posts-land-style.php:199
+#: includes/elements/recent-posts-masonry.php:198
+#: includes/elements/recent-posts-tiles.php:204
+#: includes/elements/recent-posts-timeline.php:225
+#: includes/elements/recent-posts-widget.php:159
+msgid "Author"
+msgstr "نویسنده"
+
+#: includes/elements/latest-posts-slider.php:149
+msgid "Order direction"
+msgstr "جهت مرتب سازی"
+
+#: includes/elements/latest-posts-slider.php:167
+msgid "Slider skin"
+msgstr "نمای اسلایدر"
+
+#: includes/elements/latest-posts-slider.php:173
+msgid "Light and boxed"
+msgstr "جعبه ای روشن"
+
+#: includes/elements/latest-posts-slider.php:174
+msgid "Dark and boxed"
+msgstr "جعبه ای تیره"
+
+#: includes/elements/latest-posts-slider.php:175
+msgid "Light overlay"
+msgstr "روکش روشن"
+
+#: includes/elements/latest-posts-slider.php:176
+msgid "Dark overlay"
+msgstr "روکش تیره"
+
+#: includes/elements/latest-posts-slider.php:187
+#: includes/elements/recent-posts-tiles.php:272
+msgid "Insert post title"
+msgstr "افزودن عنوان نوشته"
+
+#: includes/elements/latest-posts-slider.php:200
+#: includes/elements/recent-posts-tiles.php:286
+msgid "Insert post meta"
+msgstr "افزودن متای نوشته"
+
+#: includes/elements/latest-posts-slider.php:217
+msgid "Grab the image from"
+msgstr "گرفتن تصویر از"
+
+#: includes/elements/latest-posts-slider.php:223
+msgid "Auto select"
+msgstr "انتخاب خودکار"
+
+#: includes/elements/latest-posts-slider.php:224
+msgid "Featured image"
+msgstr "تصویر شاخص"
+
+#: includes/elements/latest-posts-slider.php:225
+msgid "First image in post"
+msgstr "اولین تصویر در نوشته"
+
+#: includes/elements/latest-posts-slider.php:226
+msgid "Custom image"
+msgstr "تصویر دلخواه"
+
+#: includes/elements/latest-posts-slider.php:253
+msgid "Exclude posts without image"
+msgstr "نادیده گرفتن نوشته های بدون تصویر"
+
+#: includes/elements/latest-posts-slider.php:268
+msgid "Slider image width"
+msgstr "عرض تصویر اسلایدر"
+
+#: includes/elements/latest-posts-slider.php:281
+msgid "Slider image height"
+msgstr "ارتفاع تصویر اسلایدر"
+
+#: includes/elements/latest-posts-slider.php:294
+msgid "Arrow navigation"
+msgstr "فلش های ناوبری"
+
+#: includes/elements/latest-posts-slider.php:307
+msgid "Space between slides"
+msgstr "فاصله بین اسلایدها"
+
+#: includes/elements/latest-posts-slider.php:320
+msgid "Looped navigation"
+msgstr "ناوبری چرخه ای"
+
+#: includes/elements/latest-posts-slider.php:333
+msgid "Slideshow"
+msgstr "اسلایدشو"
+
+#: includes/elements/latest-posts-slider.php:346
+msgid "Slideshow delay in seconds"
+msgstr "تاخیر اسلایدشو بر حسب ثانیه"
+
+#: includes/elements/latest-posts-slider.php:495
+msgid "View all posts in "
+msgstr "نمایش همه نوشته ها در"
+
+#: includes/elements/popular-posts-widget.php:11
+#: includes/elements/recent-posts-grid-carousel.php:11
+#: includes/elements/recent-posts-land-style.php:11
+#: includes/elements/recent-posts-masonry.php:11
+#: includes/elements/recent-posts-tiles.php:11
+#: includes/elements/recent-posts-timeline.php:11
+#: includes/elements/recent-posts-widget.php:11
+msgid "All Categories"
+msgstr "همه دسته ها"
+
+#: includes/elements/popular-posts-widget.php:18
+msgid "[Phlox] Popular Posts Widget"
+msgstr "[فلوکس] ابزارک مطالب محبوب"
+
+#: includes/elements/popular-posts-widget.php:21
+msgid "Shows popular and most commented posts with thumbnail."
+msgstr "نمایش مطالب محبوب و بیشتر بحث شده به همراه تصویر بندانگشتی"
+
+#: includes/elements/popular-posts-widget.php:60
+#: includes/elements/recent-posts-grid-carousel.php:99
+#: includes/elements/recent-posts-land-style.php:100
+#: includes/elements/recent-posts-masonry.php:99
+#: includes/elements/recent-posts-tiles.php:101
+#: includes/elements/recent-posts-timeline.php:126
+#: includes/elements/recent-posts-widget.php:66
+msgid "Number of posts to show"
+msgstr "تعداد نوشته ها برای نمایش"
+
+#: includes/elements/popular-posts-widget.php:81
+msgid "Display popular tab"
+msgstr "نمایش زبانه محبوب ها"
+
+#: includes/elements/popular-posts-widget.php:82
+msgid "Enable it to display the most popular posts."
+msgstr "برای نمایش نوشته های محبوب این گزینه را فعال کنید."
+
+#: includes/elements/popular-posts-widget.php:96
+msgid "Display recent tab"
+msgstr "نمایش زبانه مطالب اخیر"
+
+#: includes/elements/popular-posts-widget.php:97
+msgid "Enable it to display the most recent posts."
+msgstr "برای نمایش مطالب اخیر این گزینه را فعال کنید."
+
+#: includes/elements/popular-posts-widget.php:111
+msgid "Display comment tab"
+msgstr "نمایش زبانه دیدگاه ها"
+
+#: includes/elements/popular-posts-widget.php:112
+msgid "Enable it to display the most commented posts."
+msgstr "برای نمایش نوشته های بیشتر بحث شده این گزینه را فعال کنید."
+
+#: includes/elements/popular-posts-widget.php:126
+#: includes/elements/recent-posts-widget.php:86
+msgid "Display image"
+msgstr "نمایش تصویر"
+
+#: includes/elements/popular-posts-widget.php:127
+#: includes/elements/recent-posts-widget.php:87
+msgid "Enable it to display images as well."
+msgstr "همچنین برای نمایش تصاویر این گزینه را فعال کنید."
+
+#: includes/elements/popular-posts-widget.php:141
+#: includes/elements/recent-posts-widget.php:101
+msgid "Display excerpt"
+msgstr "نمایش خلاصه"
+
+#: includes/elements/popular-posts-widget.php:142
+#: includes/elements/recent-posts-widget.php:102
+msgid "Enable it to display post summary instead of full content."
+msgstr "برای نمایش خلاصه نوشته به جای محتوای کامل این گزینه را فعال کنید."
+
+#: includes/elements/popular-posts-widget.php:156
+#: includes/elements/recent-posts-widget.php:116
+msgid "Display post date"
+msgstr "نمایش تاریخ نوشته"
+
+#: includes/elements/popular-posts-widget.php:171
+#: includes/elements/recent-posts-widget.php:131
+msgid "Specify summary content in character"
+msgstr "محتوای خلاصه مطلب را بر حسب کاراکتر مشخص می کند."
+
+#: includes/elements/popular-posts-widget.php:231
+#: includes/elements/recent-posts-grid-carousel.php:84
+#: includes/elements/recent-posts-land-style.php:85
+#: includes/elements/recent-posts-masonry.php:84
+#: includes/elements/recent-posts-tiles.php:85
+#: includes/elements/recent-posts-timeline.php:111
+msgid "Categories"
+msgstr "دسته ها"
+
+#: includes/elements/popular-posts-widget.php:232
+msgid "specify a categories that you want."
+msgstr "دسته بندی های مورد نظر شما را مشخص می کند."
+
+#: includes/elements/popular-posts-widget.php:382
+msgid "Popular"
+msgstr "محبوب"
+
+#: includes/elements/popular-posts-widget.php:383
+msgid "Recent"
+msgstr "اخیر"
+
+#: includes/elements/popular-posts-widget.php:384
+msgid "Comment"
+msgstr "دیدگاه"
+
+#: includes/elements/quote.php:10
+msgid "[Phlox] Quote"
+msgstr "[فلوکس] نقل قول"
+
+#: includes/elements/quote.php:13
+msgid "Blockquote and introduction paragraph"
+msgstr "نقل قول و پاراگراف مقدمه"
+
+#: includes/elements/quote.php:37
+msgid "Quote title, leave it empty if you don`t need title."
+msgstr "عنوان نقل قول، اگر به عنوان نیازی ندارید این بخش را خالی بگذارید."
+
+#: includes/elements/quote.php:50
+msgid "Quote text"
+msgstr "متن نقل قول"
+
+#: includes/elements/quote.php:51
+msgid "Enter a text as a quote."
+msgstr "متنی را به عنوان نقل قول وارد کنید."
+
+#: includes/elements/quote.php:65
+msgid "Blockqoute style"
+msgstr "ظاهر نقل قول"
+
+#: includes/elements/quote.php:72
+msgid "Quote Normal"
+msgstr "نقل قول معمولی"
+
+#: includes/elements/quote.php:76
+msgid "Blockquote Normal"
+msgstr "بلوک نقل قول معمولی"
+
+#: includes/elements/quote.php:80
+msgid "Blockquote Bordered"
+msgstr "بلوک نقل قول کادربندی شده"
+
+#: includes/elements/quote.php:84
+msgid "Intro"
+msgstr "مقدمه"
+
+#: includes/elements/quote.php:88
+msgid "Intro Hero"
+msgstr "مقدمه بزرگ"
+
+#: includes/elements/quote.php:92
+msgid "Intro with Splitter"
+msgstr "مقدمه با جداکننده"
+
+#: includes/elements/quote.php:96
+msgid "Pullquote Normal"
+msgstr "نقل قول معلق معمولی"
+
+#: includes/elements/quote.php:100
+msgid "Pullquote Colorized"
+msgstr "نقل قول معلق رنگی"
+
+#: includes/elements/quote.php:113 includes/elements/text.php:69
+msgid "Text align"
+msgstr "تراز متن"
+
+#: includes/elements/quote.php:152
+msgid "Insert quote symbol"
+msgstr "افزودن نماد نقل قول"
+
+#: includes/elements/recent-posts-grid-carousel.php:24
+msgid "[Phlox] Grid & Carousel Recent Posts"
+msgstr "[فلوکس] شبکه و گردونه نوشته های اخیر"
+
+#: includes/elements/recent-posts-grid-carousel.php:27
+msgid "It adds recent posts in grid or carousel mode."
+msgstr "مطالب اخیر را در حالت شبکه یا گردونه اضافه می کند."
+
+#: includes/elements/recent-posts-grid-carousel.php:52
+#: includes/elements/recent-posts-land-style.php:52
+#: includes/elements/recent-posts-masonry.php:52
+#: includes/elements/recent-posts-tiles.php:52
+#: includes/elements/recent-posts-timeline.php:52
+msgid "Recent post title, leave it empty if you don`t need title."
+msgstr "عنوان مطالب اخیر، اگر به عنوان نیازی ندارید این بخش را خالی بگذارید."
+
+#: includes/elements/recent-posts-grid-carousel.php:85
+#: includes/elements/recent-posts-land-style.php:86
+#: includes/elements/recent-posts-masonry.php:85
+#: includes/elements/recent-posts-tiles.php:86
+#: includes/elements/recent-posts-timeline.php:112
+msgid "Specifies a category that you want to show posts from it."
+msgstr "دسته ای که می خواهید نوشته ها از آن نشان داده شوند را مشخص کنید."
+
+#: includes/elements/recent-posts-grid-carousel.php:113
+#: includes/elements/recent-posts-land-style.php:114
+#: includes/elements/recent-posts-masonry.php:113
+#: includes/elements/recent-posts-tiles.php:116
+#: includes/elements/recent-posts-timeline.php:140
+msgid "Exclude posts without media"
+msgstr "نادیده گرفتن نوشته های بدون رسانه"
+
+#: includes/elements/recent-posts-grid-carousel.php:126
+#: includes/elements/recent-posts-land-style.php:127
+#: includes/elements/recent-posts-masonry.php:126
+#: includes/elements/recent-posts-tiles.php:130
+#: includes/elements/recent-posts-timeline.php:153
+msgid "Exclude custom post formats"
+msgstr "نادیده گرفتن فرمت های سفارشی نوشته"
+
+#: includes/elements/recent-posts-grid-carousel.php:139
+#: includes/elements/recent-posts-land-style.php:140
+#: includes/elements/recent-posts-masonry.php:139
+#: includes/elements/recent-posts-tiles.php:144
+#: includes/elements/recent-posts-timeline.php:166
+msgid "Exclude qoute and link post formats"
+msgstr "نادیده گرفتن نوشته های سبک نقل قول و لینک"
+
+#: includes/elements/recent-posts-grid-carousel.php:156
+#: includes/elements/recent-posts-grid-carousel.php:170
+#: includes/elements/recent-posts-land-style.php:157
+#: includes/elements/recent-posts-land-style.php:171
+#: includes/elements/recent-posts-masonry.php:156
+#: includes/elements/recent-posts-masonry.php:170
+#: includes/elements/recent-posts-tiles.php:162
+#: includes/elements/recent-posts-tiles.php:176
+#: includes/elements/recent-posts-timeline.php:183
+#: includes/elements/recent-posts-timeline.php:197
+msgid "Post IDs separated by comma (eg. 53,34,87,25)"
+msgstr "شناسه نوشته ها که با کاما از هم جدا شده اند. (مثلا 53,34,87,25)."
+
+#: includes/elements/recent-posts-grid-carousel.php:239
+#: includes/elements/recent-posts-land-style.php:240
+#: includes/elements/recent-posts-land-style.php:274
+#: includes/elements/recent-posts-timeline.php:266
+msgid "Image aspect ratio"
+msgstr "نسبت ابعاد تصویر"
+
+#: includes/elements/recent-posts-grid-carousel.php:247
+#: includes/elements/recent-posts-land-style.php:248
+#: includes/elements/recent-posts-land-style.php:282
+#: includes/elements/recent-posts-timeline.php:274
+msgid "Horizontal 4:3"
+msgstr "افقی 4:3"
+
+#: includes/elements/recent-posts-grid-carousel.php:248
+#: includes/elements/recent-posts-land-style.php:249
+#: includes/elements/recent-posts-land-style.php:283
+#: includes/elements/recent-posts-timeline.php:275
+msgid "Horizontal 16:9"
+msgstr "افقی 16:9"
+
+#: includes/elements/recent-posts-grid-carousel.php:249
+#: includes/elements/recent-posts-land-style.php:250
+#: includes/elements/recent-posts-land-style.php:284
+#: includes/elements/recent-posts-timeline.php:276
+msgid "Square 1:1"
+msgstr "مربع 1:1"
+
+#: includes/elements/recent-posts-grid-carousel.php:250
+#: includes/elements/recent-posts-land-style.php:251
+#: includes/elements/recent-posts-land-style.php:285
+#: includes/elements/recent-posts-timeline.php:277
+msgid "Vertical 3:4"
+msgstr "عمودی 3:4"
+
+#: includes/elements/recent-posts-grid-carousel.php:259
+#: includes/elements/recent-posts-land-style.php:260
+#: includes/elements/recent-posts-masonry.php:260
+#: includes/elements/recent-posts-timeline.php:286
+msgid "Display post media (image, video, etc)"
+msgstr "نمایش رسانه های نوشته (تصویر، ویدیو، غیره)"
+
+#: includes/elements/recent-posts-grid-carousel.php:273
+#: includes/elements/recent-posts-land-style.php:294
+#: includes/elements/recent-posts-masonry.php:274
+#: includes/elements/recent-posts-timeline.php:300
+msgid "Display post title"
+msgstr "نمایش عنوان پست"
+
+#: includes/elements/recent-posts-grid-carousel.php:286
+#: includes/elements/recent-posts-land-style.php:307
+#: includes/elements/recent-posts-masonry.php:287
+#: includes/elements/recent-posts-timeline.php:313
+msgid "Display post meta"
+msgstr "نمایش متای پست"
+
+#: includes/elements/recent-posts-grid-carousel.php:298
+#: includes/elements/recent-posts-land-style.php:319
+#: includes/elements/recent-posts-masonry.php:299
+#: includes/elements/recent-posts-timeline.php:325
+msgid "Display like button"
+msgstr "نمایش دکمه لایک"
+
+#: includes/elements/recent-posts-grid-carousel.php:299
+#: includes/elements/recent-posts-land-style.php:320
+#: includes/elements/recent-posts-masonry.php:300
+#: includes/elements/recent-posts-timeline.php:326
+#, php-format
+msgid ""
+"Enable it to display %s like button%s on gride template blog. Please note WP "
+"Ulike plugin needs to be activaited to use this option."
+msgstr ""
+"برای نمایش %s دکمه لایک %s در نوشته های بلاگ این گزینه را فعال کنید. لطفا "
+"توجه کنید که افزونه WP Ulike برای عمل کردن این بخش باید فعال باشد."
+
+#: includes/elements/recent-posts-grid-carousel.php:312
+msgid "Content layout"
+msgstr "چیدمان محتوا"
+
+#: includes/elements/recent-posts-grid-carousel.php:313
+msgid "Specifies the style of content for each post column."
+msgstr "ظاهر محتوا برای هر ستون از نوشته ها مشخص می کند."
+
+#: includes/elements/recent-posts-grid-carousel.php:320
+msgid "Full Content"
+msgstr "محتوای کامل"
+
+#: includes/elements/recent-posts-grid-carousel.php:321
+msgid "Boxed Content"
+msgstr "محتوای جعبه ای"
+
+#: includes/elements/recent-posts-grid-carousel.php:331
+#: includes/elements/recent-posts-land-style.php:334
+#: includes/elements/recent-posts-masonry.php:314
+#: includes/elements/recent-posts-timeline.php:340
+msgid "Specify summary content in character."
+msgstr "خلاصه نوشته را برحسب کاراکتر مشخص می کند."
+
+#: includes/elements/recent-posts-grid-carousel.php:344
+#: includes/elements/recent-posts-land-style.php:350
+#: includes/elements/recent-posts-masonry.php:327
+#: includes/elements/recent-posts-timeline.php:356
+msgid "Display author or read more"
+msgstr "نمایش نویسنده یا ادامه نوشته"
+
+#: includes/elements/recent-posts-grid-carousel.php:345
+#: includes/elements/recent-posts-land-style.php:351
+#: includes/elements/recent-posts-masonry.php:328
+#: includes/elements/recent-posts-timeline.php:357
+msgid "Specifies whether to show author or read more on each post."
+msgstr "مشخص می کند نویسنده یا بیشتر بخوانید در هر نوشته نشان داده شود یا خیر."
+
+#: includes/elements/recent-posts-grid-carousel.php:352
+#: includes/elements/recent-posts-land-style.php:358
+#: includes/elements/recent-posts-masonry.php:335
+#: includes/elements/recent-posts-timeline.php:364
+msgid "Read More"
+msgstr "بیشتر بخوانید"
+
+#: includes/elements/recent-posts-grid-carousel.php:353
+#: includes/elements/recent-posts-land-style.php:359
+#: includes/elements/recent-posts-masonry.php:336
+#: includes/elements/recent-posts-timeline.php:365
+msgid "Author Name"
+msgstr "نام نویسنده"
+
+#: includes/elements/recent-posts-grid-carousel.php:362
+#: includes/elements/recent-posts-masonry.php:345
+msgid "Number of columns"
+msgstr "تعداد ستون ها"
+
+#: includes/elements/recent-posts-grid-carousel.php:380
+#: includes/elements/recent-posts-masonry.php:363
+msgid "Number of columns in tablet size"
+msgstr "تعداد ستون ها در تبلت"
+
+#: includes/elements/recent-posts-grid-carousel.php:399
+#: includes/elements/recent-posts-masonry.php:382
+msgid "Number of columns in phone size"
+msgstr "تعداد ستون ها در موبایل"
+
+#: includes/elements/recent-posts-grid-carousel.php:417
+msgid "Display items in"
+msgstr "نمایش آیتم ها در"
+
+#: includes/elements/recent-posts-grid-carousel.php:436
+msgid "Column space"
+msgstr "فضای بین ستون ها"
+
+#: includes/elements/recent-posts-grid-carousel.php:437
+msgid "Specifies space between carousel columns in pixels."
+msgstr "فضای خالی بین ستون های گردونه را بر حسب پیکسل مشخص می کند."
+
+#: includes/elements/recent-posts-grid-carousel.php:453
+msgid "Navigation type"
+msgstr "نوع ناوبری"
+
+#: includes/elements/recent-posts-grid-carousel.php:461
+msgid "Move per column"
+msgstr "حرکت در هر ستون"
+
+#: includes/elements/recent-posts-grid-carousel.php:462
+msgid "Move per page"
+msgstr "حرکت در هر صفحه"
+
+#: includes/elements/recent-posts-grid-carousel.php:463
+msgid "Smooth scroll"
+msgstr "اسکرول آرام"
+
+#: includes/elements/recent-posts-grid-carousel.php:483
+msgid "Arrows"
+msgstr "فلش ها"
+
+#: includes/elements/recent-posts-grid-carousel.php:484
+msgid "Bullets"
+msgstr "گلوله ها"
+
+#: includes/elements/recent-posts-grid-carousel.php:496
+msgid "Loop navigation"
+msgstr "ناوبری چرخه ای"
+
+#: includes/elements/recent-posts-grid-carousel.php:511
+msgid "Autoplay carousel"
+msgstr "نمایش خودکار گردونه"
+
+#: includes/elements/recent-posts-grid-carousel.php:527
+msgid "Autoplay delay"
+msgstr "تاخیر شروع خودکار"
+
+#: includes/elements/recent-posts-grid-carousel.php:528
+msgid "Specifies the delay between auto-forwarding in seconds."
+msgstr "تاخیر بین حرکت های رو به جلو را بر حسب ثانیه مشخص می کند."
+
+#: includes/elements/recent-posts-grid-carousel.php:843
+msgid "Action handler not found."
+msgstr "اقدام کننده عملیات یافت نشد."
+
+#: includes/elements/recent-posts-grid-carousel.php:845
+msgid "Authorization failed."
+msgstr "احراز هویت با خطا مواجه شد."
+
+#: includes/elements/recent-posts-land-style.php:24
+msgid "[Phlox] Land Style Recent Posts"
+msgstr "[فلوکس] مطالب اخیر سبک زمین"
+
+#: includes/elements/recent-posts-land-style.php:27
+msgid "It adds recent posts in land style."
+msgstr "مطالب اخیر به سبک زمین را اضافه می کند."
+
+#: includes/elements/recent-posts-masonry.php:24
+msgid "[Phlox] Masonry Recent Posts"
+msgstr "[فلوکس] مطالب اخیر ساختمانی"
+
+#: includes/elements/recent-posts-masonry.php:27
+msgid "It adds recent posts in masonry style."
+msgstr "مطالب اخیر به سبک ساختمانی را اضافه می کند."
+
+#: includes/elements/recent-posts-tiles.php:24
+msgid "[Phlox] Tiles Recent Posts"
+msgstr "[فلوکس] مطالب اخیر کاشی وار"
+
+#: includes/elements/recent-posts-tiles.php:27
+msgid "It adds recent posts in tiles style."
+msgstr "مطالب اخیر را به سبک کاشی اضافه می کند."
+
+#: includes/elements/recent-posts-tiles.php:247
+msgid "Post tile style"
+msgstr "ظاهر کاشی مطالب"
+
+#: includes/elements/recent-posts-tiles.php:261
+msgid "Standard"
+msgstr "استاندارد"
+
+#: includes/elements/recent-posts-timeline.php:24
+msgid "[Phlox] Timeline Recent Posts"
+msgstr "[فلوکس] خط زمانی مطالب اخیر"
+
+#: includes/elements/recent-posts-timeline.php:27
+msgid "It adds recent posts in timeline style."
+msgstr "مطالب اخیر به سبک خط زمانی را اضافه می کند."
+
+#: includes/elements/recent-posts-timeline.php:66
+msgid "Timeline aignment"
+msgstr "تراز خط زمان"
+
+#: includes/elements/recent-posts-timeline.php:67
+msgid "Specifies the alignment of timeline element."
+msgstr "تراز المان خط زمانی را مشخص می کند."
+
+#: includes/elements/recent-posts-widget.php:24
+msgid "[Phlox] Recent Posts Widget"
+msgstr "[فلوکس] ابزارک مطالب اخیر"
+
+#: includes/elements/recent-posts-widget.php:27
+msgid "Shows recent posts with thumbnail."
+msgstr "مطالب اخیر به همراه تصویر بندانگشتی را نشان می دهد."
+
+#: includes/elements/recent-posts-widget.php:186
+msgid "Categorie"
+msgstr "دسته"
+
+#: includes/elements/recent-posts-widget.php:187
+msgid "Specify a category that you want."
+msgstr "دسته ی مورد نظر خود را مشخص کنید."
+
+#: includes/elements/sample-element.php:12
+msgid "Auxin Callout "
+msgstr "اکسین فراخوان"
+
+#: includes/elements/search.php:9
+msgid "[Phlox] Search"
+msgstr "[فلوکس] جستجو"
+
+#: includes/elements/search.php:12
+msgid "Fancy search field"
+msgstr "فیلد جستجوی فانتزی"
+
+#: includes/elements/search.php:37
+msgid "Search title, leave it empty if you don`t need title."
+msgstr "عنوان جستجو، اگر به عناون نیازی ندارید این بخش را خالی بگذارید."
+
+#: includes/elements/socials-list.php:10
+msgid "[Phlox] Socials"
+msgstr "[فلوکس] شبکه های اجتماعی"
+
+#: includes/elements/socials-list.php:13
+msgid ""
+"It shows the website socials icons which you can configure it by the "
+"customizer."
+msgstr ""
+"شکلک های شبکه های اجتماعی را نشان می دهد که می توانید در شخصی ساز آن ها را "
+"تنظیم کنید."
+
+#: includes/elements/socials-list.php:38
+msgid "Socials title, leave it empty if you don`t need title."
+msgstr ""
+"عنوان شبکه های اجتماعی، اگر به عنوان نیازی ندارید این بخش را خالی بگذارید."
+
+#: includes/elements/socials-list.php:52
+msgid "Size of social icons"
+msgstr "اندازه شکلک های شبکه های اجتماعی"
+
+#: includes/elements/socials-list.php:61
+msgid "Extra large"
+msgstr "خیلی بزرگ"
+
+#: includes/elements/socials-list.php:72
+msgid "Directon of socials list"
+msgstr "جهت لیست شبکه های اجتماعی"
+
+#: includes/elements/socials-list.php:78
+msgid "Horizontal"
+msgstr "افقی"
+
+#: includes/elements/socials-list.php:79
+msgid "Vertical"
+msgstr "عمودی"
+
+#: includes/elements/tabs.php:49
+msgid "Choose between bordered style and no border."
+msgstr "بین ظاهر کادر بندی شده و بدون کادر یکی را انتخاب کنید."
+
+#: includes/elements/tabs.php:56
+msgid "Bordered"
+msgstr "کادربندی شده"
+
+#: includes/elements/tabs.php:57
+msgid "No border"
+msgstr "بدون کادر"
+
+#: includes/elements/tabs.php:66
+msgid "Tab label"
+msgstr "برچسب زبانه"
+
+#: includes/elements/tabs.php:67
+msgid "Enter your tab item label."
+msgstr "برچسب آیتم زبانه را وارد کنید."
+
+#: includes/elements/tabs.php:69 includes/elements/tabs.php:87
+msgid "Tabs"
+msgstr "زبانه ها"
+
+#: includes/elements/tabs.php:70
+msgid "Tabs Section"
+msgstr "بخش زبانه ها"
+
+#: includes/elements/tabs.php:84
+msgid "Enter your tab item content."
+msgstr "محتوای آیتم زبانه را وارد کنید."
+
+#: includes/elements/tabs.php:86
+msgid "Tabs section"
+msgstr "بخش زبانه ها"
+
+#: includes/elements/text.php:10
+msgid "[Phlox] Text"
+msgstr "[فلوکس] متن"
+
+#: includes/elements/text.php:13
+msgid "Simple text block."
+msgstr "بلوک متنی سادذه."
+
+#: includes/elements/text.php:39
+msgid "Text title, leave it empty if you don`t need title."
+msgstr "عناون متن، اگر به عنوان نیاز ندارید این بخش را خالی بگذارید."
+
+#: includes/elements/text.php:54
+msgid "Title link"
+msgstr "لینک عنوان"
+
+#: includes/elements/text.php:76
+msgid "Theme Default"
+msgstr "پیشفرض پوسته"
+
+#: includes/elements/text.php:101
+msgid "Text color scheme"
+msgstr "شمای رنگ متن"
+
+#: includes/elements/text.php:107
+msgid "Inherit"
+msgstr "ارث بری"
+
+#: includes/elements/text.php:120
+msgid "Wrapper style"
+msgstr "ظاهر Wrapper"
+
+#: includes/elements/text.php:126
+msgid "Simple"
+msgstr "ساده"
+
+#: includes/elements/text.php:127
+msgid "Outlined"
+msgstr "با خط بیرونی"
+
+#: includes/elements/text.php:128
+msgid "Boxed"
+msgstr "جعبه ای"
+
+#: includes/elements/text.php:139
+msgid "Block background color"
+msgstr "رنگ پس زمینه بلوک"
+
+#: includes/elements/text.php:140
+msgid "Choose a background color for this block."
+msgstr "رنگ پس زمینه ای را برای این بلوک انتخاب کنید."
+
+#: includes/elements/text.php:155
+msgid "Please choose an icon from avaialable icons."
+msgstr "لطفا یکی از شکلک های موجود را انتخاب کنید."
+
+#: includes/elements/text.php:169
+msgid "Icon color"
+msgstr "رنگ شکلک"
+
+#: includes/elements/text.php:170
+msgid "Choose a color for icon."
+msgstr "رنگی برای شکلک انتخاب کنید."
+
+#: includes/elements/text.php:184
+msgid "Icon size"
+msgstr "اندازه شکلک"
+
+#: includes/elements/text.php:193
+msgid "X-Large"
+msgstr "خیلی بزرگ"
+
+#: includes/elements/text.php:204
+msgid "Icon background shape"
+msgstr "شکل پس زمینه شکلک"
+
+#: includes/elements/text.php:211
+msgid "Semi-circle"
+msgstr "نیم دایره"
+
+#: includes/elements/text.php:212
+msgid "Round Rectangle"
+msgstr "مستطیل دورگرد"
+
+#: includes/elements/text.php:213
+msgid "Rectangle"
+msgstr "مستطیل"
+
+#: includes/elements/text.php:224
+msgid "Icon background color"
+msgstr "رنگ پس زمینه شکلک"
+
+#: includes/elements/text.php:225
+msgid "Choose a color for background of icon."
+msgstr "رنگی برای پس زمینه شکلک انتخاب کنید."
+
+#: includes/elements/text.php:239
+msgid "Icon outline color"
+msgstr "رنگ خط بیرونی شکلک"
+
+#: includes/elements/text.php:240
+msgid "Choose a color for the border around the icon."
+msgstr "رنگی را برای کادر دور شکلک انتخاب کنید."
+
+#: includes/elements/text.php:269
+msgid "Image or icon position"
+msgstr "موقعیت تصویر یا شکلک"
+
+#: includes/elements/text.php:298
+msgid "Enter a text as a text content."
+msgstr "متنی را به عنوان محتوا وارد کنید."
+
+#: includes/elements/video.php:10
+msgid "[Phlox] Video"
+msgstr "[فلوکس] ویدیو"
+
+#: includes/elements/video.php:13
+msgid "It adds a video player element."
+msgstr "یک پخش کننده ویدیو اضافه می کند."
+
+#: includes/elements/video.php:34
+msgid "Video title, leave it empty if you don`t need title."
+msgstr "عنوان ویدیو، اگر به عنوان نیاز ندارید این بخش را خالی بگذارید."
+
+#: includes/elements/video.php:49
+msgid "Whether to start the video automatically or not."
+msgstr "ویدیو به طور خودکار پخش شود یا خیر."
+
+#: includes/elements/video.php:62
+msgid "Repeat video"
+msgstr "تکرار ویدیو"
+
+#: includes/elements/video.php:63
+msgid "Play video again when it ends."
+msgstr "پس از اتمام ویدیو دوباره آن را پخش می کند."
+
+#: includes/elements/video.php:77
+msgid "Width size of video in pixel."
+msgstr "اندازه عرض ویدیو برحسب پیکسل."
+
+#: includes/elements/video.php:92
+msgid "Height size of video in pixel."
+msgstr "ارتفاع ویدیو بر حسب پیکسل"
+
+#: includes/elements/video.php:107
+msgid "Please upload the video file."
+msgstr "لطفا فایل ویدیو را بارگذاری کنید."
+
+#: includes/elements/video.php:121
+msgid "Video link"
+msgstr "پیوند ویدیو"
+
+#: includes/elements/video.php:122
+msgid "Youtube, Vimeo or any video embed link."
+msgstr "کد جاگذاری یوتیوب، ویمِو یا هر سرویس دیگری."
+
+#: includes/elements/video.php:136
+msgid "Video poster"
+msgstr "پوستر ویدیو"
+
+#: includes/elements/video.php:137
+msgid "An image that represents the video content."
+msgstr "تصویری که محتوای ویدیو را ارائه می کند."
+
+#: includes/elements/video.php:151
+msgid "Player skin "
+msgstr "نمای پخش کننده"
+
+#: includes/elements/video.php:152
+msgid "Specifies skin for the player."
+msgstr "نمای پخش کننده را مشخص می کند."
+
+#: includes/general-hooks.php:97
+msgid "Auxin Icons"
+msgstr "اکسین شکلک ها"
+
+#: includes/general-hooks.php:102
+msgid "Icon library"
+msgstr "کتابخانه شکلک ها"
+
+#: includes/general-hooks.php:104
+msgid "Font Awesome"
+msgstr "Font Awesome"
+
+#: includes/general-hooks.php:105
+msgid "Open Iconic"
+msgstr "Open Iconic"
+
+#: includes/general-hooks.php:106
+msgid "Typicons"
+msgstr "Typicons"
+
+#: includes/general-hooks.php:107
+msgid "Entypo"
+msgstr "Entypo"
+
+#: includes/general-hooks.php:108
+msgid "Linecons"
+msgstr "Linecons"
+
+#: includes/general-hooks.php:109
+msgid "Auxin"
+msgstr "اکسین"
+
+#: includes/general-hooks.php:113
+msgid "Select icon library."
+msgstr "کتابخانه شکلک را انتخاب کنید."
+
+#: includes/general-hooks.php:216
+msgid "Custom color"
+msgstr "رنگ سفارشی"
+
+#: includes/general-hooks.php:218
+msgid "Select custom icon color."
+msgstr "رنگ دلخواه شکلک را انتخاب کنید."
+
+#: includes/general-hooks.php:226
+msgid "Background shape"
+msgstr "شکل پس زمینه"
+
+#: includes/general-hooks.php:235
+msgid "Outline Rounded"
+msgstr "گرد با خط بیرونی"
+
+#: includes/general-hooks.php:237
+msgid "Select background shape and style for icon."
+msgstr "ظاهر و شکل پس زمینه شکلک انتخاب کنید."
+
+#: includes/general-hooks.php:242
+msgid "Custom background color"
+msgstr "رنگ پس زمینه دلخواه"
+
+#: includes/general-hooks.php:244
+msgid "Select custom icon background color."
+msgstr "رنگ دلخواه پس زمینه شکلک را انتخاب کنید."
+
+#: includes/general-hooks.php:260
+msgid "Select icon alignment."
+msgstr "تراز شکلک را انتخاب کنید."
+
+#: includes/general-hooks.php:276 includes/general-hooks.php:277
+msgid "Arrow"
+msgstr "فلش"
+
+#: includes/general-hooks.php:278
+msgid "Back"
+msgstr "برگشت"
+
+#: includes/general-hooks.php:334
+msgid "Custom JS Code"
+msgstr "کد جاوااسکریپت سفارشی"
+
+#: includes/general-hooks.php:335
+msgid "Your Custom Javascript"
+msgstr "جاوااسکریپت دلخواه شما"
+
+#: includes/general-hooks.php:339
+msgid "Custom Javascript"
+msgstr "جاوااسکریپت سفارشی"
+
+#: includes/general-hooks.php:340
+#, php-format
+msgid "You can add your custom javascript code here.%s DO NOT use %s tag."
+msgstr ""
+"کدهای جاوااسکریپت دلخواه خود را می توانید در این قسمت وارد کنید. از تگ  %s "
+"استفاده نکنید %s."
+
+#: includes/general-hooks.php:341
+msgid ""
+"In order to save your custom javascript code, you are expected to execute "
+"the code prior for saving."
+msgstr ""
+"انتظار می رود قبل از ذخیره کد جاوااسکریپت، از درستی آن اطمینان پیدا کنید."
+
+#: includes/general-hooks.php:347
+msgid "Execute"
+msgstr "اجرا"
+
+#: includes/general-hooks.php:358 includes/general-hooks.php:359
+msgid "Tracking & SEO"
+msgstr "ردیابی و سئو"
+
+#: includes/general-hooks.php:364
+msgid "Built in SEO"
+msgstr "سئوی داخلی"
+
+#: includes/general-hooks.php:365
+msgid ""
+"In case of using SEO plugins like \"WordPress SEO by Yoast\" or \"All in One "
+"SEO Pack\" you can disable built-in SEO for maximum compatibility."
+msgstr ""
+"در مواردی که از افزونه های \"WordPress SEO by Yoast\" یا \"All in One SEO "
+"Pack\" استفاده می کنید، برای حفظ بیشترین یکپارچگی، سئوی داخلی را غیرفعال "
+"کنید."
+
+#: includes/general-hooks.php:375
+msgid "Google analytics code"
+msgstr "کد آنالیز گوگل"
+
+#: includes/general-hooks.php:376
+#, php-format
+msgid "You can add your Google analytics code here.%s DO NOT use %s tag."
+msgstr ""
+"کد آنالیز گوگل خود را می توانید در این قسمت وارد کنید. از تگ  %s استفاده "
+"نکنید %s."
+
+#: includes/general-hooks.php:388
+msgid "Google marketing code"
+msgstr "کد بازاریابی گوگل"
+
+#: includes/general-hooks.php:389
+#, php-format
+msgid "You can add your Google marketing code here.%s DO NOT use %s tag."
+msgstr ""
+"کد بازاریابی گوگل خود را می توانید در این قسمت وارد کنید. از تگ  %s استفاده "
+"نکنید %s."
+
+#: includes/general-hooks.php:410
+msgid "Login Page"
+msgstr "صفحه ورود"
+
+#: includes/general-hooks.php:411 includes/general-hooks.php:413
+msgid "Preview login page"
+msgstr "پیش نمایش صفحه ورود"
+
+#: includes/general-hooks.php:420
+msgid "Login Skin"
+msgstr "نمای صفحه ورود"
+
+#: includes/general-hooks.php:421
+msgid "Specifies a skin for login page of your website."
+msgstr "نمای صفحه ورود را در سایت شما مشخص می کند."
+
+#: includes/general-hooks.php:431
+msgid "Clean white"
+msgstr "سفید تمیز"
+
+#: includes/general-hooks.php:435
+msgid "Simple white"
+msgstr "سفید ساده"
+
+#: includes/general-hooks.php:439
+msgid "Simple gray"
+msgstr "خاکستری ساده"
+
+#: includes/general-hooks.php:449
+msgid "Login message"
+msgstr "پیام ورود"
+
+#: includes/general-hooks.php:450
+msgid "Enter a text to display above of login form."
+msgstr "متنی را برای نمایش در بالای فرم ورود وارد کنید."
+
+#: includes/general-hooks.php:462
+msgid "Login Page Logo"
+msgstr "لوگوی صفحه ورود"
+
+#: includes/general-hooks.php:463
+msgid ""
+"Specifies a logo to display on login page.(width of logo image could be up "
+"to 320px)"
+msgstr ""
+"لوگویی را برای نمایش در صفحه ورود مشخص می کند.(عرض لوگو می تواند تا 320 "
+"پیکسل باشد)"
+
+#: includes/general-hooks.php:474
+msgid "Logo Width"
+msgstr "عرض لوگو"
+
+#: includes/general-hooks.php:475
+msgid "Specifies width of logo image in pixel."
+msgstr "ارتفاع لوگو را بر حسب پیکسل مشخص می کند."
+
+#: includes/general-hooks.php:486
+msgid "Logo Height"
+msgstr "ارتفاع لوگو"
+
+#: includes/general-hooks.php:487
+msgid "Specifies height of logo image in pixel."
+msgstr "ارتفاع لوگو را بر حسب پیکسل مشخص می کند."
+
+#: includes/general-hooks.php:499
+msgid "Enable Background"
+msgstr "فعالسازی پس زمینه"
+
+#: includes/general-hooks.php:500
+msgid "Enable it to display custom background on login page."
+msgstr "برای نمایش پس زمینه دلخواه در صفحه ورود این گزینه را فعال کنید."
+
+#: includes/general-hooks.php:511
+msgid "Background Color"
+msgstr "رنگ پس زمینه"
+
+#: includes/general-hooks.php:512
+msgid "Specifies background color of website."
+msgstr "رنگ پس زمینه وب سایت را مشخص می کند."
+
+#: includes/general-hooks.php:527
+msgid "Background Image"
+msgstr "تصویر پس زمینه"
+
+#: includes/general-hooks.php:528
+msgid "You can upload custom image for background of login page"
+msgstr "می توانید تصویر دلخواهی را به عنوان پس زمینه صفحه ورود بارگذاری کنید."
+
+#: includes/general-hooks.php:543
+msgid "Background Size"
+msgstr "اندازه پس زمینه"
+
+#: includes/general-hooks.php:544
+msgid "Specifies background size on login page."
+msgstr "اندازه تصویر پس زمینه در صفحه ورود را مشخص می کند."
+
+#: includes/general-hooks.php:554
+msgid "Contain"
+msgstr "دربرگیرنده"
+
+#: includes/general-hooks.php:558
+msgid "Cover"
+msgstr "پوشاننده"
+
+#: includes/general-hooks.php:573
+msgid "Background Pattern"
+msgstr "الگوی پس زمینه"
+
+#: includes/general-hooks.php:574
+#, php-format
+msgid ""
+"You can select one of these patterns as login background image. %s Some of "
+"these can be used as a pattern over your background image."
+msgstr ""
+"می توانید یکی از این الگوها را به عنوان تصویر پس زمینه انتخاب کنید. %s بعضی "
+"از این ها می توانند به عنوان الگو بر روی تصویر پس زمینه شما استفاده شوند."
+
+#: includes/general-hooks.php:590
+msgid "Background Repeat"
+msgstr "تکرار پس زمینه"
+
+#: includes/general-hooks.php:591
+msgid "Specifies how background image repeats."
+msgstr "نحوه تکرار تصویر پس زمینه را مشخص می کند."
+
+#: includes/general-hooks.php:596
+msgid "No repeat"
+msgstr "بدون تکرار"
+
+#: includes/general-hooks.php:600
+msgid "Repeat horizontally and vertically"
+msgstr "تکرار افقی و عمودی"
+
+#: includes/general-hooks.php:604
+msgid "Repeat horizontally"
+msgstr "تکرار افقی"
+
+#: includes/general-hooks.php:608
+msgid "Repeat vertically"
+msgstr "تکرار عمودی"
+
+#: includes/general-hooks.php:624
+msgid "Background Position"
+msgstr "موقعیت پس زمینه"
+
+#: includes/general-hooks.php:625
+msgid "Specifies background image position."
+msgstr "موقعیت تصویر پس زمینه را مشخص می کند."
+
+#: includes/general-hooks.php:630
+msgid "Left top"
+msgstr "چپ بالا"
+
+#: includes/general-hooks.php:634
+msgid "Center top"
+msgstr "وسط بالا"
+
+#: includes/general-hooks.php:638
+msgid "Right top"
+msgstr "راست بالا"
+
+#: includes/general-hooks.php:643
+msgid "Left center"
+msgstr "چپ وسط"
+
+#: includes/general-hooks.php:647
+msgid "Center center"
+msgstr "وسط وسط"
+
+#: includes/general-hooks.php:651
+msgid "Right center"
+msgstr "راست وسط"
+
+#: includes/general-hooks.php:656
+msgid "Left bottom"
+msgstr "چپ پایین"
+
+#: includes/general-hooks.php:660
+msgid "Center bottom"
+msgstr "وسط پایین"
+
+#: includes/general-hooks.php:664
+msgid "Right bottom"
+msgstr "راست پایین"
+
+#: includes/general-hooks.php:680
+msgid "Background Attachment"
+msgstr "پیوست پس زمینه"
+
+#: includes/general-hooks.php:681
+msgid ""
+"Specifies whether the background is fixed or scrollable as user scrolls the "
+"page."
+msgstr ""
+"مشخص می کند پس زمینه هنگام اسکرول کردن صفحه توسط کاربر ثابت باشد یا اسکرول "
+"شود."
+
+#: includes/general-hooks.php:687
+msgid "Scroll"
+msgstr "اسکرول"
+
+#: includes/general-hooks.php:691
+msgid "Fixed"
+msgstr "ثابت"
+
+#: includes/general-hooks.php:708
+msgid "Custom CSS class name"
+msgstr "نام کلاس دلخواه CSS"
+
+#: includes/general-hooks.php:709
+msgid ""
+"In this field you can define custom CSS class name for login page.\n"
+"                          This class name will be added to body classes in "
+"login page and is useful for advance custom styling purposes."
+msgstr ""
+"در این فیلد  می توانید نام کلاس دلخواه CSS را برای صفحه ورود تعریف کنید.\n"
+"                          این نام کلاس به بدنه (body) صفحه ورود اضافه خواهد "
+"شدو برای موارد استایل دهی پیشرفته مورد استفاده قرار می گیرد."
+
+#: public/templates/vcomposer/auxin_vc_extendes.php:15
+msgid "Image Gallery"
+msgstr "گالری تصاویر"
+
+#: public/templates/vcomposer/auxin_vc_extendes.php:19
+msgid "Auxin image gallery"
+msgstr "اکسین گالری تصاویر"
+
+#: public/templates/vcomposer/auxin_vc_extendes.php:29
+msgid "Gallery type"
+msgstr "نوع گالری"
+
+#: public/templates/vcomposer/auxin_vc_extendes.php:33
+msgid "Packery"
+msgstr "Packery"
+
+#: public/templates/vcomposer/auxin_vc_extendes.php:34
+msgid "Justified"
+msgstr "تعدیل شده"
+
+#: public/templates/vcomposer/auxin_vc_extendes.php:38
+msgid "Select gallery type."
+msgstr "نوع گالری را انتخاب کنید."
+
+#: public/templates/vcomposer/auxin_vc_extendes.php:45
+msgid "Select images from media library."
+msgstr "تصاویر را از کتابخانه رسانه ها انتخاب کنید."
+
+#: public/templates/vcomposer/auxin_vc_extendes.php:52
+msgid ""
+"Enter image size. Example: thumbnail, medium, large, full or other sizes "
+"defined by current theme. Alternatively enter image size in pixels: 200x100 "
+"(Width x Height). Leave empty to use \"thumbnail\" size."
+msgstr ""
+"اندازه تصویر را وارد کنید. مثال: بندانگشتی، متوسط، بزرگ، کامل یا اندازه های "
+"دیگری که توسط پوسته جاری تعریف شده اند. به عنوان جایگزین می توانید اندازه "
+"تصاویر بر حسب پیکسل را وارد کنید: 200x100 (200 عرض و 100 ارتفاع). برای "
+"استفاده از بندانگشتی این قسمت را خالی بگذارید."
+
+#: public/templates/vcomposer/auxin_vc_extendes.php:60
+msgid "On click action"
+msgstr "عملیات هنگام کلیک"
+
+#: public/templates/vcomposer/auxin_vc_extendes.php:64
+msgid "Link to large image"
+msgstr "پیوند به تصویر بزرگ"
+
+#: public/templates/vcomposer/auxin_vc_extendes.php:65
+msgid "Open Lightbox"
+msgstr "بازشدن لایت باکس"
+
+#: public/templates/vcomposer/auxin_vc_extendes.php:66
+msgid "Open custom link"
+msgstr "بازکردن پیوند دلخواه"
+
+#: public/templates/vcomposer/auxin_vc_extendes.php:68
+msgid "Select action for click action."
+msgstr "عملیاتی را برای اجرا در هنگام کلیک انتخاب کنید."
+
+#: public/templates/vcomposer/auxin_vc_extendes.php:75
+msgid ""
+"Style particular content element differently - add a class name and refer to "
+"it in custom CSS."
+msgstr ""
+"ظاهردهی یک المان خاص به طور جداگانه - یک نام کلاس اضافه کرده و در CSS سفارشی "
+"به آن ارجاع دهید."
+
+#: public/templates/vcomposer/auxin_vc_extendes.php:79
+msgid "CSS box"
+msgstr "جعبه CSS"
+
+#: public/templates/vcomposer/auxin_vc_extendes.php:81
+msgid "Design Options"
+msgstr "تنظیمات طراحی"
+
+#. Plugin Name of the plugin/theme
+msgid "Auxin Essential Elements"
+msgstr "المان های ضروری اکسین"
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/auxin-elements/"
+msgstr "https://wordpress.org/plugins/auxin-elements/"
+
+#. Description of the plugin/theme
+msgid ""
+"Powerful and comprehensive plugin that extends the functionality of Phlox "
+"theme by adding new shortcodes, widgets and options"
+msgstr ""
+"افزونه ای قدرتمند و جامع که کارایی پوسته فلوکس را با استفاده از کدهای کوتاه، "
+"ابزارک ها و تنظیمات افزایش می دهد."
+
+#. Author of the plugin/theme
+msgid "averta"
+msgstr "اورتا"
+
+#. Author URI of the plugin/theme
+msgid "http://averta.net"
+msgstr "http://averta.net"

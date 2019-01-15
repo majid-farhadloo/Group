@@ -1,0 +1,34 @@
+{"nodes":[
+	{"name":"Total Cost Per Pound"},
+	{"name":"Eastside"},
+	{"name":"Kern"},
+	{"name":"Westside"},
+	{"name":"Growing Costs"},
+	{"name":"Equipment & Overhead Costs"},
+	{"name":"Harvest"},
+	{"name":"Irrigation & Water Costs"},
+	{"name":"Interest and Land Costs"}
+
+],
+"links":[
+{"source":0,"target":1,"value":2.44763485802},
+{"source":0,"target":2,"value":2.33978238124},
+{"source":0,"target":3,"value":2.12248836685},
+{"source":1,"target":5,"value":0.26963516957},
+{"source":2,"target":5,"value":0.33050364912},
+{"source":3,"target":5,"value":0.13916849972},
+{"source":1,"target":4,"value":1.26516946417},
+{"source":2,"target":4,"value":0.82204698344},
+{"source":3,"target":4,"value":0.87927284054},
+{"source":1,"target":6,"value":0.27368470449},
+{"source":2,"target":6,"value":0.24700712971},
+{"source":3,"target":6,"value":0.20042480172},
+{"source":1,"target":8,"value":0.33885354505},
+{"source":2,"target":8,"value":0.37054777376},
+{"source":3,"target":8,"value":0.36412601214},
+{"source":1,"target":7,"value":0.30029197474},
+{"source":2,"target":7,"value":0.56967684521},
+{"source":3,"target":7,"value":0.53949621273}
+
+]
+}

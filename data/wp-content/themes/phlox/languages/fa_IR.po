@@ -1,0 +1,5899 @@
+# Copyright (C) 2012 averta.
+# This file is distributed under the same license as the WordPress package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: PHLOX\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-07-10 12:22+0430\n"
+"PO-Revision-Date: 2017-07-10 12:23+0430\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;__ngettext_noop:1,2;_n:1,2;"
+"_x:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_ex:1,2c;esc_attr__;esc_attr_e;"
+"esc_attr_x:1,2c;esc_html__;esc_html_e;esc_attr_ex:1,2c;esc_html_x\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: build\n"
+"X-Poedit-SearchPathExcluded-1: **/exclude/**\n"
+"X-Poedit-SearchPathExcluded-2: _devDependencies\n"
+"X-Poedit-SearchPathExcluded-3: node_modules\n"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-advanced.php:12
+msgid "Advanced Setting"
+msgstr "تنظیمات پیشرفته"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-advanced.php:16
+msgid "Custom CSS class name for body"
+msgstr "نام کلاس CSS دلخواه برای body"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-advanced.php:17
+msgid ""
+"You can define custom CSS class name for this page. It helpful for targeting "
+"this page by custom CSS code."
+msgstr ""
+"شما می توانید نام کلاس CSS دلخواهی برای این صفحه انتخاب کنید. زمانی که "
+"میخواهید با استفاده از CSS دلخواه این صفحه را هدف گذاری کنید مفید است."
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-advanced.php:24
+msgid "Custom CSS Code"
+msgstr "کد CSS دلخواه"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-advanced.php:25
+msgid ""
+"Attention: The following custom CSS code will be applied ONLY to this page."
+msgstr "توجه: کدهای CSS دلخواه زیر فقط به این صفحه اعمال خواهند شد."
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-advanced.php:26
+msgid ""
+"For defining global CSS roles, please use custom CSS field on option panel."
+msgstr ""
+"برای تعریف CSS سراسری، لطفا از فیلد CSS دلخواه در پنل تنظیمات استفاده کنید."
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-bg-setting.php:12
+msgid "Background Setting"
+msgstr "تنظیمات پس زمینه"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-bg-setting.php:16
+msgid "You can specify custom background for this page.<br/>"
+msgstr "می توانید پس زمینه دلخواهی برای این صفحه تنظیم کنید.<br/>"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-bg-setting.php:21
+msgid "Enable Background"
+msgstr "فعالسازی پس زمینه"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-bg-setting.php:22
+msgid "Enable it to display custom background for this page."
+msgstr "برای نمایش پس زمینه دلخواه این گزینه را فعال کنید."
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-bg-setting.php:28
+msgid "Background color"
+msgstr "رنگ پس زمینه"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-bg-setting.php:29
+msgid "Specifies background color."
+msgstr "رنگ پس زمینه را تعیین می کند."
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-color-setting.php:12
+#: auxin-content/options/auxin-options.php:25
+msgid "General Setting"
+msgstr "تنظیمات عمومی"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-color-setting.php:16
+msgid "Custom Featured Color?"
+msgstr ""
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-color-setting.php:17
+msgid ""
+"By default custom feature color of all posts are the same as the color "
+"defined in theme options. You have to enable this option if you want to "
+"define custom feature color for this post."
+msgstr ""
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-color-setting.php:24
+msgid "Featured Color"
+msgstr ""
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-color-setting.php:25
+msgid "Custom featured color for this post."
+msgstr ""
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-custom-menu.php:12
+msgid "Custom Menu"
+msgstr "فهرست دلخواه"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-custom-menu.php:20
+msgid "- no custom menu -"
+msgstr "- بدون فهرست دلخواه -"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-custom-menu.php:31
+msgid "Menu"
+msgstr "فهرست"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-custom-menu.php:32
+msgid ""
+"Select one of the custom sidebars. You can create new ones in \"Option panel "
+"> Tools > Sidebar Generator\"."
+msgstr ""
+"یکی از ستون های کناری دلخواه را انتخاب کنید. می توانید در \" پنل تنظیمات > "
+"ابزارها > تولیدکننده ستون کناری\" یکی دیگر اضافه کنید."
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-custom-siderbar.php:12
+msgid "Custom Sidebar"
+msgstr "ستون کناری دلخواه"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-custom-siderbar.php:18
+msgid "--- no sidebar ---"
+msgstr "--- بدون ستون کناری ---"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-custom-siderbar.php:30
+msgid "Sidebars"
+msgstr "ستون های کناری"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-custom-siderbar.php:31
+msgid ""
+"Select one of the custom sidebars. You can create new ones in \"Option panel "
+"> Tools > Sidebar Generator\""
+msgstr ""
+"یکی از ستون های کناری دلخواه را انتخاب کنید. می توانید در \" پنل تنظیمات > "
+"ابزارها > تولیدکننده ستون کناری\" یکی دیگر اضافه کنید"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-custom-siderbar.php:38
+msgid "Hide Global Sidebar?"
+msgstr "پنهان سازی ستون کناری سراسری؟"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-custom-siderbar.php:39
+msgid ""
+"It shows custom sidebar instead of global sidebar. Otherwise it shows custom "
+"Sidebar below global sidebar"
+msgstr ""
+"ستون کناری دلخواه را به جای ستون کناری سراسری نمایش می دهد. در غیر اینصورت "
+"ستون کناری دلخواه زیر ستون کناری سراسری نمایش داده خواهد شد."
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-layout.php:22
+msgid "Layout Options"
+msgstr "تنظیمات چیدمان"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-layout.php:26
+msgid "Content Layout"
+msgstr "چیدمان محتوا"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-layout.php:27
+msgid "If you select \"Full\", Content fills the full width of the page."
+msgstr "اگر \"کامل\" را انتخاب کنید، محتوا تمام عرض صفحه را پر می کند."
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-layout.php:34
+#: auxin-content/options/auxin-options.php:2898
+msgid "Boxed Content"
+msgstr "محتوای جعبه ای"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-layout.php:38
+#: auxin-content/options/auxin-options.php:2894
+msgid "Full Content"
+msgstr "محتوای تمام عرض"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-layout.php:45
+msgid "Sidebar Layout"
+msgstr "چیدمان ستون کناری"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-layout.php:46
+msgid "Specifies the position of sidebar on this page."
+msgstr "موقعیت ستون کناری را در صفحه مشخص می کند."
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-layout.php:52
+#: auxin-content/admin/metaboxes/metabox-fields-post-sidebar-layout.php:33
+#: auxin-content/options/auxin-options.php:2511
+#: auxin-content/options/auxin-options.php:3126
+#: auxin-content/options/auxin-options.php:3772
+#: auxin-content/options/auxin-options.php:4458
+#: auxin-content/options/auxin-options.php:4594
+#: auxin-content/options/auxin-options.php:4726
+msgid "No Sidebar"
+msgstr "بدون ستون کناری"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-layout.php:56
+#: auxin-content/admin/metaboxes/metabox-fields-post-sidebar-layout.php:37
+#: auxin-content/options/auxin-options.php:2515
+#: auxin-content/options/auxin-options.php:3130
+#: auxin-content/options/auxin-options.php:3776
+#: auxin-content/options/auxin-options.php:4462
+#: auxin-content/options/auxin-options.php:4598
+#: auxin-content/options/auxin-options.php:4730
+msgid "Right Sidebar"
+msgstr "ستون کناری راست"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-layout.php:60
+#: auxin-content/admin/metaboxes/metabox-fields-post-sidebar-layout.php:41
+#: auxin-content/options/auxin-options.php:2519
+#: auxin-content/options/auxin-options.php:3134
+#: auxin-content/options/auxin-options.php:3780
+#: auxin-content/options/auxin-options.php:4466
+#: auxin-content/options/auxin-options.php:4602
+#: auxin-content/options/auxin-options.php:4734
+msgid "Left Sidebar"
+msgstr "ستون کناری چپ"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-layout.php:64
+#: auxin-content/admin/metaboxes/metabox-fields-post-sidebar-layout.php:45
+#: auxin-content/options/auxin-options.php:2523
+#: auxin-content/options/auxin-options.php:3138
+#: auxin-content/options/auxin-options.php:3784
+#: auxin-content/options/auxin-options.php:4470
+#: auxin-content/options/auxin-options.php:4606
+#: auxin-content/options/auxin-options.php:4738
+msgid "Left Left Sidebar"
+msgstr "دو ستون کناری در چپ"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-layout.php:68
+#: auxin-content/admin/metaboxes/metabox-fields-post-sidebar-layout.php:49
+#: auxin-content/options/auxin-options.php:2527
+#: auxin-content/options/auxin-options.php:3142
+#: auxin-content/options/auxin-options.php:3788
+#: auxin-content/options/auxin-options.php:4474
+#: auxin-content/options/auxin-options.php:4610
+#: auxin-content/options/auxin-options.php:4742
+msgid "Right Right Sidebar"
+msgstr "دو ستون کناری در راست"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-layout.php:72
+#: auxin-content/admin/metaboxes/metabox-fields-post-sidebar-layout.php:53
+#: auxin-content/options/auxin-options.php:2531
+#: auxin-content/options/auxin-options.php:3146
+#: auxin-content/options/auxin-options.php:3792
+#: auxin-content/options/auxin-options.php:4478
+#: auxin-content/options/auxin-options.php:4614
+#: auxin-content/options/auxin-options.php:4746
+msgid "Left Right Sidebar"
+msgstr "ستون کناری چپ راست"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-layout.php:76
+#: auxin-content/admin/metaboxes/metabox-fields-post-sidebar-layout.php:57
+#: auxin-content/options/auxin-options.php:2535
+#: auxin-content/options/auxin-options.php:3150
+#: auxin-content/options/auxin-options.php:3796
+#: auxin-content/options/auxin-options.php:4482
+#: auxin-content/options/auxin-options.php:4618
+#: auxin-content/options/auxin-options.php:4750
+msgid "Right Left Sidebar"
+msgstr "ستون کناری راست چپ"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-layout.php:82
+#: auxin-content/options/auxin-options.php:3805
+msgid "Sidebar Style"
+msgstr "طرح ستون کناری"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-layout.php:83
+msgid "Specifies the style of sidebar on this page."
+msgstr "طرح ستون کناری را در این صفحه مشخص می کند."
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-layout.php:89
+#: auxin-content/admin/metaboxes/metabox-fields-post-sidebar-layout.php:82
+#: auxin-content/admin/metaboxes/metabox-fields-post-sidebar-layout.php:130
+#: auxin-content/options/auxin-options.php:2559
+#: auxin-content/options/auxin-options.php:3176
+#: auxin-content/options/auxin-options.php:3820
+#: auxin-content/options/auxin-options.php:4507
+#: auxin-content/options/auxin-options.php:4643
+#: auxin-content/options/auxin-options.php:4775
+msgid "Simple"
+msgstr "ساده"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-layout.php:93
+#: auxin-content/admin/metaboxes/metabox-fields-post-sidebar-layout.php:86
+#: auxin-content/options/auxin-options.php:2563
+#: auxin-content/options/auxin-options.php:3180
+#: auxin-content/options/auxin-options.php:3824
+#: auxin-content/options/auxin-options.php:4511
+#: auxin-content/options/auxin-options.php:4647
+#: auxin-content/options/auxin-options.php:4779
+msgid "Bordered Sidebar"
+msgstr "ستون کناری کادربندی شده"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-layout.php:97
+#: auxin-content/admin/metaboxes/metabox-fields-post-sidebar-layout.php:90
+#: auxin-content/options/auxin-options.php:2567
+#: auxin-content/options/auxin-options.php:3184
+#: auxin-content/options/auxin-options.php:3828
+#: auxin-content/options/auxin-options.php:4515
+#: auxin-content/options/auxin-options.php:4651
+#: auxin-content/options/auxin-options.php:4783
+msgid "Overlap Background"
+msgstr "همپوشانی پس زمینه"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-layout.php:104
+#: auxin-content/admin/metaboxes/metabox-fields-post-sidebar-layout.php:141
+msgid "Display Content Top Margin"
+msgstr "نمایش فاصله بالای محتوا"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-layout.php:105
+msgid ""
+"whether to display a space between title and content or not. If you need to "
+"start your content from very top of the page, disable it."
+msgstr ""
+"مشخص می کند فاصله بین عنوان و محتوا نمایش داده شود یا خیر. اگر صلاح می دانید "
+"محتوا را از بالاترین نقطه صفحه شروع کنید، این گزینه را غیرفعال کنید."
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-layout.php:113
+#: auxin-content/options/auxin-options.php:1399
+msgid "Header Layout"
+msgstr "چیدمان سربرگ"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-layout.php:114
+msgid "Specifies the header layout on this page."
+msgstr "چیدمان سربرگ را در این صفحه مشخص می کند."
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-layout.php:119
+msgid "Theme Default"
+msgstr "پیشفرض پوسته"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-layout.php:123
+#: auxin-content/options/auxin-options.php:1415
+msgid "Logo left, Menu right"
+msgstr "لوگو چپ، منو راست"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-layout.php:127
+#: auxin-content/options/auxin-options.php:1419
+msgid "Logo left, Burger menu right"
+msgstr "لوگو چپ، منوی همبرگری راست"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-layout.php:131
+#: auxin-content/options/auxin-options.php:1423
+msgid "Logo right, Menu left"
+msgstr "لوگو راست، منو چپ"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-layout.php:135
+#: auxin-content/options/auxin-options.php:1427
+msgid "Logo Right, Burger menu left"
+msgstr "لوگو راست، منوی همبرگری چپ"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-layout.php:139
+#: auxin-content/options/auxin-options.php:1431
+msgid "Logo middle in top, Menu middle in bottom"
+msgstr "لوگو در وسط بالا، منو در وسط پایین"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-layout.php:154
+#: auxin-content/options/auxin-options.php:1446
+msgid "Logo left in top, Menu left in bottom"
+msgstr "لوگو در چپ بالا، منو در چپ پایین"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-layout.php:158
+#: auxin-content/options/auxin-options.php:1450
+#, fuzzy
+#| msgid "Below header"
+msgid "No header"
+msgstr "زیر سربرگ"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-slider-setting.php:13
+#: auxin/auxin-include/classes/class-auxin-customize-control.php:356
+#: auxin/auxin-include/classes/class-auxin-metabox-view.php:253
+msgid "Choose .."
+msgstr "انتخاب .."
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-slider-setting.php:111
+msgid "Slider Options"
+msgstr "تنظیمات اسلایدر"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-slider-setting.php:116
+msgid "Page Slider"
+msgstr "اسلایدر صفحه"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-slider-setting.php:117
+msgid ""
+"Please select the slider you want to display at top of the page.<br/"
+">Revolution Slider Items are marked by [revo], Cuteslider by [cute], Layer "
+"slider by [layer]. Others are Items from Nivo & Flex slider.\""
+msgstr ""
+"لطفا یک اسلایدر را برای نمایش در بالای صفحه انتخاب کنید.<br/> آیتم های "
+"روولوشن اسلایدر با [revo]، کیوت اسلایدر با [cute] و لیر اسلایدر با [layer] "
+"مشخص شده اند. بقیه آیتم ها از نیوو و فلکس اسلایدر هستند."
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-slider-setting.php:123
+msgid "Slider Width"
+msgstr "عرض اسلایدر"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-slider-setting.php:124
+msgid ""
+"If you choose \"Full\", the slider fits to the page width.<br/>Please note "
+"that this option is only for FlexSlider, NivoSlider & LayerSlider ( [flex], "
+"[nivo] ). For other slider types, you can set this option directly in "
+"slider's panel."
+msgstr ""
+"اگر \"کامل\" را انتخاب کنید، اسلایدر تمام عرض صفحه را می پوشاند.<br/> لطفا "
+"توجه کنید این گزینه فقط برای فلکس اسلایدر، نیوو اسلایدر و لیر اسلایدر "
+"( [flex], [nivo] ) کار می کند. برای بقیه انواع اسلایدرها، می توانید مستقیما "
+"از خود اسلایدر این گزینه را فعال کنید."
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-slider-setting.php:129
+#: auxin-content/options/auxin-options.php:48
+#: auxin-content/options/auxin-options.php:5034
+msgid "Full"
+msgstr "کامل"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-slider-setting.php:130
+#: auxin-content/admin/metaboxes/metabox-fields-general-title-setting.php:229
+#: auxin-content/options/auxin-options.php:52
+#: auxin-content/options/auxin-options.php:1477
+#: auxin-content/options/auxin-options.php:5038
+msgid "Boxed"
+msgstr "جعبه ای"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-slider-setting.php:134
+msgid "Slider Divider"
+msgstr "جداکننده اسلایدر"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-slider-setting.php:135
+msgid "You can select a divider to be displaied at the bottom of slider."
+msgstr "شما می توانید یک جداکننده را برای نمایش در پایین اسلایدر انتخاب کنید."
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-slider-setting.php:140
+msgid "Pattern"
+msgstr "الگو"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-slider-setting.php:141
+msgid "Border"
+msgstr "کادر"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-slider-setting.php:142
+#: auxin-content/admin/metaboxes/metabox-fields-general-title-setting.php:509
+#: auxin-content/admin/metaboxes/metabox-fields-general-title-setting.php:563
+#: auxin-content/options/auxin-options.php:677
+#: auxin-content/options/auxin-options.php:1824
+#: auxin/auxin-include/classes/class-auxin-metabox-view.php:766
+msgid "None"
+msgstr "هیچکدام"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-title-setting.php:12
+msgid "Title Section Setting"
+msgstr "تنظیمات بخش عنوان"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-title-setting.php:16
+msgid "Display Title Bar Section"
+msgstr "نمایش بخش نوار عنوان"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-title-setting.php:17
+msgid "Enable it to show the page title section."
+msgstr "برای نمایش بخش عنوان صفحه این گزینه را فعال کنید."
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-title-setting.php:25
+msgid "Layout presets"
+msgstr "چیدمان های از قبل آماده"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-title-setting.php:39
+#: auxin-content/admin/metaboxes/metabox-fields-general-title-setting.php:481
+#: auxin-content/admin/metaboxes/metabox-fields-post-featured-image.php:35
+#: auxin-content/admin/metaboxes/metabox-fields-post-sidebar-layout.php:104
+#: auxin-content/options/auxin-options.php:2616
+#: auxin-content/options/auxin-options.php:2800
+#: auxin-content/options/auxin-options.php:3694
+msgid "Default"
+msgstr "پیش فرض"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-title-setting.php:59
+msgid "Title bar with light overlay which is aligned center"
+msgstr "نوار عنوان با روکش روشن که در وسط تراز شده است"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-title-setting.php:78
+msgid "Fullscreen title bar with light overlay on background"
+msgstr "نوار عنوان تمام صفحه با روکش روشن در پس زمینه"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-title-setting.php:97
+msgid "Fullscreen title bar with dark overlay on background"
+msgstr "نوار عنوان تمام صفحه با روکش تیره در پس زمینه"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-title-setting.php:116
+msgid "Fullscreen title bar with border around the title"
+msgstr "نوار عنوان تمام صفحه با کادر دور عنوان"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-title-setting.php:135
+msgid "Fullscreen title bar with dark box around the title"
+msgstr "نوار عنوان تمام صفحه با جعبه ی تیره دور عنوان"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-title-setting.php:154
+msgid "Title aligned left with dark overlay on background"
+msgstr "عنوان تراز شده در چپ با روکش تیره در پس زمینه"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-title-setting.php:173
+msgid "Tile overlaps the title area section and is aligned center"
+msgstr "همپوشانی عنوان با ناحیه عنوان و تراز شده در وسط"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-title-setting.php:195
+msgid "Enable advanced setting"
+msgstr "فعالسازی تنظیمات پیشرفته"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-title-setting.php:196
+msgid "Enable it to customize preset layouts."
+msgstr "برای سفارشی سازی چیدمان های از قبل آماده این گزینه را فعال کنید."
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-title-setting.php:210
+msgid "Content Width"
+msgstr "عرض محتوا"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-title-setting.php:233
+msgid "Full Width Content with Space on Sides"
+msgstr "محتوای تمام عرض با فضای خالی در دو طرف"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-title-setting.php:237
+msgid "Full Width Content"
+msgstr "محتوای تمام عرض"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-title-setting.php:244
+msgid "Title Section Height"
+msgstr "ارتفاع بخش عنوان"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-title-setting.php:262
+msgid "Auto Height"
+msgstr "ارتفاع خودکار"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-title-setting.php:263
+msgid "Full Height"
+msgstr "تمام قد"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-title-setting.php:268
+msgid "Border for Heading"
+msgstr "کادر برای عناوین"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-title-setting.php:269
+msgid "Enable it to display a border around the title and subtitle area."
+msgstr "برای نمایش کادر دور ناحیه عنوان و زیر عنوان، این گزینه را فعال کنید."
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-title-setting.php:288
+msgid "Boxed Title"
+msgstr "عنوان جعبه ای"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-title-setting.php:289
+msgid ""
+"Enable it to wrap the title and subtitle in a box with background color."
+msgstr ""
+"برای قرار دادن عنوان و زیرعنوان در جعبه ای با رنگ پس زمینه، این گزینه را "
+"فعال کنید."
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-title-setting.php:308
+msgid "Title Box Color"
+msgstr "رنگ جعبه عنوان"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-title-setting.php:309
+msgid ""
+"Specifies a custom background color for the box around the title and "
+"subtitle."
+msgstr "رنگ پس زمینه دلخواهی را برای جعبه دور عنوان و زیرعنوان مشخص می کند."
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-title-setting.php:333
+msgid "Display Post Meta"
+msgstr "نمایش متای نوشته"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-title-setting.php:334
+msgid "Enable it to display post meta information on title section."
+msgstr "برای نمایش اطلاعات متای نوشته در بخش عنوان این گزینه را فعال کنید."
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-title-setting.php:353
+msgid "Display Breadcrumb"
+msgstr "نمایش نشانگر موقعیت"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-title-setting.php:354
+msgid "Enable it to display breadcrumb on title section."
+msgstr "برای نمایش نشانگر موقعیت در بخش عنوان این گزینه را فعال کنید."
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-title-setting.php:373
+msgid "Border for Breadcrumb"
+msgstr "کادر برای نشانگر موقعیت"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-title-setting.php:374
+msgid "Enable it to display border around breadcrumb."
+msgstr "برای نمایش کادر دور نشانگر موقعیت این گزینه را فعال کنید."
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-title-setting.php:398
+msgid "Breadcrumb Separator"
+msgstr "جداکننده نشانگر موقعیت"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-title-setting.php:421
+msgid "Slash"
+msgstr "خط کج (/)"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-title-setting.php:422
+msgid "Arrow"
+msgstr "فلش"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-title-setting.php:423
+msgid "gt"
+msgstr ""
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-title-setting.php:428
+msgid "Text Align"
+msgstr "تراز متن"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-title-setting.php:447
+#: auxin-content/admin/metaboxes/metabox-fields-post-sidebar-layout.php:108
+#: auxin-content/options/auxin-options.php:2596
+#: auxin-content/options/auxin-options.php:3106
+#: auxin-content/options/auxin-options.php:5512
+#: auxin/auxin-include/classes/class-auxin-master-nav-menu.php:67
+msgid "Left"
+msgstr "چپ"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-title-setting.php:451
+#: auxin-content/admin/metaboxes/metabox-fields-post-sidebar-layout.php:112
+#: auxin-content/options/auxin-options.php:2600
+#: auxin-content/options/auxin-options.php:3102
+#: auxin-content/options/auxin-options.php:5516
+msgid "Center"
+msgstr "وسط"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-title-setting.php:455
+#: auxin-content/options/auxin-options.php:3110
+#: auxin-content/options/auxin-options.php:5520
+#: auxin/auxin-include/classes/class-auxin-master-nav-menu.php:68
+msgid "Right"
+msgstr "راست"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-title-setting.php:462
+msgid "Vertical Position"
+msgstr "موقعیت عمودی"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-title-setting.php:463
+msgid "Specifies vertical alignment of title and subtitle."
+msgstr "تراز عمودی عنوان و زیرعنوان را مشخص می کند."
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-title-setting.php:464
+msgid ""
+"Note: Parallax feature in not available for \"Bottom Overlap\" vertical mode."
+msgstr ""
+"نکته: ویژگی اختلاف منظر برای حالت عمودی \"همپوشانی پایین\" در دسترس نیست."
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-title-setting.php:482
+#: auxin/auxin-include/classes/class-auxin-master-nav-menu.php:69
+msgid "Top"
+msgstr "بالا"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-title-setting.php:483
+msgid "Middle"
+msgstr "وسط"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-title-setting.php:484
+#: auxin/auxin-include/classes/class-auxin-master-nav-menu.php:70
+msgid "Bottom"
+msgstr "پایین"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-title-setting.php:485
+msgid "Bottom Overlap"
+msgstr "همپوشانی از پایین"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-title-setting.php:490
+msgid "Scroll Down Arrow"
+msgstr "فلش اسکرول به پایین"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-title-setting.php:491
+msgid "This option only applies if section height is \"Full Height\"."
+msgstr "این گزینه فقط زمانی کار می کند که ارتفاع این بخش \"تمام قد\" باشد."
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-title-setting.php:517
+msgid "Round"
+msgstr "گرد"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-title-setting.php:524
+msgid "Overlay Color"
+msgstr "رنگ روکش"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-title-setting.php:525
+msgid ""
+"The color that overlay on the background. Please note that color should have "
+"transparency."
+msgstr "رنگ روکش پس زمینه. لطفا توجه کنید این رنگ باید شفاف باشد."
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-title-setting.php:544
+msgid "Overlay Pattern"
+msgstr "الگوی روکش"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-title-setting.php:567
+msgid "Hash"
+msgstr "درهم"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-title-setting.php:574
+msgid "Color Mode"
+msgstr "حالت رنگ"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-title-setting.php:592
+#: auxin-content/options/auxin-options.php:1283
+#: auxin-content/options/auxin-options.php:1303
+#: auxin-content/options/auxin-options.php:2180
+#: auxin-content/options/auxin-options.php:2473
+msgid "Dark"
+msgstr "تیره"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-title-setting.php:593
+#: auxin-content/options/auxin-options.php:1287
+#: auxin-content/options/auxin-options.php:1307
+#: auxin-content/options/auxin-options.php:2176
+#: auxin-content/options/auxin-options.php:2469
+msgid "Light"
+msgstr "روشن"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-title-setting.php:600
+msgid "Enable Title Background"
+msgstr "فعالسازی پس زمینه عنوان"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-title-setting.php:601
+msgid "Enable it to display custom background for title section."
+msgstr "برای سفارشی سازی پس زمینه بخش عنوان این گزینه را فعال کنید."
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-title-setting.php:621
+msgid "Background for title section"
+msgstr "پس زمینه برای بخش عنوان"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-title-setting.php:644
+msgid "Title Background"
+msgstr "پس زمینه عنوان"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-title-setting.php:645
+msgid "Specifies a background for title bar."
+msgstr "یک رنگ پس زمینه برای نوار عنوان مشخص می کند."
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-title-setting.php:678
+msgid "Enable Parallax Effect"
+msgstr " فعالسازی افکت اختلاف منظر (پارالاکس)"
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-title-setting.php:679
+msgid "Enable it to have parallax background effect on this section."
+msgstr "برای داشتن حالت اختلاف منظر در این بخش این گزینه را فعال کنید."
+
+#: auxin-content/admin/metaboxes/metabox-fields-general-title-setting.php:680
+msgid ""
+"Note: Parallax feature in not available for \"Bottom Overlap\" mode for "
+"\"Vertical Position\" option."
+msgstr ""
+"نکته: ویژگی اختلاف منظر برای حالت \"همپوشانی پایین\" در تنظیمات \"موقعیت "
+"عمودی\" در دسترس نیست."
+
+#: auxin-content/admin/metaboxes/metabox-fields-post-featured-image.php:12
+#, fuzzy
+#| msgid "Featured image"
+msgid "Featured Image Setting"
+msgstr "تصویر شاخص"
+
+#: auxin-content/admin/metaboxes/metabox-fields-post-featured-image.php:16
+msgid "Display featured image on archive blog?"
+msgstr ""
+
+#: auxin-content/admin/metaboxes/metabox-fields-post-featured-image.php:17
+msgid ""
+"Specifies whether to display the featured image of this post on blog archive "
+"page or not. \"Auto\" means the featured image will be disabled "
+"automatically if there is an image in content too. Note: This option only "
+"applies to \"image\" and \"standard\" post format."
+msgstr ""
+
+#: auxin-content/admin/metaboxes/metabox-fields-post-featured-image.php:22
+#: auxin-content/options/auxin-options.php:638
+#: auxin/auxin-include/classes/class-auxin-master-nav-menu.php:66
+#: auxin/auxin-include/classes/class-auxin-metabox-view.php:746
+msgid "Auto"
+msgstr "خودکار"
+
+#: auxin-content/admin/metaboxes/metabox-fields-post-featured-image.php:23
+#: auxin-content/admin/metaboxes/metabox-fields-post-featured-image.php:36
+msgid "Yes, always"
+msgstr ""
+
+#: auxin-content/admin/metaboxes/metabox-fields-post-featured-image.php:24
+#: auxin-content/admin/metaboxes/metabox-fields-post-featured-image.php:37
+#, fuzzy
+#| msgid "None"
+msgid "No"
+msgstr "هیچکدام"
+
+#: auxin-content/admin/metaboxes/metabox-fields-post-featured-image.php:29
+#, fuzzy
+#| msgid "Specifies title alignment on single post."
+msgid "Display featured image on single post?"
+msgstr "تراز عنوان را در نوشته تکی مشخص می کند."
+
+#: auxin-content/admin/metaboxes/metabox-fields-post-featured-image.php:30
+msgid ""
+"Specifies whether to display the featured image of this post on single page "
+"or not. Note: This option only applies to \"image\" and \"standard\" post "
+"format."
+msgstr ""
+
+#: auxin-content/admin/metaboxes/metabox-fields-post-sidebar-layout.php:18
+msgid "Layout options"
+msgstr "تنظیمات چیدمان"
+
+#: auxin-content/admin/metaboxes/metabox-fields-post-sidebar-layout.php:22
+msgid "Post Sidebar Layout"
+msgstr "چیدمان ستون کناری نوشته"
+
+#: auxin-content/admin/metaboxes/metabox-fields-post-sidebar-layout.php:23
+msgid ""
+"Specifies the position of sidebar on this post. The default (first) choice, "
+"is the one that you have specified in theme options.[Blog > Single Post]"
+msgstr ""
+"موقعیت ستون کناری در نوشته را مشخص می کند. پیش فرض، همان است که در تنظیمات "
+"پوسته مشخص کرده اید. [بلاگ > نوشته تکی]"
+
+#: auxin-content/admin/metaboxes/metabox-fields-post-sidebar-layout.php:29
+#: auxin-content/admin/metaboxes/metabox-fields-post-sidebar-layout.php:78
+#: auxin-content/admin/metaboxes/metabox-fields-post-sidebar-layout.php:126
+msgid "Default, set theme option"
+msgstr "پیش فرض، تنظیم شده در تنظیمات پوسته"
+
+#: auxin-content/admin/metaboxes/metabox-fields-post-sidebar-layout.php:63
+msgid "Post Sidebar Style"
+msgstr "ظاهر ستون کناری صفحه نوشته"
+
+#: auxin-content/admin/metaboxes/metabox-fields-post-sidebar-layout.php:64
+msgid ""
+"Specifies the style of sidebar on this post. The default (first) style, is "
+"the one that you have specified in theme options.[Blog > Single Post]"
+msgstr ""
+"موقعیت ستون کناری در نوشته را مشخص می کند. پیش فرض، همان است که در تنظیمات "
+"پوسته مشخص کرده اید. [بلاگ > نوشته تکی]"
+
+#: auxin-content/admin/metaboxes/metabox-fields-post-sidebar-layout.php:97
+#: auxin-content/options/auxin-options.php:2587
+msgid "Title Alignment"
+msgstr "تراز عنوان"
+
+#: auxin-content/admin/metaboxes/metabox-fields-post-sidebar-layout.php:98
+msgid "Specifies alignment for the title in the page content."
+msgstr "تراز عنوان را در محتوای صفحه مشخص می کند."
+
+#: auxin-content/admin/metaboxes/metabox-fields-post-sidebar-layout.php:119
+#: auxin-content/options/auxin-options.php:2609
+msgid "Content Style"
+msgstr "ظاهر محتوا"
+
+#: auxin-content/admin/metaboxes/metabox-fields-post-sidebar-layout.php:120
+msgid ""
+"You can reduce the width of text lines and increase the readability of "
+"context (does not affect the width of media). The default (first) choice is "
+"the one that you have specified in theme options.[Blog > Single Post > "
+"Content Style]"
+msgstr ""
+"شما می توانید عرض خطوط نوشته ها را کم کنید تا خوانایی را افزایش دهید (روی "
+"عرض رسانه ها تاثیری نخواهد گذاشت). انتخاب پیش فرض (اول) همان است که در "
+"تنظیمات پوسته انتخاب شده است. [بلاگ > نوشته تکی > ظاهر محتوا]"
+
+#: auxin-content/admin/metaboxes/metabox-fields-post-sidebar-layout.php:134
+#: auxin-content/options/auxin-options.php:2620
+msgid "Narrow Content"
+msgstr "محتوای باریک"
+
+#: auxin-content/admin/metaboxes/metabox-fields-post-sidebar-layout.php:142
+msgid ""
+"whether you want to display a space between title and content or not. If you "
+"need to start your content from very top of the page, disable it."
+msgstr ""
+"مشخص می کند فاصله بین عنوان و محتوا نمایش داده شود یا خیر. اگر صلاح می دانید "
+"محتوا را از بالاترین نقطه صفحه شروع کنید، این گزینه را غیرفعال کنید."
+
+#: auxin-content/include/functions.php:14
+#, fuzzy
+#| msgid "Black"
+msgid "black"
+msgstr "مشکی"
+
+#: auxin-content/include/functions.php:18
+msgid "White"
+msgstr "سفید"
+
+#: auxin-content/include/functions.php:22
+msgid "Masala"
+msgstr "جگری"
+
+#: auxin-content/include/functions.php:26
+msgid "Dark Gray"
+msgstr "خاکستری تیره"
+
+#: auxin-content/include/functions.php:30
+msgid "Ball Blue"
+msgstr "آبی دریایی"
+
+#: auxin-content/include/functions.php:34
+msgid "Fountain Blue"
+msgstr "آبی فیروزه ای"
+
+#: auxin-content/include/functions.php:38
+msgid "Shamrock"
+msgstr "سبز گشنیزی"
+
+#: auxin-content/include/functions.php:42
+msgid "Curios Blue"
+msgstr "آبی نفتی"
+
+#: auxin-content/include/functions.php:46
+msgid "Light Sea Green"
+msgstr "سبز دریایی روشن"
+
+#: auxin-content/include/functions.php:50
+msgid "Emerald"
+msgstr "زمردی"
+
+#: auxin-content/include/functions.php:54
+msgid "Energy Yellow"
+msgstr "زرد شاد"
+
+#: auxin-content/include/functions.php:58
+msgid "Mikado Yellow"
+msgstr "زرد چوبی"
+
+#: auxin-content/include/functions.php:62
+msgid "Pink Salmon"
+msgstr "صورتی کرم"
+
+#: auxin-content/include/functions.php:66
+msgid "Wisteria"
+msgstr "یاسی تیره"
+
+#: auxin-content/include/functions.php:70
+msgid "Lilac"
+msgstr "یاسی روشن"
+
+#: auxin-content/include/functions.php:74
+msgid "Pale Sky"
+msgstr "آبی آسمانی کم رنگ"
+
+#: auxin-content/include/functions.php:78
+msgid "Tower Gray"
+msgstr "خاکستری سیر"
+
+#: auxin-content/include/functions.php:83
+msgid "William"
+msgstr ""
+
+#: auxin-content/include/functions.php:87
+msgid "Carmine Pink"
+msgstr "شرابی"
+
+#: auxin-content/include/functions.php:91
+msgid "Persimmon"
+msgstr "خرمالویی"
+
+#: auxin-content/include/functions.php:95
+msgid "Tan Hide"
+msgstr "کرم قهوه ای"
+
+#: auxin-content/include/functions.php:99
+msgid "Wild Watermelon"
+msgstr "هندوانه ای روشن"
+
+#: auxin-content/include/functions.php:103
+msgid "Iceberg"
+msgstr "یخی"
+
+#: auxin-content/include/functions.php:108
+msgid "Dark Lavender"
+msgstr "بنفش اسطوخودوسی"
+
+#: auxin-content/include/functions.php:112
+msgid "Viking"
+msgstr ""
+
+#: auxin-content/include/functions.php:116
+msgid "Tiffany Blue"
+msgstr ""
+
+#: auxin-content/include/functions.php:120
+msgid "Pastel Orange"
+msgstr "نارنجی پاستیلی"
+
+#: auxin-content/include/functions.php:124
+msgid "East Bay"
+msgstr "سورمه ای خلیجی"
+
+#: auxin-content/include/functions.php:128
+msgid "Steel Blue"
+msgstr "آبی فلزی"
+
+#: auxin-content/include/functions.php:132
+msgid "Half Backed"
+msgstr "طلایی قهوه ای"
+
+#: auxin-content/include/functions.php:136
+msgid "Tapestry"
+msgstr ""
+
+#: auxin-content/include/functions.php:140
+msgid "Fire Engine Red"
+msgstr "قرمز آتشی"
+
+#: auxin-content/include/functions.php:144
+msgid "Dark Orange"
+msgstr "نارنجی تیره"
+
+#: auxin-content/include/functions.php:148
+msgid "Brick Red"
+msgstr "قرمز آجری"
+
+#: auxin-content/include/functions.php:152
+msgid "Khaki"
+msgstr "خاکی"
+
+#: auxin-content/include/hooks-admin.php:83
+#, fuzzy
+#| msgid "Auxin Elements"
+msgid "Phlox Elements"
+msgstr "المان های آوکسین"
+
+#: auxin-content/include/hooks-admin.php:89
+#, fuzzy
+#| msgid "All Portfolios"
+msgid "Phlox Portfolio"
+msgstr "همه نمونه کارها"
+
+#: auxin-content/include/hooks-admin.php:95
+msgid "Page Builder"
+msgstr "صفحه ساز"
+
+#: auxin-content/include/hooks-admin.php:101
+msgid "Page Builder Widgets Bundle"
+msgstr "بسته ابزارک های صفحه ساز"
+
+#: auxin-content/include/hooks-admin.php:107
+msgid "Instagram Feed"
+msgstr "خوراک اینستاگرام"
+
+#: auxin-content/include/hooks-admin.php:113
+msgid "WordPress SEO"
+msgstr "وردپرس سئو"
+
+#: auxin-content/include/hooks-admin.php:119
+msgid "Recent Tweets Widget"
+msgstr "ابزارک توییت های اخیر"
+
+#: auxin-content/include/hooks-admin.php:178
+msgid "MasterSlider by averta"
+msgstr "مستر اسلایدر توسط اورتا"
+
+#: auxin-content/include/hooks-admin.php:206
+#, fuzzy
+#| msgid "Install Required Plugins"
+msgid "Install Recommended Plugins"
+msgstr "نصب افزونه های لازم"
+
+#: auxin-content/include/hooks-admin.php:207
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "نصب افزونه ها"
+
+#: auxin-content/include/hooks-admin.php:221
+msgid "Get Started"
+msgstr ""
+
+#: auxin-content/include/hooks-admin.php:223
+msgid "Features for sweet blogging"
+msgstr "ویژگی هایی برای یک وبلاگ نویسی شیرین"
+
+#: auxin-content/include/hooks-admin.php:227
+msgid "INTEGRATED PAGE BUILDER"
+msgstr "صفحه ساز یکپارچه"
+
+#: auxin-content/include/hooks-admin.php:228
+#, php-format
+msgid ""
+"Create your awesome pages easily. Only use your mouse and build your page "
+"visually. PHLOX is 100% compatible with SiteOrigin Page builder."
+msgstr ""
+"صفحات بی نظیر خود را بسازید. کافیست از ماوس خود استفاده کنید تا صفحه خود را "
+"به صورت بصری بسازید. فلوکس 100%c با صفحه ساز سایت اوریجین سازگار است."
+
+#: auxin-content/include/hooks-admin.php:232
+msgid "THEME OPTIONS IN CUSTOMIZE"
+msgstr "تنظیمات پوسته سفارشی"
+
+#: auxin-content/include/hooks-admin.php:233
+msgid ""
+"Experience the next level of WordPress in PHLOX, All the theme options are "
+"available in customize and you can see your changes real-time."
+msgstr ""
+"مرحله جدیدی از وردپرس را با فلوکس تجربه کنید، همه تنظیمات پوسته در سفارشی "
+"ساز قابل دسترس هستند و می توانید نتیجه تغییرات را به صورت زنده مشاهده کنید."
+
+#: auxin-content/include/hooks-admin.php:237
+msgid "CUSTOM WIDGETS"
+msgstr "ابزارک های دلخواه"
+
+#: auxin-content/include/hooks-admin.php:238
+msgid ""
+"PHLOX can satisfy your taste in terms of widgets, there is built-in widgets "
+"for almost any needs which you can simply use them."
+msgstr ""
+"فلوکس می تواند طعم دلخواه کار با ابزارک ها را به شما بچشاند، ابزارک های "
+"داخلی موجود تقریبا همه نیازهای شما را برآورده می کنند و می توانید به راحتی "
+"از آن ها استفاده کنید."
+
+#: auxin-content/include/hooks-admin.php:276
+#: auxin/auxin-include/classes/class-auxin-about.php:156
+msgid "Welcome"
+msgstr "خوش آمدید"
+
+#: auxin-content/include/hooks-admin.php:277
+#, php-format
+msgid ""
+"We wish you experience a happy journey with %s theme, and we are trying our "
+"best to make this happen."
+msgstr ""
+" ما تلاش می کنیم بهترین ها را برای شما به ارمغان بیاوریم تا تجربه ی بی نظیری "
+"از کار با پوسته %s داشته باشید."
+
+#: auxin-content/include/hooks-admin.php:341
+#, fuzzy
+#| msgid "Recommended"
+msgid "Recommended Plugins"
+msgstr "توصیه شده"
+
+#: auxin-content/include/hooks-admin.php:342
+#, php-format
+msgid "The required and recommended list of plugins for %s theme."
+msgstr "لیستی از افزونه های ضروری و توصیه شده برای %s پوسته."
+
+#: auxin-content/include/hooks-admin.php:389
+msgid "Customize Theme"
+msgstr "سفارشی سازی پوسته"
+
+#: auxin-content/include/hooks-admin.php:412
+msgid "Documentation"
+msgstr "مستندات"
+
+#: auxin-content/include/hooks-admin.php:413
+msgid ""
+"There is a complete documentation for PHLOX. It will be always up to date. "
+"You can easily find out how to create you awesome in PHLOX by having look at "
+"this documentation."
+msgstr ""
+"مستندات کاملی برای فلوکس موجود است و همواره بروز خواهد بود. با نگاه کردن به "
+"مستندات براحتی خواهید دانست چگونه بهترین ها را با فلوکس بسازید."
+
+#: auxin-content/include/hooks-admin.php:414
+msgid "Visit Documentation"
+msgstr "نمایش مستندات"
+
+#: auxin-content/include/hooks-admin.php:425
+msgid "Support Forum"
+msgstr "انجمن پشتیبانی"
+
+#: auxin-content/include/hooks-admin.php:426
+msgid ""
+"There is a dedicated support forum with in case you have any issue. Please "
+"do not hesitate to submit a ticket our expert support staff would be happy "
+"to help you."
+msgstr ""
+"یک انجمن پشتیبانی بخصوص برای مواقعی که با مشکلی روبرو می شوید وجود دارد. "
+"لطفا از ایجاد درخواست پشتیبانی خجالت نکشید، پشتیبان های ما از کمک کردن به "
+"شما خوشحال می شوند."
+
+#: auxin-content/include/hooks-admin.php:427
+msgid "Submit a Ticket"
+msgstr "درخواست پشتیبانی"
+
+#: auxin-content/include/hooks-admin.php:437
+msgid "Video Tutorial (Coming Soon)"
+msgstr "آموزش های ویدیویی (به زودی)"
+
+#: auxin-content/include/hooks-admin.php:438
+msgid ""
+"We are making a series of video tutorial on how to use PHLOX, and we hope it "
+"will be available soon."
+msgstr ""
+"در حال ساخت مجموعه ای از آموزش های ویدویی درباره چگونگی استفاده از فلوکس "
+"هستیم و امیدواریم بزودی در دسترس قرار بگیرد."
+
+#: auxin-content/include/hooks-admin.php:447
+msgid "Help"
+msgstr "کمک"
+
+#: auxin-content/include/hooks-admin.php:448
+#, php-format
+msgid "References and tutorials for %s theme."
+msgstr "منابع و آموزش ها برای پوسته %s."
+
+#: auxin-content/include/hooks-admin.php:472
+msgid "The Journey"
+msgstr "سفرنامه"
+
+#: auxin-content/include/hooks-admin.php:473
+msgid ""
+"Create your awesome Journey Website using this demo as a starter. Best "
+"choice for adventure looks."
+msgstr ""
+"به راحتی یک وب سایت درباره سفرنامه ها بسازید. بهترین انتخاب برای جهانگردها."
+
+#: auxin-content/include/hooks-admin.php:480
+msgid "Classic Blog"
+msgstr "بلاگ کلاسیک"
+
+#: auxin-content/include/hooks-admin.php:481
+msgid ""
+"Create your classic good looking Blog using this demo as a starter. Best "
+"choice for a classic blogger."
+msgstr ""
+"به راحتی یک بلاگ منظم و تمیز بسازید. بهترین انتخاب برای بلاگر های کلاسیک."
+
+#: auxin-content/include/hooks-admin.php:488
+msgid "Food Blog"
+msgstr "بلاگ غذا"
+
+#: auxin-content/include/hooks-admin.php:489
+msgid ""
+"Create your awesome Food Website using this demo as a starter. Best choice "
+"for restaurant looks."
+msgstr ""
+"به راحتی یک سایت عالی در زمینه تغذیه بسازید. بهترین انتخاب برای رستوران ها."
+
+#: auxin-content/init/const.php:20 auxin-content/init/const.php:24
+msgid "Phlox"
+msgstr "فلوکس"
+
+#: auxin-content/init/const.php:25
+msgid "PHLOX"
+msgstr "فلوکس"
+
+#: auxin-content/options/auxin-options.php:24
+msgid "General"
+msgstr "عمومی"
+
+#: auxin-content/options/auxin-options.php:34
+msgid "General Layout"
+msgstr "چیدمان عمومی"
+
+#: auxin-content/options/auxin-options.php:35
+msgid "General Layout Setting"
+msgstr "تنظیمات چیدمان عمومی"
+
+#: auxin-content/options/auxin-options.php:40
+msgid "Website Layout"
+msgstr "چیدمان وب سایت"
+
+#: auxin-content/options/auxin-options.php:41
+msgid "If you choose \"Boxed\", site content will be wrapped in a box."
+msgstr "اگر \"جعبه ای\" را انتخاب کنید، محتوای سایت درون یک جعبه قرار می گیرد."
+
+#: auxin-content/options/auxin-options.php:75
+msgid "Site Max width"
+msgstr "بیشترین عرض سایت"
+
+#: auxin-content/options/auxin-options.php:76
+msgid "Specifies the maximum width of website."
+msgstr "حداکثر عرض وب سایت را مشخص می کند."
+
+#: auxin-content/options/auxin-options.php:83
+msgid "1000 Pixels"
+msgstr "1000 پیکسل"
+
+#: auxin-content/options/auxin-options.php:84
+msgid "1200 Pixels"
+msgstr "1200 پیکسل"
+
+#: auxin-content/options/auxin-options.php:85
+msgid "1400 Pixels"
+msgstr "1400 پیکسل"
+
+#: auxin-content/options/auxin-options.php:86
+msgid "1600 Pixels"
+msgstr "1600 پیکسل"
+
+#: auxin-content/options/auxin-options.php:87
+msgid "1900 Pixels"
+msgstr "1900 پیکسل"
+
+#: auxin-content/options/auxin-options.php:102
+msgid "Logo"
+msgstr "لوگو"
+
+#: auxin-content/options/auxin-options.php:103
+msgid "Logo Setting"
+msgstr "تنظیمات لوگو"
+
+#: auxin-content/options/auxin-options.php:107
+msgid "Logo Width"
+msgstr "عرض لوگو"
+
+#: auxin-content/options/auxin-options.php:108
+msgid "Set the width of site logo image in pixel."
+msgstr "عرض تصویر لوگوی سایت را بر حسب پیکسل مشخص می کند."
+
+#: auxin-content/options/auxin-options.php:197
+#: auxin-content/options/auxin-options.php:198
+msgid "Website Socials"
+msgstr "شبکه های اجتماعی وب سایت"
+
+#: auxin-content/options/auxin-options.php:202
+msgid "Facebook"
+msgstr "فیسبوک"
+
+#: auxin-content/options/auxin-options.php:203
+#: auxin-content/options/auxin-options.php:215
+#: auxin-content/options/auxin-options.php:227
+#: auxin-content/options/auxin-options.php:238
+#: auxin-content/options/auxin-options.php:249
+#: auxin-content/options/auxin-options.php:260
+#: auxin-content/options/auxin-options.php:271
+#: auxin-content/options/auxin-options.php:282
+#: auxin-content/options/auxin-options.php:293
+#: auxin-content/options/auxin-options.php:304
+#: auxin-content/options/auxin-options.php:315
+#: auxin-content/options/auxin-options.php:326
+#: auxin-content/options/auxin-options.php:338
+#: auxin-content/options/auxin-options.php:349
+#: auxin-content/options/auxin-options.php:360
+#: auxin-content/options/auxin-options.php:371
+#: auxin-content/options/auxin-options.php:383
+#: auxin-content/options/auxin-options.php:394
+msgid "Should start with <code>http://</code>"
+msgstr "باید با <code>http://</code> شروع شود"
+
+#: auxin-content/options/auxin-options.php:214
+msgid "Twitter"
+msgstr "تویتتر"
+
+#: auxin-content/options/auxin-options.php:226
+msgid "Google +"
+msgstr "گوگل پلاس"
+
+#: auxin-content/options/auxin-options.php:237
+msgid "Dribbble"
+msgstr "دریبل"
+
+#: auxin-content/options/auxin-options.php:248
+msgid "YouTube"
+msgstr "یوتیوب"
+
+#: auxin-content/options/auxin-options.php:259
+msgid "Vimeo"
+msgstr "ویمو"
+
+#: auxin-content/options/auxin-options.php:270
+msgid "Flickr"
+msgstr "فلیکر"
+
+#: auxin-content/options/auxin-options.php:281
+msgid "Digg"
+msgstr "دیگ"
+
+#: auxin-content/options/auxin-options.php:292
+msgid "Stumbleupon"
+msgstr "استامبل آپن"
+
+#: auxin-content/options/auxin-options.php:303
+msgid "LastFM"
+msgstr "لست اف ام"
+
+#: auxin-content/options/auxin-options.php:314
+msgid "Delicious"
+msgstr "دلیسیوس"
+
+#: auxin-content/options/auxin-options.php:325
+msgid "Skype"
+msgstr "اسکایپ"
+
+#: auxin-content/options/auxin-options.php:337
+msgid "LinkedIn"
+msgstr "لینکدین"
+
+#: auxin-content/options/auxin-options.php:348
+msgid "Tumblr"
+msgstr "تامبلر"
+
+#: auxin-content/options/auxin-options.php:359
+msgid "Pinterest"
+msgstr "پینترست"
+
+#: auxin-content/options/auxin-options.php:370
+msgid "Instagram"
+msgstr "اینستاگرام"
+
+#: auxin-content/options/auxin-options.php:382
+msgid "VK"
+msgstr ""
+
+#: auxin-content/options/auxin-options.php:393
+msgid "Telegram"
+msgstr ""
+
+#: auxin-content/options/auxin-options.php:404
+msgid "RSS"
+msgstr "آر اس اس"
+
+#: auxin-content/options/auxin-options.php:405
+msgid "Enter your RSS Feed page. For example :"
+msgstr "آدرس صفحه خوراک RSS خود را وارد کنید. برای مثال:"
+
+#: auxin-content/options/auxin-options.php:420
+msgid "Page Animation and Preloading"
+msgstr "انیمیشن صفحه و پیش بارگذاری"
+
+#: auxin-content/options/auxin-options.php:421
+msgid "Page Animation and Preloading Setting"
+msgstr "تنظیمات انیمیشن صفحه و پیش بارگذاری"
+
+#: auxin-content/options/auxin-options.php:425
+msgid "Enable Page Animation"
+msgstr "فعالسازی انیمیشن صفحه"
+
+#: auxin-content/options/auxin-options.php:426
+msgid ""
+"If you enable this option, pages animate when user navigates between pages."
+msgstr ""
+"اگر این گزینه را فعال کنید، صفحه هنگام جابجایی بین صفحات دارای انیمیشن خواهد "
+"بود."
+
+#: auxin-content/options/auxin-options.php:435
+msgid "Animation Type"
+msgstr ""
+
+#: auxin-content/options/auxin-options.php:447
+#: auxin-content/options/auxin-options.php:1825
+msgid "Fade"
+msgstr "محو"
+
+#: auxin-content/options/auxin-options.php:448
+msgid "Circle"
+msgstr ""
+
+#: auxin-content/options/auxin-options.php:455
+msgid "Enable Page Preloading"
+msgstr "فعالسازی پیش بارگذاری صفحه"
+
+#: auxin-content/options/auxin-options.php:456
+msgid "If you enable this option, the page images preload before they appear"
+msgstr ""
+"اگر این گزینه را فعال کنید، تصاویر صفحه از قبل از نمایش بارگذاری می شوند."
+
+#: auxin-content/options/auxin-options.php:465
+msgid "Use custom loading"
+msgstr ""
+
+#: auxin-content/options/auxin-options.php:466
+#, fuzzy
+#| msgid "Enable it to display custom background for this page."
+msgid "Enable this option to insert custom loading for the page."
+msgstr "برای نمایش پس زمینه دلخواه این گزینه را فعال کنید."
+
+#: auxin-content/options/auxin-options.php:482
+#, fuzzy
+#| msgid "Logo Image"
+msgid "Loading image"
+msgstr "تصویر لوگو"
+
+#: auxin-content/options/auxin-options.php:483
+msgid "Select an animated gif to appear as page loading."
+msgstr ""
+
+#: auxin-content/options/auxin-options.php:499
+msgid "Add Progress Bar"
+msgstr "افزودن نوار پیشرفت"
+
+#: auxin-content/options/auxin-options.php:500
+msgid ""
+"It adds a progress bar to top side of the page which progresses while "
+"loading page assets."
+msgstr ""
+"یک نوار پیشرفت به بالای صفحه اضافه می کند که میزان پیشرفت بارگذاری محتوای "
+"صفحه را نشان می دهد."
+
+#: auxin-content/options/auxin-options.php:516
+msgid "Progress Bar Color"
+msgstr "رنگ نوار پیشرفت"
+
+#: auxin-content/options/auxin-options.php:545
+msgid "Appearance"
+msgstr "ظاهر"
+
+#: auxin-content/options/auxin-options.php:546
+msgid "Appearance Setting"
+msgstr "تنظیمات ظاهری"
+
+#: auxin-content/options/auxin-options.php:555
+msgid "Website Background"
+msgstr "پس زمینه وب سایت"
+
+#: auxin-content/options/auxin-options.php:556
+msgid "Website Background Setting"
+msgstr "تنظیمات پس زمینه وب سایت"
+
+#: auxin-content/options/auxin-options.php:560
+msgid "Enable background"
+msgstr "فعالسازی پس زمینه"
+
+#: auxin-content/options/auxin-options.php:561
+msgid ""
+"Specifies the background options for the body of website (the canvas behind "
+"the boxed website). If you enable this option, the following option "
+"overrides default background styles."
+msgstr ""
+"تنظیمات پس زمینه برای بدنه سایت را مشخص می کند. اگر این گزینه را فعال کنید، "
+"تنظیمات زیر باعث می شوند ظاهر پس زمینه پیش فرض نادیده گرفته شود."
+
+#: auxin-content/options/auxin-options.php:562
+msgid ""
+"Please note that these options work only if \"Website Layout\" options is "
+"set to \"Boxed layout\"."
+msgstr ""
+"لطفا توجه کنید این تنظیمات تنها زمانی کار می کند که تنظیمات \"چیدمان وب سایت"
+"\" روی \"چیدمان جعبه ای\" تنظیم شده باشد."
+
+#: auxin-content/options/auxin-options.php:572
+#: auxin-content/options/auxin-options.php:5055
+#: auxin-content/options/auxin-options.php:5190
+#: auxin/auxin-include/classes/class-auxin-metabox-view.php:640
+msgid "Background Color"
+msgstr "رنگ پس زمینه"
+
+#: auxin-content/options/auxin-options.php:574
+msgid "Specifies the color of website background."
+msgstr "رنگ پس زمینه سایت را مشخص می کند."
+
+#: auxin-content/options/auxin-options.php:600
+msgid "Background Image"
+msgstr "تصویر پس زمینه"
+
+#: auxin-content/options/auxin-options.php:602
+msgid "You can upload custom image for site background."
+msgstr "می توانید تصویر دلخواهی برای پس زمینه سایت بارگذاری کنید."
+
+#: auxin-content/options/auxin-options.php:631
+msgid "Background Size"
+msgstr "اندازه پس زمینه"
+
+#: auxin-content/options/auxin-options.php:632
+#: auxin/auxin-include/classes/class-auxin-metabox-view.php:743
+msgid "Specifies the background size."
+msgstr "اندازه پس زمینه را مشخص می کند."
+
+#: auxin-content/options/auxin-options.php:642
+#: auxin/auxin-include/classes/class-auxin-metabox-view.php:751
+msgid "Contain"
+msgstr "دربرگیرنده"
+
+#: auxin-content/options/auxin-options.php:646
+#: auxin/auxin-include/classes/class-auxin-metabox-view.php:755
+msgid "Cover"
+msgstr "پوشاننده"
+
+#: auxin-content/options/auxin-options.php:673
+msgid "Background Pattern"
+msgstr "الگوی پس زمینه"
+
+#: auxin-content/options/auxin-options.php:674
+#, php-format
+msgid ""
+"You can select one of these patterns as site background image. %s Some of "
+"these can be used as a pattern over your background image."
+msgstr ""
+"می توانید یکی از این الگوها را به عنوان تصویر پس زمینه انتخاب کنید. %s بعضی "
+"از این ها می توانند به عنوان الگو بر روی تصویر پس زمینه شما استفاده شوند."
+
+#: auxin-content/options/auxin-options.php:703
+msgid "Background Repeat"
+msgstr "تکرار پس زمینه"
+
+#: auxin-content/options/auxin-options.php:704
+msgid "Specifies how background image repeats."
+msgstr "نحوه تکرار تصویر پس زمینه را مشخص می کند."
+
+#: auxin-content/options/auxin-options.php:709
+#: auxin/auxin-include/classes/class-auxin-metabox-view.php:652
+msgid "No repeat"
+msgstr "بدون تکرار"
+
+#: auxin-content/options/auxin-options.php:713
+#: auxin/auxin-include/classes/class-auxin-metabox-view.php:657
+msgid "Repeat horizontally and vertically"
+msgstr "تکرار افقی و عمودی"
+
+#: auxin-content/options/auxin-options.php:717
+#: auxin/auxin-include/classes/class-auxin-metabox-view.php:662
+msgid "Repeat horizontally"
+msgstr "تکرار افقی"
+
+#: auxin-content/options/auxin-options.php:721
+#: auxin/auxin-include/classes/class-auxin-metabox-view.php:667
+msgid "Repeat vertically"
+msgstr "تکرار عمودی"
+
+#: auxin-content/options/auxin-options.php:751
+msgid "Background Position"
+msgstr "موقعیت پس زمینه"
+
+#: auxin-content/options/auxin-options.php:752
+msgid "Specifies background image position."
+msgstr "موقعیت تصویر پس زمینه را مشخص می کند."
+
+#: auxin-content/options/auxin-options.php:757
+#: auxin/auxin-include/classes/class-auxin-metabox-view.php:699
+msgid "Left top"
+msgstr "چپ بالا"
+
+#: auxin-content/options/auxin-options.php:761
+#: auxin/auxin-include/classes/class-auxin-metabox-view.php:703
+msgid "Center top"
+msgstr "وسط بالا"
+
+#: auxin-content/options/auxin-options.php:765
+#: auxin/auxin-include/classes/class-auxin-metabox-view.php:707
+msgid "Right top"
+msgstr "راست بالا"
+
+#: auxin-content/options/auxin-options.php:770
+#: auxin/auxin-include/classes/class-auxin-metabox-view.php:712
+msgid "Left center"
+msgstr "چپ وسط"
+
+#: auxin-content/options/auxin-options.php:774
+#: auxin/auxin-include/classes/class-auxin-metabox-view.php:716
+msgid "Center center"
+msgstr "وسط وسط"
+
+#: auxin-content/options/auxin-options.php:778
+#: auxin/auxin-include/classes/class-auxin-metabox-view.php:720
+msgid "Right center"
+msgstr "راست بالا"
+
+#: auxin-content/options/auxin-options.php:783
+#: auxin/auxin-include/classes/class-auxin-metabox-view.php:725
+msgid "Left bottom"
+msgstr "چپ پایین"
+
+#: auxin-content/options/auxin-options.php:787
+#: auxin/auxin-include/classes/class-auxin-metabox-view.php:729
+msgid "Center bottom"
+msgstr "وسط پایین"
+
+#: auxin-content/options/auxin-options.php:791
+#: auxin/auxin-include/classes/class-auxin-metabox-view.php:733
+msgid "Right bottom"
+msgstr "راست پایین"
+
+#: auxin-content/options/auxin-options.php:820
+msgid "Background Attachment"
+msgstr "پیوست پس زمینه"
+
+#: auxin-content/options/auxin-options.php:821
+msgid ""
+"Specifies whether the background is fixed or scrollable as user scrolls the "
+"page."
+msgstr ""
+"مشخص می کند پس زمینه هنگام اسکرول کردن صفحه توسط کاربر ثابت باشد یا اسکرول "
+"شود."
+
+#: auxin-content/options/auxin-options.php:827
+#: auxin/auxin-include/classes/class-auxin-metabox-view.php:680
+msgid "Scroll"
+msgstr "اسکرول"
+
+#: auxin-content/options/auxin-options.php:831
+#: auxin/auxin-include/classes/class-auxin-metabox-view.php:685
+msgid "Fixed"
+msgstr "ثابت"
+
+#: auxin-content/options/auxin-options.php:862
+msgid "Content Background"
+msgstr "پس زمینه محتوا"
+
+#: auxin-content/options/auxin-options.php:863
+msgid "Content Background Setting"
+msgstr "تنظیمات پس زمینه محتوا"
+
+#: auxin-content/options/auxin-options.php:867
+msgid "Content Background Color"
+msgstr "رنگ پس زمینه محتوا"
+
+#: auxin-content/options/auxin-options.php:869
+msgid "Specifies the color of content background."
+msgstr "رنگ پس زمینه محتوا را مشخص می کند."
+
+#: auxin-content/options/auxin-options.php:1052
+msgid "Typography"
+msgstr "تایپوگرافی"
+
+#: auxin-content/options/auxin-options.php:1053
+msgid "Typography Setting"
+msgstr "تنظیم تایپوگرافی"
+
+#: auxin-content/options/auxin-options.php:1057
+msgid "Enable Custom Typography"
+msgstr "فعالسازی تایپوگرافی دلخواه"
+
+#: auxin-content/options/auxin-options.php:1058
+msgid ""
+"The following options override defaults typography if you enable this option."
+msgstr "با فعال شدن این گزینه تنظیمات پیش فرض تایپوگرافی نادیده گرفته می شوند."
+
+#: auxin-content/options/auxin-options.php:1068
+msgid "Main Content"
+msgstr "محتوای اصلی"
+
+#: auxin-content/options/auxin-options.php:1069
+msgid "Specifies content typography."
+msgstr "تایپوگرافی محتوا را مشخص می کند."
+
+#: auxin-content/options/auxin-options.php:1114
+msgid "Main Titles"
+msgstr "عنوان اصلی"
+
+#: auxin-content/options/auxin-options.php:1115
+#, php-format
+msgid ""
+"Main titles contain sections and widget titles. %1$sAll %2$sh1%3$s to "
+"%2$sh6%3$s typography can be set here."
+msgstr ""
+"عناوین اصلی که شامل عنوان بخش ها و عنوان ابزارک ها می شود. می توان "
+"تایپوگرافی %1$sهمه%2$sh1 تا %2$sh6%3$s را در اینجا مشخص کرد."
+
+#: auxin-content/options/auxin-options.php:1158
+msgid "Page Heading"
+msgstr "تیتر گذاری صفحه"
+
+#: auxin-content/options/auxin-options.php:1159
+msgid "Specifies main title typography of page."
+msgstr "تایپوگرافی عنوان اصلی صفحه را مشخص می کند."
+
+#: auxin-content/options/auxin-options.php:1202
+msgid "Menu Typography"
+msgstr "تایپوگرافی منو"
+
+#: auxin-content/options/auxin-options.php:1203
+msgid "Specifies menu typography."
+msgstr "تایپوگرافی منو را مشخص می کند."
+
+#: auxin-content/options/auxin-options.php:1247
+msgid "Include Latin Charecters"
+msgstr "شامل شدن کاراکترهای لاتین"
+
+#: auxin-content/options/auxin-options.php:1248
+msgid ""
+"If there are characters in your language that are not supported in fonts, "
+"use following options to load them."
+msgstr ""
+"اگر در زبان شما کاراکترهایی وجود دارد که در فونت پشتیبانی نمی شوند، از "
+"تنظیمات زیر برای بارگذاری آن ها استفاده کنید."
+
+#: auxin-content/options/auxin-options.php:1270
+#: auxin-content/options/auxin-options.php:1271
+msgid "Skin options"
+msgstr "تنظیمات نما"
+
+#: auxin-content/options/auxin-options.php:1276
+msgid "Video Player Skin"
+msgstr "نمای پخش کننده ویدیو"
+
+#: auxin-content/options/auxin-options.php:1277
+msgid "Specifies the default skin for self hosted video player."
+msgstr ""
+"نمای پیش فرض پخش کننده ویدیو برای پخش کننده ویدیوهای محلی را مشخص می کند."
+
+#: auxin-content/options/auxin-options.php:1296
+msgid "Audio Player Skin"
+msgstr "نمای پخش کننده صدا"
+
+#: auxin-content/options/auxin-options.php:1297
+msgid "Specifies the default skin for self hosted audio player."
+msgstr "نمای پیش فرض پخش کننده ی صدا برای صداهای محلی را مشخص می کند."
+
+#: auxin-content/options/auxin-options.php:1316
+msgid "Pagination Skin"
+msgstr "طرح صفحه بندی"
+
+#: auxin-content/options/auxin-options.php:1317
+msgid "Specifies the default skin for pagination on archive pages."
+msgstr "نمای پیش فرض صفحه بندی در صفحات بایگانی را مشخص می کند."
+
+#: auxin-content/options/auxin-options.php:1323
+msgid "Round, No Page Border"
+msgstr "گرد، بدون کادر صفحه"
+
+#: auxin-content/options/auxin-options.php:1327
+msgid "Round, No Border"
+msgstr "گرد، بدون کادر"
+
+#: auxin-content/options/auxin-options.php:1331
+msgid "Round, With Border"
+msgstr "گرد، همراه با کادر"
+
+#: auxin-content/options/auxin-options.php:1335
+msgid "Square, No Page Border"
+msgstr "مربع، بدون کادر صفحه"
+
+#: auxin-content/options/auxin-options.php:1339
+msgid "Square, No Border"
+msgstr "مربع، بدون کادر"
+
+#: auxin-content/options/auxin-options.php:1343
+msgid "Square, With Border"
+msgstr "مربع، همراه با کادر"
+
+#: auxin-content/options/auxin-options.php:1358
+#: auxin-content/options/auxin-options.php:1359
+msgid "Mobile Browsers"
+msgstr ""
+
+#: auxin-content/options/auxin-options.php:1363
+#, fuzzy
+#| msgid "Progress Bar Color"
+msgid "Address bar Color"
+msgstr "رنگ نوار پیشرفت"
+
+#: auxin-content/options/auxin-options.php:1364
+#, fuzzy
+#| msgid "Specifies the position of sidebar on blog page."
+msgid "Specifies the color of address bar and toolbar on mobile browsers."
+msgstr "موقعیت ستون کناری در صفحه بلاگ را مشخص می کند."
+
+#: auxin-content/options/auxin-options.php:1382
+msgid "Header"
+msgstr "سربرگ"
+
+#: auxin-content/options/auxin-options.php:1383
+msgid "Header Setting"
+msgstr "تنظیمات سربرگ"
+
+#: auxin-content/options/auxin-options.php:1394
+msgid "Header Section"
+msgstr "بخش سربرگ"
+
+#: auxin-content/options/auxin-options.php:1395
+msgid "Header Section Setting"
+msgstr "تنظیمات بخش سربرگ"
+
+#: auxin-content/options/auxin-options.php:1400
+msgid "Specifies header layout."
+msgstr "چیدمان سربرگ را مشخص می کند."
+
+#: auxin-content/options/auxin-options.php:1459
+msgid "Search button"
+msgstr "دکمه جستجو"
+
+#: auxin-content/options/auxin-options.php:1460
+msgid "Enable it to insert search button in the header."
+msgstr "برای افزودن دکمه جستجو به سربرگ این گزینه را فعال کنید."
+
+#: auxin-content/options/auxin-options.php:1469
+msgid "Header Width"
+msgstr "عرض سربرگ"
+
+#: auxin-content/options/auxin-options.php:1470
+#, php-format
+msgid "Specifies %1$sboxed%2$s or %1$sfullwidth%2$s header."
+msgstr "سربرگ %1$sجعبه ای%2$s یا %1$sتمام صفحه%2$s را مشخص می کند."
+
+#: auxin-content/options/auxin-options.php:1481
+msgid "Full Width"
+msgstr "تمام عرضص"
+
+#: auxin-content/options/auxin-options.php:1492
+msgid "Header height"
+msgstr "ارتفاع سربرگ"
+
+#: auxin-content/options/auxin-options.php:1493
+msgid "Specifies the header height in pixel."
+msgstr "ارتفاع سربرگ را بر حسب پیکسل مشخص می کند."
+
+#: auxin-content/options/auxin-options.php:1512
+msgid "Add border"
+msgstr "افزودن کادر"
+
+#: auxin-content/options/auxin-options.php:1513
+msgid "Enable it to add border below the header."
+msgstr "برای افزودن کادر زیر سربرگ این گزینه را فعال کنید."
+
+#: auxin-content/options/auxin-options.php:1522
+msgid "Enable Sticky Header"
+msgstr "فعالسازی سربرگ چسبان"
+
+#: auxin-content/options/auxin-options.php:1523
+msgid "Enable it to display header menu  on top even by scrolling the page."
+msgstr ""
+"برای نمایش منو در سربرگ حتی زمانی که صفحه اسکرول شده است این گزینه را فعال "
+"کنید."
+
+#: auxin-content/options/auxin-options.php:1532
+msgid "Sticky Header Height"
+msgstr "ارتفاع سربرگ چسبان"
+
+#: auxin-content/options/auxin-options.php:1533
+msgid "Specifies the Sticky header height."
+msgstr "ارتفاع سربرگ چسبان را مشخص می کند."
+
+#: auxin-content/options/auxin-options.php:1559
+msgid "Scale Logo on Sticky Header"
+msgstr "متناسب کردن اندازه لوگو در سربرگ چسبان"
+
+#: auxin-content/options/auxin-options.php:1560
+msgid "logo would be scaled on sticky header, if you enable this option."
+msgstr "اگر این گزینه فعال باشد، اندازه لوگو در سربرگ چسبان تغییر خواهد کرد."
+
+#: auxin-content/options/auxin-options.php:1774
+msgid "Header Menu"
+msgstr "منوی سربرگ"
+
+#: auxin-content/options/auxin-options.php:1775
+msgid "Header Menu Options"
+msgstr "تنظیمات منوی سربرگ"
+
+#: auxin-content/options/auxin-options.php:1779
+msgid "Header Submenu Skin"
+msgstr "طرح زیرمنوی سربرگ"
+
+#: auxin-content/options/auxin-options.php:1780
+msgid "Specifies submenu skin."
+msgstr "طرح زیرمنوی سربرگ را مشخص می کند."
+
+#: auxin-content/options/auxin-options.php:1790
+msgid "Paradox"
+msgstr "پارادوکس"
+
+#: auxin-content/options/auxin-options.php:1794
+msgid "Classic"
+msgstr "کلاسیک"
+
+#: auxin-content/options/auxin-options.php:1798
+msgid "Dark Transparent"
+msgstr "تیره شفاف"
+
+#: auxin-content/options/auxin-options.php:1802
+msgid "Divided"
+msgstr "جداشده"
+
+#: auxin-content/options/auxin-options.php:1806
+msgid "Center Paradox"
+msgstr "پارادوکس وسط"
+
+#: auxin-content/options/auxin-options.php:1810
+msgid "Modern Paradox"
+msgstr "پارادوکس مدرن"
+
+#: auxin-content/options/auxin-options.php:1817
+msgid "Submenu animation effect"
+msgstr "افکت انیمیشن زیرمنو"
+
+#: auxin-content/options/auxin-options.php:1826
+msgid "Fade and move"
+msgstr "محو و حرکت"
+
+#: auxin-content/options/auxin-options.php:1834
+msgid "Display Submenu Indicator"
+msgstr "نمایش شاخص زیرمنو"
+
+#: auxin-content/options/auxin-options.php:1835
+msgid "Add submenu indicator icon to header menu items."
+msgstr "افزودن شکلک شاخص زیرمنو به آیتم های منوی سربرگ."
+
+#: auxin-content/options/auxin-options.php:1846
+msgid "Display Menu Splitter"
+msgstr "نمایش جداکننده منو"
+
+#: auxin-content/options/auxin-options.php:1847
+msgid "Insert splitter symbol between menu items in header."
+msgstr "افزودن سمبل جداکننده بین آیتم های منو در سربرگ."
+
+#: auxin-content/options/auxin-options.php:1858
+msgid "Submenu location "
+msgstr "موقعیت زیرمنو"
+
+#: auxin-content/options/auxin-options.php:1859
+msgid "Set the location of submenu in header area."
+msgstr "تنظیم موقعیت زیرمنو در ناحیه سربرگ"
+
+#: auxin-content/options/auxin-options.php:1868
+msgid "Below header"
+msgstr "زیر سربرگ"
+
+#: auxin-content/options/auxin-options.php:1872
+msgid "Below header menu items"
+msgstr "زیر آیتم های منوی سربرگ"
+
+#: auxin-content/options/auxin-options.php:1879
+msgid "Menu height"
+msgstr "ارتفاع منو"
+
+#: auxin-content/options/auxin-options.php:1880
+msgid "Specifies minimum height of main menu items."
+msgstr "کمترین ارتفاع برای آیتم های منوی اصلی را مشخص می کند."
+
+#: auxin-content/options/auxin-options.php:1984
+msgid "Burger Menu"
+msgstr "منوی همبرگری"
+
+#: auxin-content/options/auxin-options.php:1985
+msgid "Burger Menu Options"
+msgstr "تنظیمات منوی همبرگری"
+
+#: auxin-content/options/auxin-options.php:2015
+msgid "Burger Button Color"
+msgstr "رنگ دکمه همبرگری"
+
+#: auxin-content/options/auxin-options.php:2016
+msgid "Specifies burger button color."
+msgstr "رنگ دکمه همبرگری را مشخص می کند."
+
+#: auxin-content/options/auxin-options.php:2034
+#, fuzzy
+#| msgid "Burger Button Color"
+msgid "Burger Button Style"
+msgstr "رنگ دکمه همبرگری"
+
+#: auxin-content/options/auxin-options.php:2035
+#, fuzzy
+#| msgid "Specifies burger button color."
+msgid "Specifies burger button style."
+msgstr "رنگ دکمه همبرگری را مشخص می کند."
+
+#: auxin-content/options/auxin-options.php:2045
+#: auxin-content/options/auxin-options.php:2095
+msgid "Expandable under top header"
+msgstr "بازشونده زیر سربرگ بالا"
+
+#: auxin-content/options/auxin-options.php:2049
+#: auxin-content/options/auxin-options.php:2053
+#: auxin-content/options/auxin-options.php:2061
+#: auxin-content/options/auxin-options.php:2065
+#: auxin-content/options/auxin-options.php:2069
+#: auxin-content/options/auxin-options.php:2073
+#: auxin-content/options/auxin-options.php:2077
+#: auxin-content/options/auxin-options.php:2103
+msgid "Offcanvas panel"
+msgstr "پنل خارج محدوده"
+
+#: auxin-content/options/auxin-options.php:2057
+#: auxin-content/options/auxin-options.php:2099
+msgid "FullScreen on entire page"
+msgstr "تمام صفحه در کل صفحه"
+
+#: auxin-content/options/auxin-options.php:2085
+msgid "Burger Menu Location"
+msgstr "موقعیت منوی همبرگری"
+
+#: auxin-content/options/auxin-options.php:2086
+msgid "Specifies where menu appears when the burger button is clicked."
+msgstr "مشخص می کند منوی همبرگری بعد از کلیک شدن دکمه همبرگری در کجا باز شود."
+
+#: auxin-content/options/auxin-options.php:2111
+msgid "Offcanvas Alignment"
+msgstr "تراز منوی خارج محدوده"
+
+#: auxin-content/options/auxin-options.php:2112
+msgid ""
+"Specifies where offcanvas menu appears when the burger button is clicked."
+msgstr ""
+"مشخص می کند زمانی که دکمه همبرگری کلیک شد، منوی خارج محدوده در کجا باز شود."
+
+#: auxin-content/options/auxin-options.php:2126
+msgid "Left side"
+msgstr "سمت چپ"
+
+#: auxin-content/options/auxin-options.php:2130
+msgid "Right side"
+msgstr "سمت راست"
+
+#: auxin-content/options/auxin-options.php:2140
+msgid "Burger Menu Toggle Type"
+msgstr "نوع باز و بسته شدن منوی همبرگری"
+
+#: auxin-content/options/auxin-options.php:2141
+msgid "Specifies only one submenu shows at a time or multiple."
+msgstr "مشخص می کند که در یک زمان یک یا چند زیرمنو قابل نمایش باشند."
+
+#: auxin-content/options/auxin-options.php:2150
+msgid "Toggle"
+msgstr "باز و بسته شونده"
+
+#: auxin-content/options/auxin-options.php:2154
+msgid "Accordion"
+msgstr "آکاردئون"
+
+#: auxin-content/options/auxin-options.php:2161
+msgid "Fullscreen Menu Skin"
+msgstr "طرح منوی تمام صفحه"
+
+#: auxin-content/options/auxin-options.php:2162
+msgid "Specifies the skin of fullscreen menu panel."
+msgstr "نمای پنل منوی تمام صفحه را مشخص می کند."
+
+#: auxin-content/options/auxin-options.php:2189
+msgid "Fullscreen Menu Background Color"
+msgstr "رنگ پس زمینه منوی تمام صفحه"
+
+#: auxin-content/options/auxin-options.php:2190
+msgid "Specifies the background color of fullscreen menu and search panel."
+msgstr "رنگ پس زمینه برای منوی تمام صفحه و پنل جستجو را مشخص می کند."
+
+#: auxin-content/options/auxin-options.php:2214
+msgid "Fullscreen Menu Background Image"
+msgstr "تصویر پس زمینه منوی تمام صفحه"
+
+#: auxin-content/options/auxin-options.php:2215
+msgid "Specifies the background image of fullscreen menu panel"
+msgstr "تصویر پس زمینه برای پنل تمام صفحه را مشخص می کند."
+
+#: auxin-content/options/auxin-options.php:2333
+msgid "Top Header bar"
+msgstr "نوار بالای هدر"
+
+#: auxin-content/options/auxin-options.php:2334
+msgid "Top Header bar Setting"
+msgstr "تنظیمات نوار بالای هدر"
+
+#: auxin-content/options/auxin-options.php:2339
+msgid "Display Top Header bar"
+msgstr "نمایش نوار سربرگ بالا"
+
+#: auxin-content/options/auxin-options.php:2340
+msgid ""
+"Enable it to display top header bar. You can display socials, message and "
+"call info there."
+msgstr ""
+"برای نمایش نوار بالای سربرگ این گزینه را فعال کنید. می توانید شبکه های "
+"اجتماعی، پیام و اطلاعات تماس را در آن درج کنید."
+
+#: auxin-content/options/auxin-options.php:2351
+msgid "Top Header Bar Layout"
+msgstr "چیدمان نوار سربرگ بالا"
+
+#: auxin-content/options/auxin-options.php:2352
+msgid "Specifies top header bar layout."
+msgstr "چیدمان نوار سربرگ بالا را مشخص می کند."
+
+#: auxin-content/options/auxin-options.php:2365
+msgid "Menu left. Social and search right"
+msgstr "منو چپ. شبکه های اجتماعی و جستجو راست"
+
+#: auxin-content/options/auxin-options.php:2369
+msgid "Message left. Menu and language right"
+msgstr "پیام چپ. منو و زبان راست"
+
+#: auxin-content/options/auxin-options.php:2373
+msgid "Social left. Cart and search right"
+msgstr "شبکه های اجتماعی چپ. سبد خرید و جستجو راست"
+
+#: auxin-content/options/auxin-options.php:2377
+msgid "Menu left. Message, social, cart, search and language right"
+msgstr "منو چپ. پیام، شبکه های اجتماعی، سبد خرید، جستجو و زبان راست"
+
+#: auxin-content/options/auxin-options.php:2381
+msgid "Language left. Social, cart and search right"
+msgstr "زبان چپ. شبکه های اجتماعی، سبد خرید و جستجو راست"
+
+#: auxin-content/options/auxin-options.php:2385
+msgid "Message left. Social, cart and search right"
+msgstr "پیام چپ. شبکه های اجتماعی، سبد خرید و جستجو راست"
+
+#: auxin-content/options/auxin-options.php:2389
+msgid "Menu left. Social, cart and search right"
+msgstr "منو چپ. شبکه های اجتماعی، سبد خریدو جستجو راست"
+
+#: auxin-content/options/auxin-options.php:2393
+msgid "Language and menu left. Message, social, cart and search right"
+msgstr "زبان و منو چپ. پیام، شبکه های اجتماعی، سبد خرید و جستجو راست"
+
+#: auxin-content/options/auxin-options.php:2407
+msgid "Top Header Bar Background Color"
+msgstr "رنگ پس زمینه نوار سربرگ"
+
+#: auxin-content/options/auxin-options.php:2408
+msgid "Specifies the background color of top header bar."
+msgstr "رنگ پس زمینه نوار سربرگ بالا را مشخص می کند."
+
+#: auxin-content/options/auxin-options.php:2432
+msgid "Message on Top Header Bar"
+msgstr "پیام نوار سربرگ بالا"
+
+#: auxin-content/options/auxin-options.php:2433
+msgid "Add a message to show on top header bar."
+msgstr "پیامی را برای نمایش در نوار سربرگ بالا اضافه کنید."
+
+#: auxin-content/options/auxin-options.php:2445
+msgid "Welcome to your WordPress Website."
+msgstr ""
+
+#: auxin-content/options/auxin-options.php:2454
+#: auxin-content/options/auxin-options.php:2455
+msgid "FullScreen Search"
+msgstr "جستجوی تمام صفحه"
+
+#: auxin-content/options/auxin-options.php:2459
+msgid "FullScreen Search Skin"
+msgstr "طرح جستجوی تمام صفحه"
+
+#: auxin-content/options/auxin-options.php:2460
+msgid "Set the fullscreen search skin."
+msgstr "تنظیم طرح جستجوی تمام صفحه"
+
+#: auxin-content/options/auxin-options.php:2488
+#: auxin/auxin-include/classes/class-auxin-breadcrumb.php:99
+msgid "Blog"
+msgstr "بلاگ"
+
+#: auxin-content/options/auxin-options.php:2489
+msgid "Blog Setting"
+msgstr "تنظیمات بلاگ"
+
+#: auxin-content/options/auxin-options.php:2498
+msgid "Single Post"
+msgstr "نوشته تکی"
+
+#: auxin-content/options/auxin-options.php:2499
+msgid "Single Post Setting"
+msgstr "تنظیمات نوشته تکی"
+
+#: auxin-content/options/auxin-options.php:2503
+msgid "Single Post Sidebar Position"
+msgstr "موقعیت ستون کناری نوشته تکی"
+
+#: auxin-content/options/auxin-options.php:2504
+msgid "Specifies position of sidebar on single post."
+msgstr "موقعیت ستون کناری در نوشته تکی را مشخص می کند."
+
+#: auxin-content/options/auxin-options.php:2544
+msgid "Single Post Sidebar Style"
+msgstr "ظاهر ستون کناری نوشته تکی"
+
+#: auxin-content/options/auxin-options.php:2576
+msgid "Single Post Featured Color"
+msgstr ""
+
+#: auxin-content/options/auxin-options.php:2577
+msgid "Specifies featured color for blog posts."
+msgstr ""
+
+#: auxin-content/options/auxin-options.php:2588
+msgid "Specifies title alignment on single post."
+msgstr "تراز عنوان را در نوشته تکی مشخص می کند."
+
+#: auxin-content/options/auxin-options.php:2610
+msgid ""
+"You can reduce the width of text lines and increase the readability of "
+"context in single post of blog (does not affect the width of media)."
+msgstr ""
+"شما می توانید در صفحه نوشته تکی بلاگ عرض خطوط نوشته ها را کم کنید تا خوانایی "
+"را افزایش دهید (روی عرض رسانه ها تاثیری نخواهد گذاشت)."
+
+#: auxin-content/options/auxin-options.php:2631
+#, fuzzy
+#| msgid "Display Post Meta"
+msgid "Display Post Info"
+msgstr "نمایش متای نوشته"
+
+#: auxin-content/options/auxin-options.php:2632
+#, fuzzy
+#| msgid ""
+#| "Enable it to display links to next and previous posts on single post page."
+msgid ""
+"Enable it to display post date, categories and author name in post page ."
+msgstr ""
+"برای نمایش لینک نوشته ی قبلی و بعدی در نوشته تکی این گزینه را فعال کنید."
+
+#: auxin-content/options/auxin-options.php:2643
+#: auxin-content/options/auxin-options.php:3070
+msgid "Display Like Button"
+msgstr "نمایش دکمه لایک"
+
+#: auxin-content/options/auxin-options.php:2644
+#, php-format
+msgid ""
+"Enable it to display %s like button%s on single post. Please note WP Ulike "
+"plugin needs to be activaited in order to use this option."
+msgstr ""
+"برای نمایش %s دکمه لایک%s در نوشته تکی این گزینه را فعال کنید. لطفا توجه "
+"کنید که افزونه WP Ulike برای استفاده از این تنظیمات مورد نیاز است."
+
+#: auxin-content/options/auxin-options.php:2661
+#, fuzzy
+#| msgid "Display Title Bar Section"
+msgid "Display Tags Section"
+msgstr "نمایش بخش نوار عنوان"
+
+#: auxin-content/options/auxin-options.php:2662
+#, fuzzy
+#| msgid "Enable it to display post meta information on title section."
+msgid "Enable it to display tags section under the post content."
+msgstr "برای نمایش اطلاعات متای نوشته در بخش عنوان این گزینه را فعال کنید."
+
+#: auxin-content/options/auxin-options.php:2673
+msgid "Display Author Section"
+msgstr "نمایش بخش نویسنده"
+
+#: auxin-content/options/auxin-options.php:2674
+#, php-format
+msgid ""
+"Enable it to display %s author information%s after post content on single "
+"post."
+msgstr ""
+"برای نمایش بخش %s اطلاعات نویسنده%s بعد از محتوا در نوشته تکی این گزینه را "
+"فعال کنید."
+
+#: auxin-content/options/auxin-options.php:2685
+msgid "Display Author Biography Text"
+msgstr "نمایش متن زندگی نامه نویسنده"
+
+#: auxin-content/options/auxin-options.php:2686
+#, php-format
+msgid ""
+"Enable it to display %s author biography text%s in author section on single "
+"post."
+msgstr ""
+"برای نمایش بخش %s متن زندگی نامه نویسنده%s در نوشته تکی این گزینه را فعال "
+"کنید."
+
+#: auxin-content/options/auxin-options.php:2703
+msgid "Display Author Socials"
+msgstr "نمایش شبکه های اجتماعی نویسنده"
+
+#: auxin-content/options/auxin-options.php:2704
+#, php-format
+msgid ""
+"Enable it to display %s author socials%s in author section on single post."
+msgstr ""
+"برای نمایش بخش %s شبکه های اجتماعی نویسنده%s در نوشته تکی این گزینه را فعال "
+"کنید."
+
+#: auxin-content/options/auxin-options.php:2721
+msgid "Display Next & Previous Posts"
+msgstr "نمایش نوشته های قبلی و بعدی"
+
+#: auxin-content/options/auxin-options.php:2722
+msgid ""
+"Enable it to display links to next and previous posts on single post page."
+msgstr ""
+"برای نمایش لینک نوشته ی قبلی و بعدی در نوشته تکی این گزینه را فعال کنید."
+
+#: auxin-content/options/auxin-options.php:2733
+msgid "Skin for Next & Previous Links"
+msgstr "نمای لینک نوشته های قبلی و بعدی"
+
+#: auxin-content/options/auxin-options.php:2734
+msgid "Specifies the skin for next and previous navigation block."
+msgstr "نمای بلوک ناوبری نوشته های قبلی و بعدی را مشخص می کند."
+
+#: auxin-content/options/auxin-options.php:2747
+msgid "Minimal (default)"
+msgstr "مینیمال (پیشفرض)"
+
+#: auxin-content/options/auxin-options.php:2751
+msgid "Thumbnail with Arrow"
+msgstr "بندانگشتی با فلش"
+
+#: auxin-content/options/auxin-options.php:2755
+msgid "Thumbnail without Arrow"
+msgstr "بندانگشتی بدون فلش"
+
+#: auxin-content/options/auxin-options.php:2759
+msgid "Navigation with Light Background"
+msgstr "ناوبری با پس زمینه روشن"
+
+#: auxin-content/options/auxin-options.php:2763
+msgid "Navigation with Dark Background"
+msgstr "ناوبری با پس زمینه تیره"
+
+#: auxin-content/options/auxin-options.php:2767
+msgid "Sticky Thumbnail with Arrow"
+msgstr "بندانگشتی چسبنده با فلش"
+
+#: auxin-content/options/auxin-options.php:2777
+#: templates/theme-parts/entry/single-post.php:129
+msgid "Previous Post"
+msgstr "نوشته قبلی"
+
+#: auxin-content/options/auxin-options.php:2778
+#: templates/theme-parts/entry/single-post.php:130
+msgid "Next Post"
+msgstr "نوشته بعدی"
+
+#: auxin-content/options/auxin-options.php:2793
+msgid "Blog Page"
+msgstr "صفحه بلاگ"
+
+#: auxin-content/options/auxin-options.php:2794
+msgid "Setting for Blog Archive Page"
+msgstr "تنظیمات صفحه بایگانی بلاگ"
+
+#: auxin-content/options/auxin-options.php:2804
+#: auxin-content/options/auxin-options.php:3699
+msgid "Template 1"
+msgstr "قالب 1"
+
+#: auxin-content/options/auxin-options.php:2808
+#: auxin-content/options/auxin-options.php:3704
+msgid "Template 2"
+msgstr "قالب 2"
+
+#: auxin-content/options/auxin-options.php:2812
+#: auxin-content/options/auxin-options.php:3709
+msgid "Template 3"
+msgstr "قالب 3"
+
+#: auxin-content/options/auxin-options.php:2816
+#: auxin-content/options/auxin-options.php:3714
+msgid "Template 4"
+msgstr "قالب 4"
+
+#: auxin-content/options/auxin-options.php:2824
+msgid "Grid"
+msgstr "شبکه"
+
+#: auxin-content/options/auxin-options.php:2828
+msgid "Masonry"
+msgstr "ساختمانی"
+
+#: auxin-content/options/auxin-options.php:2832
+msgid "Timeline"
+msgstr "خط رمان"
+
+#: auxin-content/options/auxin-options.php:2836
+msgid "Land"
+msgstr "گسترده"
+
+#: auxin-content/options/auxin-options.php:2840
+msgid "Tiles"
+msgstr "کاشی"
+
+#: auxin-content/options/auxin-options.php:2847
+msgid "Blog Template"
+msgstr "قالب بلاگ"
+
+#: auxin-content/options/auxin-options.php:2848
+msgid "Choose your blog template."
+msgstr "الب بلاگ خود را انتخاب کنید."
+
+#: auxin-content/options/auxin-options.php:2859
+msgid "Image aspect ratio"
+msgstr "نسبت ابعاد تصویر"
+
+#: auxin-content/options/auxin-options.php:2870
+msgid "Horizontal 4:3"
+msgstr "افقی 4:3"
+
+#: auxin-content/options/auxin-options.php:2871
+msgid "Horizontal 16:9"
+msgstr "افقی 16:9"
+
+#: auxin-content/options/auxin-options.php:2872
+msgid "Square 1:1"
+msgstr "مربع 1:1"
+
+#: auxin-content/options/auxin-options.php:2873
+msgid "Vertical 3:4"
+msgstr "عمودی 3:4"
+
+#: auxin-content/options/auxin-options.php:2880
+#, fuzzy
+#| msgid "Sidebar Layout"
+msgid "Grid Layout"
+msgstr "چیدمان ستون کناری"
+
+#: auxin-content/options/auxin-options.php:2881
+#, fuzzy
+#| msgid "Specifies the style of content for each post column."
+msgid "Specifies the style of grid column for each post."
+msgstr "ظاهر محتوا برای هر ستون از نوشته ها مشخص می کند."
+
+#: auxin-content/options/auxin-options.php:2907
+#, fuzzy
+#| msgid "Display Post Meta"
+msgid "Display post info"
+msgstr "نمایش متای نوشته"
+
+#: auxin-content/options/auxin-options.php:2924
+#, fuzzy
+#| msgid "Post Options"
+msgid "Post info position"
+msgstr "تنظیمات نوشته"
+
+#: auxin-content/options/auxin-options.php:2942
+#, fuzzy
+#| msgid "Hide Title"
+msgid "After Title"
+msgstr "پنهان سازی عنوان"
+
+#: auxin-content/options/auxin-options.php:2943
+#, fuzzy
+#| msgid "Boxed Title"
+msgid "Before Title"
+msgstr "عنوان جعبه ای"
+
+#: auxin-content/options/auxin-options.php:2950
+#, fuzzy
+#| msgid "News Categories"
+msgid "Display Categories"
+msgstr "دسته های اخبار"
+
+#: auxin-content/options/auxin-options.php:2972
+#, fuzzy
+#| msgid "Number of Columns"
+msgid "Number of columns"
+msgstr "تعداد ستون ها"
+
+#: auxin-content/options/auxin-options.php:2993
+#, fuzzy
+#| msgid "Number of Columns"
+msgid "Number of columns in tablet"
+msgstr "تعداد ستون ها"
+
+#: auxin-content/options/auxin-options.php:3015
+#, fuzzy
+#| msgid "Number of Columns"
+msgid "Number of columns in mobile"
+msgstr "تعداد ستون ها"
+
+#: auxin-content/options/auxin-options.php:3035
+msgid "Exclude posts without media"
+msgstr "نادیده گرفتن نوشته های بدون رسانه"
+
+#: auxin-content/options/auxin-options.php:3052
+msgid "Exclude quote and link post formats"
+msgstr ""
+
+#: auxin-content/options/auxin-options.php:3053
+msgid "Do not display the posts with \"quote\" and \"link\" post formats"
+msgstr ""
+
+#: auxin-content/options/auxin-options.php:3071
+#, php-format
+msgid ""
+"Enable it to display %s like button%s on blog posts. Please note WP Ulike "
+"plugin needs to be activaited to use this option."
+msgstr ""
+"برای نمایش %s دکمه لایک %s در نوشته های بلاگ این گزینه را فعال کنید. لطفا "
+"توجه کنید که افزونه WP Ulike برای عمل کردن این بخش باید فعال باشد."
+
+#: auxin-content/options/auxin-options.php:3088
+msgid "Timeline Alignment"
+msgstr "تراز خط زمان"
+
+#: auxin-content/options/auxin-options.php:3089
+msgid "Specifies the alignment of timeline on blog page."
+msgstr "تراز خط زمان را در صفحه بلاگ مشخص می کند."
+
+#: auxin-content/options/auxin-options.php:3119
+msgid "Blog Sidebar Position"
+msgstr "موقعیت ستون کناری بلاگ"
+
+#: auxin-content/options/auxin-options.php:3120
+msgid "Specifies the position of sidebar on blog page."
+msgstr "موقعیت ستون کناری در صفحه بلاگ را مشخص می کند."
+
+#: auxin-content/options/auxin-options.php:3161
+msgid "Blog Sidebar Style"
+msgstr "استایل ستون کناری بلاگ"
+
+#: auxin-content/options/auxin-options.php:3162
+msgid "Specifies the style of sidebar on blog page."
+msgstr "ظاهر ستون کناری در صفحه بلاگ را مشخص می کند."
+
+#: auxin-content/options/auxin-options.php:3193
+msgid "Blog content length"
+msgstr "طول محتوای بلاگ"
+
+#: auxin-content/options/auxin-options.php:3194
+#, php-format
+msgid ""
+"Whether to display%1$ssummary%2$sor%1$sfull%2$scontent for each post on blog "
+"page"
+msgstr "نمایش %1$sخلاصه%2$sیا%1$sتمام%2$sمحتوا برای هر نوشته در صفحه بلاگ."
+
+#: auxin-content/options/auxin-options.php:3207
+#: auxin-content/options/auxin-options.php:3845
+msgid "Full text"
+msgstr "تمام متن"
+
+#: auxin-content/options/auxin-options.php:3211
+#: auxin-content/options/auxin-options.php:3849
+msgid "Summary"
+msgstr "خلاصه"
+
+#: auxin-content/options/auxin-options.php:3220
+#: auxin-content/options/auxin-options.php:3858
+msgid "Summery length"
+msgstr "طول خلاصه"
+
+#: auxin-content/options/auxin-options.php:3221
+msgid "Specifies summary character length for each post on blog page."
+msgstr ""
+"تعداد کاراکترهای نمایش داده شده برای هرپست در صفحه بلاگ را مشخص می کند."
+
+#: auxin-content/options/auxin-options.php:3237
+#, fuzzy
+#| msgid "Featured image"
+msgid "Display Featured Image?"
+msgstr "تصویر شاخص"
+
+#: auxin-content/options/auxin-options.php:3238
+msgid "Whether to display featured image on blog archive page or not."
+msgstr ""
+
+#: auxin-content/options/auxin-options.php:3248
+#, fuzzy
+#| msgid "Featured image"
+msgid "Auto Mask Featured Image?"
+msgstr "تصویر شاخص"
+
+#: auxin-content/options/auxin-options.php:3249
+msgid ""
+"By enabling this option, the featured images in blog list which are above "
+"800 pixels in height will be automatically masked.(Max height is 800 pixels)"
+msgstr ""
+
+#: auxin-content/options/auxin-options.php:3271
+msgid "Blog Slider"
+msgstr "اسلایدر بلاگ"
+
+#: auxin-content/options/auxin-options.php:3272
+msgid "Blog Slider Settings"
+msgstr "تنظیمات اسلایدر بلاگ"
+
+#: auxin-content/options/auxin-options.php:3276
+msgid "Display Slider"
+msgstr "نمایش اسلایدر"
+
+#: auxin-content/options/auxin-options.php:3277
+msgid "Specifies to insert post slide above blog posts."
+msgstr "اسلایدر نوشته را بالای نوسته های بلاگ قرار می دهد."
+
+#: auxin-content/options/auxin-options.php:3291
+msgid "Slider location"
+msgstr "موقعیت اسلایدر"
+
+#: auxin-content/options/auxin-options.php:3304
+msgid "Insert above archive content"
+msgstr "قراردادن در بالای محتوای بایگانی"
+
+#: auxin-content/options/auxin-options.php:3308
+msgid "Insert below the header"
+msgstr "قراردادن در زیر سربرگ"
+
+#: auxin-content/options/auxin-options.php:3317
+msgid "Slides number"
+msgstr "تعداد اسلایدها"
+
+#: auxin-content/options/auxin-options.php:3318
+msgid "Specifies maximum number of slides in slider."
+msgstr "بیشترین تعداد اسلاید در اسلایدر را مشخص می کند."
+
+#: auxin-content/options/auxin-options.php:3337
+msgid "Exclude posts"
+msgstr "نادیده گرفتن این نوشته ها"
+
+#: auxin-content/options/auxin-options.php:3338
+#: auxin-content/options/auxin-options.php:3354
+msgid "Post IDs separated by comma (eg. 53,34,87,25)."
+msgstr "شناسه نوشته ها که با کاما از هم جدا شده اند. (مثلا 53,34,87,25)."
+
+#: auxin-content/options/auxin-options.php:3353
+msgid "Include posts"
+msgstr "شامل شدن این نوشته ها"
+
+#: auxin-content/options/auxin-options.php:3369
+msgid "Start offset"
+msgstr "پرش از ابتدا"
+
+#: auxin-content/options/auxin-options.php:3370
+msgid "Specifies number of post to displace or pass over."
+msgstr ""
+"تعداد نوشته هایی که باید از آن ها عبور کرد یا آن ها را نادیده گرفت مشخص می "
+"کند."
+
+#: auxin-content/options/auxin-options.php:3385
+msgid "Order by"
+msgstr "مرتب کردن بر اساس"
+
+#: auxin-content/options/auxin-options.php:3397
+msgid "Date"
+msgstr "تاریخ"
+
+#: auxin-content/options/auxin-options.php:3398
+msgid "Menu Order"
+msgstr "ترتیب منو"
+
+#: auxin-content/options/auxin-options.php:3399
+msgid "Title"
+msgstr "عنوان"
+
+#: auxin-content/options/auxin-options.php:3400
+msgid "ID"
+msgstr "شناسه"
+
+#: auxin-content/options/auxin-options.php:3401
+msgid "Random"
+msgstr "تصادفی"
+
+#: auxin-content/options/auxin-options.php:3402
+msgid "Comments"
+msgstr "دیدگاه ها"
+
+#: auxin-content/options/auxin-options.php:3403
+msgid "Date Modified"
+msgstr "تاریخ ویرایش"
+
+#: auxin-content/options/auxin-options.php:3404
+#: auxin/auxin-include/include/templates/templates-post.php:20
+msgid "Author"
+msgstr "نویسنده"
+
+#: auxin-content/options/auxin-options.php:3411
+msgid "Order direction"
+msgstr "جهت مرتب سازی"
+
+#: auxin-content/options/auxin-options.php:3423
+msgid "Descending"
+msgstr "نزولی"
+
+#: auxin-content/options/auxin-options.php:3424
+msgid "Ascending"
+msgstr "صعودی"
+
+#: auxin-content/options/auxin-options.php:3431
+msgid "Slider skin"
+msgstr "پوسته اسلایدر"
+
+#: auxin-content/options/auxin-options.php:3444
+msgid "Light and boxed"
+msgstr "جعبه ای روشن"
+
+#: auxin-content/options/auxin-options.php:3448
+msgid "Dark and boxed"
+msgstr "جعبه ای تیره"
+
+#: auxin-content/options/auxin-options.php:3452
+msgid "Light overlay"
+msgstr "روشن فراگیر"
+
+#: auxin-content/options/auxin-options.php:3456
+msgid "Dark overlay"
+msgstr "تیره فراگیر"
+
+#: auxin-content/options/auxin-options.php:3465
+msgid "Insert post title"
+msgstr "افزودن عنوان نوشته"
+
+#: auxin-content/options/auxin-options.php:3481
+msgid "Insert post meta"
+msgstr "افزودن متای نوشته"
+
+#: auxin-content/options/auxin-options.php:3501
+msgid "Grab the image from"
+msgstr "گرفتن تصویر از"
+
+#: auxin-content/options/auxin-options.php:3513
+msgid "Auto select"
+msgstr "انتخاب خودکار"
+
+#: auxin-content/options/auxin-options.php:3514
+msgid "Featured image"
+msgstr "تصویر شاخص"
+
+#: auxin-content/options/auxin-options.php:3515
+msgid "First image in post"
+msgstr "اولیت تصویر در نوشته"
+
+#: auxin-content/options/auxin-options.php:3516
+msgid "Custom image"
+msgstr "تصویر دلخواه"
+
+#: auxin-content/options/auxin-options.php:3523
+#: auxin/auxin-include/classes/class-auxin-metabox-view.php:772
+msgid "Background image"
+msgstr "تصویر پس زمینه"
+
+#: auxin-content/options/auxin-options.php:3543
+msgid "Exclude posts without image"
+msgstr "نادیده گرفتن نوشته های بدون تصویر"
+
+#: auxin-content/options/auxin-options.php:3558
+msgid "Slider image width"
+msgstr "عرض تصویر اسلایدر"
+
+#: auxin-content/options/auxin-options.php:3574
+msgid "Slider image height"
+msgstr "ارتفاع تصویر اسلایدر"
+
+#: auxin-content/options/auxin-options.php:3589
+msgid "Arrow navigation"
+msgstr "فلش های ناوبری"
+
+#: auxin-content/options/auxin-options.php:3590
+msgid "Specifies to insert arrow buttons over slider."
+msgstr "قرار دادن دکمه های فلش دار روی اسلایدر را مشخص می کند."
+
+#: auxin-content/options/auxin-options.php:3605
+msgid "Space between slides"
+msgstr "فاصله بین اسلایدها"
+
+#: auxin-content/options/auxin-options.php:3621
+msgid "Looped navigation"
+msgstr "ناوبری چرخه ای"
+
+#: auxin-content/options/auxin-options.php:3638
+msgid "Slideshow"
+msgstr "اسلایدشو"
+
+#: auxin-content/options/auxin-options.php:3654
+msgid "Slideshow delay in seconds"
+msgstr "تاخیر اسلایدشو بر حسب ثانیه"
+
+#: auxin-content/options/auxin-options.php:3680
+msgid "Blog Category & tag"
+msgstr "دسته بندی و برچسب بلاگ"
+
+#: auxin-content/options/auxin-options.php:3681
+msgid "Blog Category & tag page Setting"
+msgstr "تنظیمات دسته بندی و برچسب بلاگ"
+
+#: auxin-content/options/auxin-options.php:3685
+msgid "Taxonomy Page Template"
+msgstr "قالب صفحه طبقه بندی"
+
+#: auxin-content/options/auxin-options.php:3764
+msgid "Taxonomy Page Sidebar Position"
+msgstr "موقعیت ستون کناری در صفحه طبقه بندی"
+
+#: auxin-content/options/auxin-options.php:3806
+msgid "Specifies the style of sidebar on category & tag page."
+msgstr "ظاهر ستون کناری در صفحه دسته بندی و برچسب را مشخص می کند."
+
+#: auxin-content/options/auxin-options.php:3837
+msgid "Taxonomy content length"
+msgstr "طول محتوای طبقه بندی"
+
+#: auxin-content/options/auxin-options.php:3838
+#, php-format
+msgid ""
+"Whether to display%1$ssummary%2$sor%1$sfull%2$scontent for each post on "
+"category & tag page."
+msgstr ""
+"نمایش %1$sخلاصه%2$sیا%1$sتمام%2$sمحتوا برای هر نوشته در صفحه دسته ها و برچسب "
+"ها."
+
+#: auxin-content/options/auxin-options.php:3859
+msgid "Specifies summary character length on category & tag page."
+msgstr ""
+"تعداد کاراکترهای نمایش داده شده برای هر نوشته در صفحه دسته بندی و برچسب را "
+"مشخص می کند."
+
+#: auxin-content/options/auxin-options.php:4378
+msgid "Woocommerce"
+msgstr "ووکامرس"
+
+#: auxin-content/options/auxin-options.php:4379
+msgid "Woocommerce Setting"
+msgstr "تنظیمات ووکامرس"
+
+#: auxin-content/options/auxin-options.php:4388
+msgid "Single Product Page"
+msgstr "صفحه تکی محصول"
+
+#: auxin-content/options/auxin-options.php:4389
+msgid "Single Product Page Setting"
+msgstr "تنظیمات صفحه تکی محصول"
+
+#: auxin-content/options/auxin-options.php:4451
+msgid "Single Product Sidebar Position"
+msgstr "موقعیت ستون کناری محصول تکی"
+
+#: auxin-content/options/auxin-options.php:4452
+msgid "Specifies the position of sidebar on single product page."
+msgstr "موقعیت ستون کناری را در صفحه تکی محصول مشخص می کند."
+
+#: auxin-content/options/auxin-options.php:4492
+msgid "Single Product Sidebar Style"
+msgstr "ظاهر ستون کناری محصول تکی"
+
+#: auxin-content/options/auxin-options.php:4529
+msgid "Shop Page"
+msgstr "صفحه فروشگاه"
+
+#: auxin-content/options/auxin-options.php:4530
+msgid "Shop Page Setting"
+msgstr "تنظیمات صفحه فروشگاه"
+
+#: auxin-content/options/auxin-options.php:4587
+msgid "Shop Page Sidebar Position"
+msgstr "موقعیت ستون کناری در صفحه فروشگاه"
+
+#: auxin-content/options/auxin-options.php:4588
+msgid "Specifies the position of sidebar on shop page."
+msgstr "موقعیت ستون کناری در صفحه فروشگاه را مشخص می کند."
+
+#: auxin-content/options/auxin-options.php:4628
+msgid "Shop Sidebar Style"
+msgstr "ظاهر ستون کناری فروشگاه"
+
+#: auxin-content/options/auxin-options.php:4629
+msgid "Specifies the style of sidebar on shop page."
+msgstr "ظاهر ستون کناری در صفحه فروشگاه را مشخص می کند."
+
+#: auxin-content/options/auxin-options.php:4664
+#: auxin-content/options/auxin-options.php:4796
+msgid "Product Category & Tag"
+msgstr "دسته بندی و برچسب محصول"
+
+#: auxin-content/options/auxin-options.php:4665
+#: auxin-content/options/auxin-options.php:4797
+msgid "Product Category & Tag Page Setting"
+msgstr "تنظیمات صفحه دسته بندی و برچسب محصول"
+
+#: auxin-content/options/auxin-options.php:4719
+msgid "Product Taxonomy Sidebar Position"
+msgstr "موقعیت ستون کناری در صفحه طبقه بندی محصول"
+
+#: auxin-content/options/auxin-options.php:4720
+msgid "Specifies the position of sidebar on product category & tag page."
+msgstr "موقعیت ستون کناری در صفحه دسته بندی و برچسب محصول را مشخص می کند."
+
+#: auxin-content/options/auxin-options.php:4760
+msgid "Product Taxonomy Sidebar Style"
+msgstr "ظاهر ستون کناری صفحه طبقه بندی محصول"
+
+#: auxin-content/options/auxin-options.php:4761
+msgid "Specifies the style of sidebar on product category & tag page."
+msgstr "ظاهر ستون کناری در صفحه دسته بندی و برچسب محصول را مشخص می کند."
+
+#: auxin-content/options/auxin-options.php:4991
+#: auxin-content/options/auxin-options.php:5241
+msgid "Footer"
+msgstr "فوتر"
+
+#: auxin-content/options/auxin-options.php:4992
+#: auxin-content/options/auxin-options.php:5242
+msgid "Footer Setting"
+msgstr "تنظیمات فوتر"
+
+#: auxin-content/options/auxin-options.php:5001
+msgid "Subfooter Bar"
+msgstr "نوار ساب فوتر"
+
+#: auxin-content/options/auxin-options.php:5002
+msgid "Subfooter Bar Setting"
+msgstr "تنظیمات نوار ساب فوتر"
+
+#: auxin-content/options/auxin-options.php:5006
+msgid "Display Subfooter Bar"
+msgstr "نمایش نوار ساب فوتر"
+
+#: auxin-content/options/auxin-options.php:5007
+msgid "Enable it to display subfooter bar above of subfooter."
+msgstr "برای نمایش ساب فوتر بالای فوتر این گزینه را فعال کنید."
+
+#: auxin-content/options/auxin-options.php:5019
+msgid "Subfooter Bar Layout"
+msgstr "چیدمان نوار ساب فوتر"
+
+#: auxin-content/options/auxin-options.php:5020
+msgid "Specifies layout of subtoofer bar."
+msgstr "چیدمان نوار ساب فوتر را مشخص می کند."
+
+#: auxin-content/options/auxin-options.php:5042
+msgid "Full with small vertical padding"
+msgstr "تمام عرض با فاصله داخلی عمودی کم"
+
+#: auxin-content/options/auxin-options.php:5046
+msgid "Boxed with small vertical padding"
+msgstr "جعبه ای با فاصله داخلی عمودی کم"
+
+#: auxin-content/options/auxin-options.php:5057
+msgid "Specifies background color of subfooter bar."
+msgstr "رنگ نوار ساب فوتر را مشخص می کند."
+
+#: auxin-content/options/auxin-options.php:5078
+#: auxin-content/options/auxin-options.php:5213
+#: auxin-content/options/auxin-options.php:5353
+#, fuzzy
+#| msgid "Title Box Color"
+msgid "Top Border Color"
+msgstr "رنگ جعبه عنوان"
+
+#: auxin-content/options/auxin-options.php:5080
+#, fuzzy
+#| msgid "Specifies background color of subfooter bar."
+msgid "Specifies top border color of subfooter bar."
+msgstr "رنگ نوار ساب فوتر را مشخص می کند."
+
+#: auxin-content/options/auxin-options.php:5106
+msgid "Sub Footer"
+msgstr "ساب فوتر"
+
+#: auxin-content/options/auxin-options.php:5107
+msgid "Sub Footer Setting"
+msgstr "تنظیمات ساب فوتر"
+
+#: auxin-content/options/auxin-options.php:5112
+msgid "Display Subfooter"
+msgstr "نمایش ساب فوتر"
+
+#: auxin-content/options/auxin-options.php:5113
+msgid "Enable it to display subfooter on all pages."
+msgstr "برای نمایش ساب فوتر در همه صفحات این گزینه را فعال کنید."
+
+#: auxin-content/options/auxin-options.php:5124
+msgid "Subfooter Layout"
+msgstr "چیدمان ساب فوتر"
+
+#: auxin-content/options/auxin-options.php:5125
+msgid "Select layout for subfooter widget columns."
+msgstr "چیدمان ستون های ابزارک ساب فوتر را انتخاب کنید."
+
+#: auxin-content/options/auxin-options.php:5126
+#, php-format
+msgid ""
+"It generates some widgetareas for subfooter based on the layout, which you "
+"need to %s fill them.%s"
+msgstr ""
+"ناحیه های ابزارکی را بر اساس چیدمان برای ساب فوتر مشخص می کند که نیاز است آن "
+"ها را %s پر کنید %s."
+
+#: auxin-content/options/auxin-options.php:5140
+msgid "1 Column"
+msgstr "1 ستون"
+
+#: auxin-content/options/auxin-options.php:5144
+msgid "2 Columns- 1/2  1/2"
+msgstr "2 ستون- 1/2  1/2"
+
+#: auxin-content/options/auxin-options.php:5148
+msgid "2 Columns- 2/3  1/3"
+msgstr "2 ستون- 2/3  1/3"
+
+#: auxin-content/options/auxin-options.php:5152
+msgid "2 Columns- 1/3  2/3"
+msgstr "2 ستون- 1/3  2/3"
+
+#: auxin-content/options/auxin-options.php:5156
+msgid "2 Columns- 3/4  1/4"
+msgstr "2 ستون- 3/4  1/4"
+
+#: auxin-content/options/auxin-options.php:5160
+msgid "2 Columns- 1/4  3/4"
+msgstr "2 ستون- 1/4  3/4"
+
+#: auxin-content/options/auxin-options.php:5164
+msgid "3 Columns- 1/3  1/3  1/3"
+msgstr "3 ستون- 1/3  1/3  1/3"
+
+#: auxin-content/options/auxin-options.php:5168
+msgid "3 Columns- 1/2  1/4  1/4"
+msgstr "3 ستون- 1/2  1/4  1/4"
+
+#: auxin-content/options/auxin-options.php:5172
+msgid "3 Columns- 1/4  1/4  1/2"
+msgstr "3 ستون- 1/4  1/4  1/2"
+
+#: auxin-content/options/auxin-options.php:5176
+msgid "4 Columns- 1/4  1/4  1/4  1/4"
+msgstr "4 ستون- 1/4  1/4  1/4  1/4"
+
+#: auxin-content/options/auxin-options.php:5180
+msgid "5 Columns- 1/5  1/5  1/5  1/5  1/5"
+msgstr "5 ستون- 1/5  1/5  1/5  1/5  1/5"
+
+#: auxin-content/options/auxin-options.php:5192
+msgid "Specifies background color of subfooter."
+msgstr "رنگ پس زمینه ساب فوتر را مشخص می کند."
+
+#: auxin-content/options/auxin-options.php:5215
+#, fuzzy
+#| msgid "Specifies background color of subfooter."
+msgid "Specifies top border color of subfooter."
+msgstr "رنگ پس زمینه ساب فوتر را مشخص می کند."
+
+#: auxin-content/options/auxin-options.php:5246
+msgid "Display Footer"
+msgstr "نمایش فوتر"
+
+#: auxin-content/options/auxin-options.php:5247
+msgid "Enable it to display footer on all pages."
+msgstr "برای نمایش فوتر در همه صفحات این گزینه را فعال کنید."
+
+#: auxin-content/options/auxin-options.php:5258
+msgid "Footer Layout"
+msgstr "چیدمان فوتر"
+
+#: auxin-content/options/auxin-options.php:5259
+msgid "Specifies the footer layout."
+msgstr "چیدمان فوتر را مشخص می کند."
+
+#: auxin-content/options/auxin-options.php:5278
+msgid "Footer Preset 1"
+msgstr "طرح آماده فوتر 1"
+
+#: auxin-content/options/auxin-options.php:5282
+msgid "Footer Preset 2"
+msgstr "طرح آماده فوتر 2"
+
+#: auxin-content/options/auxin-options.php:5286
+msgid "Footer Preset 3"
+msgstr "طرح آماده فوتر 3"
+
+#: auxin-content/options/auxin-options.php:5290
+msgid "Footer Preset 4"
+msgstr "طرح اماده فوتر 4"
+
+#: auxin-content/options/auxin-options.php:5336
+msgid "Footer Copyright Text"
+msgstr "متن کپی رایت فوتر"
+
+#: auxin-content/options/auxin-options.php:5348
+#, fuzzy
+#| msgid "&copy; 2016 Company. All rights reserved"
+msgid "&copy; {{Y}} {{sitename}}. All rights reserved"
+msgstr "&copy; 2016 شرکت. تمامی حقوق محفوظ است."
+
+#: auxin-content/options/auxin-options.php:5355
+#, fuzzy
+#| msgid "Specifies background color of subfooter."
+msgid "Specifies top border color of footer."
+msgstr "رنگ پس زمینه ساب فوتر را مشخص می کند."
+
+#: auxin-content/options/auxin-options.php:5387
+#: auxin-content/options/auxin-options.php:5388
+msgid "Extras"
+msgstr "موارد اضافه"
+
+#: auxin-content/options/auxin-options.php:5418
+#: auxin-content/options/auxin-options.php:5419
+msgid "Import Theme Options"
+msgstr "درون ریزی تنظیمات پوسته"
+
+#: auxin-content/options/auxin-options.php:5424
+msgid "Theme options code"
+msgstr "کد تنظیمات پوسته"
+
+#: auxin-content/options/auxin-options.php:5444
+#: auxin-content/options/auxin-options.php:5445
+#: auxin-content/options/auxin-options.php:5450
+msgid "Export Theme Options"
+msgstr "برون بری تنظیمات پوسته"
+
+#: auxin-content/options/auxin-options.php:5451
+msgid "Your theme options code which you can import later."
+msgstr "کد تنظیمات پوسته شما که می توانید بعدا درون ریزی کنید."
+
+#: auxin-content/options/auxin-options.php:5465
+msgid "Go to Top Button "
+msgstr "دکمه رفتن به بالا"
+
+#: auxin-content/options/auxin-options.php:5466
+msgid "Go to Top Button Options"
+msgstr "تنظیمات دکمه رفتن به بالا"
+
+#: auxin-content/options/auxin-options.php:5470
+msgid "Display Go to top button"
+msgstr "نمایش دکمه رفتن به بالا"
+
+#: auxin-content/options/auxin-options.php:5471
+msgid "Enable it to display Go to Top button."
+msgstr "برای نمایش دکمه رفتن به بالا این گزینه را فعال کنید."
+
+#: auxin-content/options/auxin-options.php:5482
+msgid "Animate scroll"
+msgstr "افزودن انیمیشن به اسکرول"
+
+#: auxin-content/options/auxin-options.php:5483
+msgid ""
+"Specifies whether animate or instantly go to top of page, when goto top "
+"button clicked."
+msgstr ""
+"مشخص می کند هنگامی که دکمه رفتن به بالا کلیک می شود یکباره به بالای صفحه "
+"حرکت کند یا دارای انیمیشن باشد."
+
+#: auxin-content/options/auxin-options.php:5500
+msgid "Go to top button position"
+msgstr "موقعیت دکمه رفتن به بالا"
+
+#: auxin-content/options/auxin-options.php:5501
+msgid "Specifies the position of Go to Top button."
+msgstr "موقعیت دکمه رفتن به بالا را مشخص می کند."
+
+#: auxin/auxin-include/classes/class-auxin-about.php:63
+msgid "Install Plugin"
+msgstr "نصب افزونه"
+
+#: auxin/auxin-include/classes/class-auxin-about.php:87
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "فعال سازی"
+
+#: auxin/auxin-include/classes/class-auxin-about.php:87
+msgid "Activate Plugin"
+msgstr "فعالسازی افزونه"
+
+#: auxin/auxin-include/classes/class-auxin-about.php:113
+msgid "installed"
+msgstr "نصب شده"
+
+#: auxin/auxin-include/classes/class-auxin-about.php:156
+#, php-format
+msgid "Welcome to %s"
+msgstr "به %s خوش آمدید"
+
+#: auxin/auxin-include/classes/class-auxin-about.php:174
+#, fuzzy, php-format
+#| msgid "VERSION: "
+msgid "VERSION: %s"
+msgstr "نسخه:"
+
+#: auxin/auxin-include/classes/class-auxin-admin-assets.php:154
+msgid "Execute"
+msgstr "اجرا"
+
+#: auxin/auxin-include/classes/class-auxin-admin-assets.php:157
+msgid "Visual Icon Selector"
+msgstr "انتخابگر آیکن بصری"
+
+#: auxin/auxin-include/classes/class-auxin-admin-assets.php:160
+msgid "Preview text:"
+msgstr "متن یش نمایش:"
+
+#: auxin/auxin-include/classes/class-auxin-admin-assets.php:161
+msgid "Font:"
+msgstr "فونت:"
+
+#: auxin/auxin-include/classes/class-auxin-admin-assets.php:162
+msgid "Size:"
+msgstr "اندازه:"
+
+#: auxin/auxin-include/classes/class-auxin-admin-assets.php:163
+msgid "Style:"
+msgstr "ظاهر:"
+
+#: auxin/auxin-include/classes/class-auxin-admin-assets.php:164
+msgid "Google Fonts"
+msgstr "فونت های گوگل"
+
+#: auxin/auxin-include/classes/class-auxin-admin-assets.php:165
+#: auxin/auxin-include/classes/class-auxin-fonts.php:78
+msgid "System Fonts"
+msgstr "فونت های سیستم"
+
+#: auxin/auxin-include/classes/class-auxin-admin-assets.php:166
+#: auxin/auxin-include/classes/class-auxin-fonts.php:93
+msgid "Google Early Access"
+msgstr "فونت های گوگل ( دسترسی اولیه )"
+
+#: auxin/auxin-include/classes/class-auxin-admin-assets.php:167
+#: auxin/auxin-include/classes/class-auxin-fonts.php:190
+msgid "Custom Fonts"
+msgstr "فونت دلخواه"
+
+#: auxin/auxin-include/classes/class-auxin-admin-assets.php:171
+msgid "Cancel"
+msgstr "لغو"
+
+#: auxin/auxin-include/classes/class-auxin-admin-assets.php:172
+msgid "Apply"
+msgstr "اعمال"
+
+#: auxin/auxin-include/classes/class-auxin-breadcrumb.php:59
+#, fuzzy
+#| msgctxt "Home in breadcrumb"
+#| msgid "Home"
+msgid "Home"
+msgstr "خانه"
+
+#: auxin/auxin-include/classes/class-auxin-breadcrumb.php:117
+msgid "show all"
+msgstr "نمایش همه"
+
+#: auxin/auxin-include/classes/class-auxin-breadcrumb.php:216
+msgid "previous"
+msgstr "قبلی"
+
+#: auxin/auxin-include/classes/class-auxin-breadcrumb.php:219
+msgid "next"
+msgstr "بعدی"
+
+#: auxin/auxin-include/classes/class-auxin-customize-control.php:119
+msgid "The description"
+msgstr "توضیحات"
+
+#: auxin/auxin-include/classes/class-auxin-customize-control.php:120
+#: comments.php:87
+msgid "Submit"
+msgstr "تایید"
+
+#: auxin/auxin-include/classes/class-auxin-customize-control.php:596
+msgid "Add File"
+msgstr "افزودن فایل"
+
+#: auxin/auxin-include/classes/class-auxin-customize-control.php:597
+msgid "Change File"
+msgstr "تغییر فایل"
+
+#: auxin/auxin-include/classes/class-auxin-customize-control.php:598
+#: auxin/auxin-include/classes/class-auxin-customize-control.php:600
+msgid "Select File"
+msgstr "انتخاب فایل"
+
+#: auxin/auxin-include/classes/class-auxin-customize-control.php:599
+msgid "Remove"
+msgstr "حذف"
+
+#: auxin/auxin-include/classes/class-auxin-customize-control.php:601
+msgid "Choose File"
+msgstr "انتخاب فایل"
+
+#: auxin/auxin-include/classes/class-auxin-customizer.php:329
+#: auxin/auxin-include/classes/class-auxin-customizer.php:344
+#: auxin/auxin-include/classes/class-auxin-metabox-view.php:510
+#: auxin/auxin-include/classes/class-auxin-metabox-view.php:540
+msgid "Add Image"
+msgstr "افزودن تصویر"
+
+#: auxin/auxin-include/classes/class-auxin-customizer.php:330
+#: auxin/auxin-include/classes/class-auxin-customizer.php:345
+msgid "Change Image"
+msgstr "تغییر تصویر"
+
+#: auxin/auxin-include/classes/class-auxin-customizer.php:331
+#: auxin/auxin-include/classes/class-auxin-customizer.php:346
+msgid "Submit Image"
+msgstr "تایید تصویر"
+
+#: auxin/auxin-include/classes/class-auxin-customizer.php:332
+#: auxin/auxin-include/classes/class-auxin-customizer.php:347
+#: auxin/auxin-include/classes/class-auxin-metabox-view.php:510
+#: auxin/auxin-include/classes/class-auxin-metabox-view.php:540
+msgid "Select Image"
+msgstr "انتخاب تصویر"
+
+#: auxin/auxin-include/classes/class-auxin-customizer.php:333
+#: auxin/auxin-include/classes/class-auxin-customizer.php:348
+msgid "Choose Image"
+msgstr "انتخاب تصویر"
+
+#: auxin/auxin-include/classes/class-auxin-customizer.php:359
+#: auxin/auxin-include/classes/class-auxin-metabox-view.php:571
+msgid "Add Audio"
+msgstr "افزودن صدا"
+
+#: auxin/auxin-include/classes/class-auxin-customizer.php:360
+msgid "Change Audio"
+msgstr "تغییر صدا"
+
+#: auxin/auxin-include/classes/class-auxin-customizer.php:361
+msgid "Submit Audio"
+msgstr "تایید صدا"
+
+#: auxin/auxin-include/classes/class-auxin-customizer.php:362
+#: auxin/auxin-include/classes/class-auxin-metabox-view.php:571
+msgid "Select Audio"
+msgstr "انتخاب صدا"
+
+#: auxin/auxin-include/classes/class-auxin-customizer.php:363
+msgid "Choose Audio"
+msgstr "انتخاب صدا"
+
+#: auxin/auxin-include/classes/class-auxin-customizer.php:374
+#: auxin/auxin-include/classes/class-auxin-metabox-view.php:602
+msgid "Add Video"
+msgstr "افزودن ویدیو"
+
+#: auxin/auxin-include/classes/class-auxin-customizer.php:375
+msgid "Change Video"
+msgstr "تغییر ویدیو"
+
+#: auxin/auxin-include/classes/class-auxin-customizer.php:376
+msgid "Submit Video"
+msgstr "تایید ویدیو"
+
+#: auxin/auxin-include/classes/class-auxin-customizer.php:377
+#: auxin/auxin-include/classes/class-auxin-metabox-view.php:602
+msgid "Select Video"
+msgstr "انتخاب ویدیو"
+
+#: auxin/auxin-include/classes/class-auxin-customizer.php:378
+msgid "Choose Video"
+msgstr "انتخاب ویدیو"
+
+#: auxin/auxin-include/classes/class-auxin-master-nav-menu.php:37
+msgid "Submenu as Mega menu"
+msgstr "زیرمنو به عنوان مگامنو"
+
+#: auxin/auxin-include/classes/class-auxin-master-nav-menu.php:44
+msgid "Disable Link"
+msgstr "غیرفعال کردن لینک"
+
+#: auxin/auxin-include/classes/class-auxin-master-nav-menu.php:50
+msgid "Hide Label"
+msgstr "پنهان یازی برچسب"
+
+#: auxin/auxin-include/classes/class-auxin-master-nav-menu.php:56
+msgid "Icon"
+msgstr "آیکن"
+
+#: auxin/auxin-include/classes/class-auxin-master-nav-menu.php:62
+msgid "Icon Alignment"
+msgstr "تراز آیکن"
+
+#: auxin/auxin-include/classes/class-auxin-master-nav-menu.php:75
+msgid "Start Row From Here"
+msgstr "شروع ردیف از اینجا"
+
+#: auxin/auxin-include/classes/class-auxin-master-nav-menu.php:83
+msgid "Hide Title"
+msgstr "پنهان سازی عنوان"
+
+#: auxin/auxin-include/classes/class-auxin-master-nav-menu.php:91
+msgid "Number of Columns"
+msgstr "تعداد ستون ها"
+
+#: auxin/auxin-include/classes/class-auxin-master-nav-menu.php:107
+msgid "Hide on Desktop"
+msgstr "پنهان سازی در دسکتاپ"
+
+#: auxin/auxin-include/classes/class-auxin-master-nav-menu.php:113
+msgid "Hide on Tablet"
+msgstr "پنهان سازی در تبلت"
+
+#: auxin/auxin-include/classes/class-auxin-master-nav-menu.php:119
+msgid "Hide on Mobile"
+msgstr "پنهان سازی در موبایل"
+
+#: auxin/auxin-include/classes/class-auxin-master-nav-menu.php:125
+msgid "Custom Style"
+msgstr "استایل دلخواه"
+
+#: auxin/auxin-include/classes/class-auxin-metabox-hub.php:147
+msgid "Loading options.."
+msgstr "تنظیمات بارگذاری.."
+
+#: auxin/auxin-include/classes/class-auxin-metabox-view.php:184
+#: auxin/auxin-include/classes/class-auxin-metabox-view.php:223
+msgid "Remove image"
+msgstr "حذف تصویر"
+
+#: auxin/auxin-include/classes/class-auxin-metabox-view.php:540
+msgid "Add Image(s)"
+msgstr "افزودن تصویر(ها)"
+
+#: auxin/auxin-include/classes/class-auxin-metabox-view.php:641
+msgid "Specifies the color of website background"
+msgstr "رنگ پس زمینه وب سایت را مشخص می کند"
+
+#: auxin/auxin-include/classes/class-auxin-metabox-view.php:647
+msgid "Background repeat"
+msgstr "تکرار پس زمینه"
+
+#: auxin/auxin-include/classes/class-auxin-metabox-view.php:648
+msgid "Specifies how background image repeats"
+msgstr "نحوه تکرار تصویر پس زمینه را مشخص می کند."
+
+#: auxin/auxin-include/classes/class-auxin-metabox-view.php:676
+msgid "Background attachment"
+msgstr "پیوست پس زمینه"
+
+#: auxin/auxin-include/classes/class-auxin-metabox-view.php:677
+msgid ""
+"Specifies the background is fixed or scrollable as user scrolls the document"
+msgstr ""
+"مشخص می کند هنگام اسکرول صفحه توسط کاربر پس زمینه ثابت باشد یا اسکرول شود."
+
+#: auxin/auxin-include/classes/class-auxin-metabox-view.php:695
+msgid "Background position"
+msgstr "موقعیت پس زمینه"
+
+#: auxin/auxin-include/classes/class-auxin-metabox-view.php:696
+msgid "Specifies background image alignment"
+msgstr "تراز تصویر پس زمینه را مشخص می کند."
+
+#: auxin/auxin-include/classes/class-auxin-metabox-view.php:742
+msgid "Background size"
+msgstr "اندازه پس زمینه"
+
+#: auxin/auxin-include/classes/class-auxin-metabox-view.php:764
+msgid "Background pattern"
+msgstr "الگوی پس زمینه"
+
+#: auxin/auxin-include/classes/class-auxin-metabox-view.php:765
+msgid "Here you can select one of these patterns as site image background."
+msgstr ""
+"در اینجا می توانید یکی از این الگوها را به عنوان تصویر پس زمینه سایت انتخاب "
+"کنید."
+
+#: auxin/auxin-include/classes/class-auxin-metabox-view.php:773
+msgid "You can upload custom image for site background"
+msgstr "می توانید تصویر دلخواهی را برای پس زمینه سایت بارگذاری کنید."
+
+#: auxin/auxin-include/classes/class-auxin-metabox-view.php:774
+#: auxin/auxin-include/classes/class-auxin-metabox-view.php:782
+#: auxin/auxin-include/classes/class-auxin-metabox-view.php:790
+#: auxin/auxin-include/classes/class-auxin-metabox-view.php:798
+msgid ""
+"Note: if you set custom image, default image backgrounds will be ignored."
+msgstr ""
+"نکته: اگر تصویر دلخواهی تنظیم کنید، تصویر پس زمینه پیش فرض نادیده گرفته می "
+"شود."
+
+#: auxin/auxin-include/classes/class-auxin-metabox-view.php:780
+msgid "Background video MP4"
+msgstr "ویدیوی پس زمینه با فرمت MP4"
+
+#: auxin/auxin-include/classes/class-auxin-metabox-view.php:781
+#: auxin/auxin-include/classes/class-auxin-metabox-view.php:789
+#: auxin/auxin-include/classes/class-auxin-metabox-view.php:797
+msgid "You can upload custom video for title background"
+msgstr "می توانید ویدیوی دلخواهی را برای پس زمینه عنوان بارگذاری کنید"
+
+#: auxin/auxin-include/classes/class-auxin-metabox-view.php:788
+msgid "Background video Ogg"
+msgstr "ویدیوی پس زمینه با فرمت Ogg"
+
+#: auxin/auxin-include/classes/class-auxin-metabox-view.php:796
+msgid "Background video WebM"
+msgstr "ویدیوی پس زمینه با فرمت WebM"
+
+#: auxin/auxin-include/classes/excluded/class-auxin-post-type-client.php:44
+msgid "Client"
+msgstr "مشتری"
+
+#: auxin/auxin-include/classes/excluded/class-auxin-post-type-client.php:45
+msgctxt "Admin menu name"
+msgid "Clients"
+msgstr "مشتریان"
+
+#: auxin/auxin-include/classes/excluded/class-auxin-post-type-client.php:46
+msgid "Add Client, Partner"
+msgstr "افزودن مشتری، شریک"
+
+#: auxin/auxin-include/classes/excluded/class-auxin-post-type-client.php:47
+msgid "All Clients, Partners"
+msgstr "افزودن مشتریان، شرکا"
+
+#: auxin/auxin-include/classes/excluded/class-auxin-post-type-client.php:48
+msgid "Add New Client"
+msgstr "افزودن مشتری جدید"
+
+#: auxin/auxin-include/classes/excluded/class-auxin-post-type-client.php:49
+msgid "Edit Client"
+msgstr "ویرایش مشتری"
+
+#: auxin/auxin-include/classes/excluded/class-auxin-post-type-client.php:50
+msgid "New Client"
+msgstr "مشتری جدید"
+
+#: auxin/auxin-include/classes/excluded/class-auxin-post-type-client.php:51
+msgid "View Client"
+msgstr "نمایش مشتری"
+
+#: auxin/auxin-include/classes/excluded/class-auxin-post-type-client.php:52
+msgid "Search Clients"
+msgstr "جستجوی مشتریان"
+
+#: auxin/auxin-include/classes/excluded/class-auxin-post-type-client.php:53
+msgid "Parent Client"
+msgstr "مشتری مادر"
+
+#: auxin/auxin-include/classes/excluded/class-auxin-post-type-client.php:54
+msgid "No clients found"
+msgstr "مشتری یافت نشد."
+
+#: auxin/auxin-include/classes/excluded/class-auxin-post-type-client.php:55
+msgid "No clients found in trash"
+msgstr "مشتری در سطل زباله یافت نشد"
+
+#: auxin/auxin-include/classes/excluded/class-auxin-post-type-client.php:60
+msgid "Here you can add new client to your website."
+msgstr "در اینجا می توانید مشتری جدیدی به سایت خود اضافه کنید."
+
+#: auxin/auxin-include/classes/excluded/class-auxin-post-type-client.php:90
+#: auxin/auxin-include/classes/excluded/class-auxin-post-type-client.php:109
+msgid "Client Categories"
+msgstr "دسته های مشتریان"
+
+#: auxin/auxin-include/classes/excluded/class-auxin-post-type-client.php:91
+msgid "Client Category"
+msgstr "دسته مشتریان"
+
+#: auxin/auxin-include/classes/excluded/class-auxin-post-type-client.php:92
+msgid "All Client Categories"
+msgstr "همه دسته های مشتریان"
+
+#: auxin/auxin-include/classes/excluded/class-auxin-post-type-client.php:93
+msgid "Parent Client Category"
+msgstr "دسته مشتری مادر"
+
+#: auxin/auxin-include/classes/excluded/class-auxin-post-type-client.php:94
+msgid "Parent Client Category:"
+msgstr "دسته مشتری مادر:"
+
+#: auxin/auxin-include/classes/excluded/class-auxin-post-type-client.php:95
+msgid "Edit Client Category"
+msgstr "ویرایش دسته مشتری"
+
+#: auxin/auxin-include/classes/excluded/class-auxin-post-type-client.php:96
+msgid "Update Client Category"
+msgstr "بروزرسانی دسته مشتری"
+
+#: auxin/auxin-include/classes/excluded/class-auxin-post-type-client.php:97
+msgid "Add New Client Category"
+msgstr "افزودن دسته مشتری جدید"
+
+#: auxin/auxin-include/classes/excluded/class-auxin-post-type-client.php:98
+msgid "New Client Category"
+msgstr "دسته مشتری جدید"
+
+#: auxin/auxin-include/classes/excluded/class-auxin-post-type-client.php:99
+msgid "Search in Client Categories"
+msgstr "جستجو در دسته های کاربران"
+
+#: auxin/auxin-include/classes/excluded/class-auxin-post-type-client.php:100
+msgctxt "Client-cat admin menu name"
+msgid "Categories"
+msgstr "دسته ها"
+
+#: auxin/auxin-include/classes/excluded/class-auxin-post-type-client.php:121
+msgctxt "taxonomy slug"
+msgid "client-cat"
+msgstr "client-cat"
+
+#: auxin/auxin-include/classes/excluded/class-auxin-post-type-client.php:133
+msgid "Client Tags/Filters"
+msgstr "برچسب/فیلتر مشتریان"
+
+#: auxin/auxin-include/classes/excluded/class-auxin-post-type-client.php:134
+msgid "Client Tag/Filter"
+msgstr "برچسب/فیلتر مشتری"
+
+#: auxin/auxin-include/classes/excluded/class-auxin-post-type-client.php:135
+msgid "Search in client Tags/filters"
+msgstr "جستجو در برچسب/فیلتر مشتریان"
+
+#: auxin/auxin-include/classes/excluded/class-auxin-post-type-client.php:136
+msgid "Popular Tags/filters"
+msgstr "برچسب/فیلتر های محبوب"
+
+#: auxin/auxin-include/classes/excluded/class-auxin-post-type-client.php:137
+msgid "All client Tags/filters"
+msgstr "همه برچسب/فیلتر های مشتریان"
+
+#: auxin/auxin-include/classes/excluded/class-auxin-post-type-client.php:138
+msgid "Parent client Tag"
+msgstr "برچشب مشتری مادر"
+
+#: auxin/auxin-include/classes/excluded/class-auxin-post-type-client.php:139
+msgid "Parent client Tag:"
+msgstr "برچسب مشتری مادر:"
+
+#: auxin/auxin-include/classes/excluded/class-auxin-post-type-client.php:140
+msgid "Edit client Tag/Filter"
+msgstr "ویرایش برچسب/فیلتر مشتری"
+
+#: auxin/auxin-include/classes/excluded/class-auxin-post-type-client.php:141
+msgid "Update client Tag/Filter"
+msgstr "بروزرسانی برچسب/فیلتر مشتری"
+
+#: auxin/auxin-include/classes/excluded/class-auxin-post-type-client.php:142
+msgid "Add new client Tag/Filter"
+msgstr "افزودن برچسب/فیلتر مشتری جدید"
+
+#: auxin/auxin-include/classes/excluded/class-auxin-post-type-client.php:143
+msgid "New client Tag/Filter"
+msgstr "برچسب/فیلتر مشتری جدید"
+
+#: auxin/auxin-include/classes/excluded/class-auxin-post-type-client.php:145
+msgid "Separate \"Tag/Filter\" with commas"
+msgstr "\"برچسب/فیلتر\" ها را با کاما از هم جدا کنید"
+
+#: auxin/auxin-include/classes/excluded/class-auxin-post-type-client.php:146
+msgid "Add or remove Tag/Filter"
+msgstr "افزودن یا حذف برچسب/فیلتر"
+
+#: auxin/auxin-include/classes/excluded/class-auxin-post-type-client.php:147
+msgid "Choose from the most used tags"
+msgstr "انتخاب از برچسب های بیشتر استفاده شده"
+
+#: auxin/auxin-include/classes/excluded/class-auxin-post-type-client.php:148
+msgctxt "client-tag admin menu name"
+msgid "Tags (Filters)"
+msgstr "برچسب ها (فیلترها)"
+
+#: auxin/auxin-include/classes/excluded/class-auxin-post-type-client.php:157
+msgid "client Tags/Filters"
+msgstr "برچسب/فیلتر های مشتریان"
+
+#: auxin/auxin-include/classes/excluded/class-auxin-post-type-client.php:169
+msgctxt "taxonomy slug"
+msgid "client-tag"
+msgstr "برچسب-مشتریان"
+
+#: auxin/auxin-include/classes/excluded/class-auxin-post-type-client.php:189
+msgctxt "Image column at client edit columns"
+msgid "Logo"
+msgstr "لوگو"
+
+#: auxin/auxin-include/classes/excluded/class-auxin-post-type-client.php:190
+msgctxt "Title column at client edit columns"
+msgid "Client's Name"
+msgstr "نام مشتری"
+
+#: auxin/auxin-include/classes/excluded/class-auxin-post-type-client.php:191
+msgctxt "Category column at client edit columns"
+msgid "Client's Category"
+msgstr "دسته مشتری"
+
+#: auxin/auxin-include/classes/excluded/class-auxin-post-type-client.php:192
+msgctxt "Link column at client edit columns"
+msgid "Client's Link"
+msgstr "لینک مشتری"
+
+#: auxin/auxin-include/classes/excluded/class-auxin-post-type-client.php:193
+msgctxt "Tag/Filter column at client edit columns"
+msgid "Tag / Filter"
+msgstr "برچسب / فیلتر"
+
+#: auxin/auxin-include/classes/excluded/class-auxin-post-type-client.php:235
+msgid ""
+"This is an image that is chosen as the representative/cover image for your "
+"client."
+msgstr "این تصویری است که به عنوان تصویر جلد/کاور مشتری شما انتخاب شده است."
+
+#: auxin/auxin-include/classes/excluded/class-auxin-post-type-client.php:267
+msgid "Enter Client/Partner Name Here"
+msgstr "نام کاربر/شریک را اینجا وارد کنید"
+
+#: auxin/auxin-include/classes/excluded/class-auxin-theme-check-update.php:185
+#: auxin/auxin-include/classes/excluded/class-auxin-theme-updater.php:149
+msgid "Faild to connect to download API .."
+msgstr "اتصال به API دانلود برقرار نشد .."
+
+#: auxin/auxin-include/classes/excluded/class-auxin-theme-check-update.php:203
+#: auxin/auxin-include/classes/excluded/class-auxin-theme-updater.php:166
+msgid "Error on connecting to download API .."
+msgstr "خطا هنگام اتصال به API دانلود .."
+
+#: auxin/auxin-include/classes/excluded/class-auxin-theme-updater.php:193
+msgid "Error! Failed to connect filesystem"
+msgstr "خطا. اتصال به فایل سیستم انجام نشد."
+
+#: auxin/auxin-include/compatibility/woocommerce.php:76
+#: auxin/auxin-include/include/templates/templates-post.php:1636
+msgid "View your shopping cart"
+msgstr "نمایش سبد خرید"
+
+#: auxin/auxin-include/compatibility/wpml.php:13
+msgid "This is also available in: "
+msgstr "این همچنین در دسترس است در:"
+
+#: auxin/auxin-include/include/functions.php:365
+msgid " Continue Reading"
+msgstr "ادامه خواندن"
+
+#: auxin/auxin-include/include/functions.php:1696
+#, php-format
+msgid "The function name \"%s\" not found for Metabox hub \"%s\"."
+msgstr ""
+
+#: auxin/auxin-include/include/functions.php:1801
+msgid "pattern 1"
+msgstr "الگوی 1"
+
+#: auxin/auxin-include/include/functions.php:1806
+msgid "pattern 2"
+msgstr "الگوی 2"
+
+#: auxin/auxin-include/include/functions.php:1811
+msgid "pattern 3"
+msgstr "الگوی 3"
+
+#: auxin/auxin-include/include/functions.php:1816
+msgid "pattern 4"
+msgstr "الگوی 4"
+
+#: auxin/auxin-include/include/functions.php:1821
+msgid "pattern 5"
+msgstr "الگوی 5"
+
+#: auxin/auxin-include/include/functions.php:1826
+msgid "pattern 6"
+msgstr "الگوی 6"
+
+#: auxin/auxin-include/include/functions.php:1831
+msgid "pattern 7"
+msgstr "الگوی 7"
+
+#: auxin/auxin-include/include/functions.php:1836
+msgid "pattern 8"
+msgstr "الگوی 8"
+
+#: auxin/auxin-include/include/functions.php:1841
+msgid "pattern 9"
+msgstr "الگوی 9"
+
+#: auxin/auxin-include/include/functions.php:1846
+msgid "pattern 10"
+msgstr "الگوی 10"
+
+#: auxin/auxin-include/include/functions.php:1851
+msgid "pattern 11"
+msgstr "الگوی 11"
+
+#: auxin/auxin-include/include/functions.php:1856
+msgid "pattern 12"
+msgstr "الگوی 12"
+
+#: auxin/auxin-include/include/functions.php:1861
+msgid "pattern 14"
+msgstr "الگوی 14"
+
+#: auxin/auxin-include/include/functions.php:1866
+msgid "pattern 15"
+msgstr "الگوی 15"
+
+#: auxin/auxin-include/include/functions.php:1871
+msgid "pattern 16"
+msgstr "الگوی 16"
+
+#: auxin/auxin-include/include/functions.php:1876
+msgid "pattern 17"
+msgstr "الگوی 17"
+
+#: auxin/auxin-include/include/functions.php:1881
+msgid "pattern 18"
+msgstr "الگوی 18"
+
+#: auxin/auxin-include/include/functions.php:1886
+msgid "pattern 19"
+msgstr "الگوی 19"
+
+#: auxin/auxin-include/include/functions.php:1967
+#, php-format
+msgid "Please specify a unique dom name for %s"
+msgstr ""
+
+#: auxin/auxin-include/include/hooks-admin.php:37
+msgid "Theme Setting"
+msgstr "تنظیمات پوسته"
+
+#: auxin/auxin-include/include/hooks-general.php:87
+msgid "Header Primary Navigation"
+msgstr "منوی اصلی هدر"
+
+#: auxin/auxin-include/include/hooks-general.php:88
+msgid "Header Secondary Navigation"
+msgstr "منوی دوم (فرعی) هدر"
+
+#: auxin/auxin-include/include/hooks-general.php:91
+msgid "Footer Navigation"
+msgstr "منوی فوتر"
+
+#: auxin/auxin-include/include/hooks-general.php:101
+msgctxt "Theme starter content"
+msgid "Blue Wall"
+msgstr ""
+
+#: auxin/auxin-include/include/hooks-general.php:105
+msgctxt "Theme starter content"
+msgid "Bridge"
+msgstr ""
+
+#: auxin/auxin-include/include/hooks-general.php:109
+msgctxt "Theme starter content"
+msgid "Flowers"
+msgstr ""
+
+#: auxin/auxin-include/include/hooks-general.php:123
+msgctxt "Theme starter content"
+msgid "Privacy Policy"
+msgstr ""
+
+#: auxin/auxin-include/include/hooks-general.php:124
+msgctxt "Theme starter content"
+msgid "This is a page with some basic information about our privacy policy."
+msgstr ""
+
+#: auxin/auxin-include/include/hooks-general.php:128
+msgctxt "Theme starter content"
+msgid "Terms"
+msgstr ""
+
+#: auxin/auxin-include/include/hooks-general.php:129
+msgctxt "Theme starter content"
+msgid "This is a page with some basic terms and conditions terms."
+msgstr ""
+
+#: auxin/auxin-include/include/hooks-general.php:135
+msgctxt "Theme starter content"
+msgid "Montain and Winter Cold Weather"
+msgstr ""
+
+#: auxin/auxin-include/include/hooks-general.php:136
+msgctxt "Theme starter content"
+msgid ""
+"If several languages coalesce, the grammar of the resulting language is more "
+"simple and regular than that of the individual languages. The new common "
+"language will be more simple and regular than the existing European "
+"languages. It will be as simple as Occidental; in fact, it will be "
+"Occidental."
+msgstr ""
+
+#: auxin/auxin-include/include/hooks-general.php:142
+msgctxt "Theme starter content"
+msgid "Serious Problems with Cables in CIty"
+msgstr ""
+
+#: auxin/auxin-include/include/hooks-general.php:143
+#: auxin/auxin-include/include/hooks-general.php:150
+msgctxt "Theme starter content"
+msgid ""
+"The new common language will be more simple and regular than the existing "
+"European languages. It will be as simple as Occidental; in fact, it will be "
+"Occidental. To an English person, it will seem like simplified English, as a "
+"skeptical Cambridge friend of mine told me what Occidental is. The European "
+"languages are members of the same family."
+msgstr ""
+
+#: auxin/auxin-include/include/hooks-general.php:149
+msgctxt "Theme starter content"
+msgid "Road to Eye-catching Landscape"
+msgstr ""
+
+#: auxin/auxin-include/include/hooks-general.php:208
+msgctxt "Theme starter content"
+msgid ""
+"You can put special widgets in this bar; like, instagram stream, newsletter, "
+"recent tweets or partners."
+msgstr ""
+
+#: auxin/auxin-include/include/hooks-general.php:221
+#, fuzzy
+#| msgid "Author"
+msgctxt "Theme starter content"
+msgid "About Author"
+msgstr "نویسنده"
+
+#: auxin/auxin-include/include/hooks-general.php:222
+msgctxt "Theme starter content"
+msgid "John Doe"
+msgstr ""
+
+#: auxin/auxin-include/include/hooks-general.php:223
+msgctxt "Theme starter content"
+msgid "Company CEO"
+msgstr ""
+
+#: auxin/auxin-include/include/hooks-general.php:224
+msgctxt "Theme starter content"
+msgid ""
+"Drops of rain could be heard hitting the pane, which made him feel quite "
+"sad. How about if I sleep a little bit longer and forget all this nonsense"
+msgstr ""
+
+#: auxin/auxin-include/include/hooks-general.php:241
+msgid "Yet another awesome website by Phlox theme."
+msgstr ""
+
+#: auxin/auxin-include/include/hooks-general.php:249
+#, fuzzy
+#| msgid "Header Menu"
+msgid "Header Primary Menu"
+msgstr "منوی سربرگ"
+
+#: auxin/auxin-include/include/hooks-general.php:261
+#, fuzzy
+#| msgid "Header Menu"
+msgid "Top Header Menu"
+msgstr "منوی سربرگ"
+
+#: auxin/auxin-include/include/hooks-general.php:279
+#, fuzzy
+#| msgid "Footer Setting"
+msgid "Footer Social Menu"
+msgstr "تنظیمات فوتر"
+
+#: auxin/auxin-include/include/hooks-general.php:282
+#, fuzzy
+#| msgid "Twitter"
+msgctxt "Theme starter content"
+msgid "Twitter"
+msgstr "تویتتر"
+
+#: auxin/auxin-include/include/hooks-general.php:286
+#, fuzzy
+#| msgid "Facebook"
+msgctxt "Theme starter content"
+msgid "Facebook"
+msgstr "فیسبوک"
+
+#: auxin/auxin-include/include/hooks-general.php:290
+#, fuzzy
+#| msgid "Instagram"
+msgctxt "Theme starter content"
+msgid "Instagram"
+msgstr "اینستاگرام"
+
+#: auxin/auxin-include/include/hooks-general.php:312
+#, php-format
+msgid ""
+"You are using <strong><a href=\"themes.php\">%1$s</a></strong> theme "
+"<strong>version %2$s</strong>"
+msgstr ""
+"شما از پوسته <strong><a href=\"themes.php\">%1$s</a></strong> <strong> نسخه "
+"%2$s</strong> استفاده می کنید."
+
+#: auxin/auxin-include/include/hooks-general.php:804
+msgid "Like"
+msgstr ""
+
+#: auxin/auxin-include/include/hooks-general.php:822
+msgid "Global Primary Widget Area"
+msgstr "ناحیه ابزارک اصلی سراسری"
+
+#: auxin/auxin-include/include/hooks-general.php:824
+msgid "It is accessible everywhere on primary sidebars."
+msgstr ""
+
+#: auxin/auxin-include/include/hooks-general.php:832
+msgid "Global Secondary Widget Area"
+msgstr "ناحیه ابزارک دوم سراسری"
+
+#: auxin/auxin-include/include/hooks-general.php:834
+msgid "It is accessible everywhere on secondary sidebars."
+msgstr ""
+
+#: auxin/auxin-include/include/hooks-general.php:842
+#, fuzzy
+#| msgid "Blog Primary Widget Area"
+msgid "Pages Primary Widget Area"
+msgstr "ناحیه ابزارک اصلی بلاگ"
+
+#: auxin/auxin-include/include/hooks-general.php:844
+#, fuzzy
+#| msgid "The which is accessible only on search result page."
+msgid "It is accessible on primary sidebars except the blog pages."
+msgstr "که فقط در صفحه نتایج جستجو قابل دسترسی است."
+
+#: auxin/auxin-include/include/hooks-general.php:852
+#, fuzzy
+#| msgid "Blog Secondary Widget Area"
+msgid "Pages Secondary Widget Area"
+msgstr "ناحیه ابزارک دوم بلاگ"
+
+#: auxin/auxin-include/include/hooks-general.php:854
+#, fuzzy
+#| msgid "The which is accessible only on search result page."
+msgid "It is accessible on secondary sidebars except the blog pages."
+msgstr "که فقط در صفحه نتایج جستجو قابل دسترسی است."
+
+#: auxin/auxin-include/include/hooks-general.php:862
+msgid "Blog Primary Widget Area"
+msgstr "ناحیه ابزارک اصلی بلاگ"
+
+#: auxin/auxin-include/include/hooks-general.php:864
+#, fuzzy
+#| msgid "The which is accessible only on search result page."
+msgid "It is accessible only on primary sidebars in blog pages."
+msgstr "که فقط در صفحه نتایج جستجو قابل دسترسی است."
+
+#: auxin/auxin-include/include/hooks-general.php:872
+msgid "Blog Secondary Widget Area"
+msgstr "ناحیه ابزارک دوم بلاگ"
+
+#: auxin/auxin-include/include/hooks-general.php:874
+#, fuzzy
+#| msgid "The which is accessible only on search result page."
+msgid "It is accessible only on secondary sidebars in blog pages."
+msgstr "که فقط در صفحه نتایج جستجو قابل دسترسی است."
+
+#: auxin/auxin-include/include/hooks-general.php:882
+msgid "Search Result Widget Area"
+msgstr "ناحیه ابزارک صفحه نتایج جستجو"
+
+#: auxin/auxin-include/include/hooks-general.php:884
+#, fuzzy
+#| msgid "The which is accessible only on search result page."
+msgid "It is accessible only on primary sidebars in search result page."
+msgstr "که فقط در صفحه نتایج جستجو قابل دسترسی است."
+
+#: auxin/auxin-include/include/hooks-general.php:894
+msgid "Subfooter Bar Widget Area"
+msgstr "ناحیه ابزارک نوار ساب فوتر"
+
+#: auxin/auxin-include/include/hooks-general.php:896
+msgid ""
+"The widget area above the subfooter section. Perfect for placing the "
+"\"Newsletter\", \"Social icons\" or \"Instagram\" widget."
+msgstr ""
+
+#: auxin/auxin-include/include/hooks-general.php:916
+#, php-format
+msgid "Subfooter %s Widget Area"
+msgstr "ناحیه ابزارک ساب فوتر %s"
+
+#: auxin/auxin-include/include/hooks-general.php:918
+#, fuzzy, php-format
+#| msgid "The %s Column in Footer."
+msgid "The %s column in subfooter section."
+msgstr "%s ستون در فوتر."
+
+#: auxin/auxin-include/include/hooks-general.php:969
+msgid "Post Options"
+msgstr "تنظیمات نوشته"
+
+#: auxin/auxin-include/include/hooks-general.php:977
+msgid "Page Options"
+msgstr "تنظیمات برگه"
+
+#: auxin/auxin-include/include/hooks-general.php:1009
+msgid "Loading"
+msgstr ""
+
+#: auxin/auxin-include/include/templates/templates-header.php:209
+msgid "Results for: "
+msgstr "نتایج جستجو برای:"
+
+#: auxin/auxin-include/include/templates/templates-header.php:215
+msgid "Posts in category"
+msgstr "نوشته ها در دسته بندی"
+
+#: auxin/auxin-include/include/templates/templates-header.php:219
+msgid "Posts tagged"
+msgstr "نوشته های برچسب خورده"
+
+#: auxin/auxin-include/include/templates/templates-header.php:222
+msgid "Daily Archives"
+msgstr "بایگانی روزانه"
+
+#: auxin/auxin-include/include/templates/templates-header.php:225
+msgid "Monthly Archives"
+msgstr "بایگانی ماهانه"
+
+#: auxin/auxin-include/include/templates/templates-header.php:228
+msgid "Yearly Archives"
+msgstr "بایگانی سالانه"
+
+#: auxin/auxin-include/include/templates/templates-header.php:231
+msgctxt "Title of all posts by author"
+msgid "All posts by : "
+msgstr "همه ی نوشته های:"
+
+#: auxin/auxin-include/include/templates/templates-header.php:421
+msgid "Posted on"
+msgstr "در تاریخ"
+
+#: auxin/auxin-include/include/templates/templates-header.php:423
+#: templates/theme-parts/entry/post-column.php:50
+#: templates/theme-parts/entry/post-column.php:110
+#: templates/theme-parts/entry/post.php:56
+#: templates/theme-parts/entry/single-post.php:57
+msgid "by"
+msgstr "توسط"
+
+#: auxin/auxin-include/include/templates/templates-header.php:425
+#: templates/theme-parts/entry/post-column.php:52
+#: templates/theme-parts/entry/post-column.php:111
+#: templates/theme-parts/entry/post.php:58
+#: templates/theme-parts/entry/single-post.php:59
+#: templates/theme-parts/entry/single-post.php:150
+#, php-format
+msgid "View all posts by %s"
+msgstr "نمایش همه نوشته های %s"
+
+#: auxin/auxin-include/include/templates/templates-header.php:429
+#: templates/theme-parts/entry/post-column.php:77
+#: templates/theme-parts/entry/post-land.php:58
+#: templates/theme-parts/entry/post-tile.php:44
+#: templates/theme-parts/entry/post.php:76
+#: templates/theme-parts/entry/single-post.php:76
+msgid "Edit"
+msgstr "ویرایش"
+
+#: auxin/auxin-include/include/templates/templates-header.php:1084
+msgid "Search..."
+msgstr "جستجو..."
+
+#: auxin/auxin-include/include/templates/templates-header.php:1084
+msgid "Type here .."
+msgstr "تایپ کنید .."
+
+#: auxin/auxin-include/include/templates/templates-header.php:1090
+#: auxin/auxin-include/include/templates/templates-header.php:1093
+#: searchform.php:10
+msgid "Search"
+msgstr "جستجو"
+
+#: auxin/auxin-include/include/templates/templates-post.php:27
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s در %2$s"
+
+#: auxin/auxin-include/include/templates/templates-post.php:29
+msgid "Your comment is awaiting moderation."
+msgstr "دیدگاه شما در انتظار بازبینی است."
+
+#: auxin/auxin-include/include/templates/templates-post.php:32
+msgid "(Edit)"
+msgstr "(ویرایش)"
+
+#: auxin/auxin-include/include/templates/templates-post.php:55
+msgid "&larr; Previous Post"
+msgstr "&rarr; نوشته قبلی"
+
+#: auxin/auxin-include/include/templates/templates-post.php:56
+msgid "Next &rarr;"
+msgstr "بعدی &larr;"
+
+#: auxin/auxin-include/include/templates/templates-post.php:1160
+msgid "Menu for \"header-secondary\" location is not found."
+msgstr "منویی برای موقعیت \"سربرگ-فرعی\" یافت نشد."
+
+#: auxin/auxin-include/include/templates/templates-post.php:1589
+#, fuzzy
+#| msgid "Menu for \"footer\" location not found."
+msgid "Admin notice: Menu for \"footer\" location not found."
+msgstr "منویی برای موقعیت \"فوتر\" یافت نشد."
+
+#: auxin/auxin-include/include/templates/templates-post.php:1773
+#: auxin/auxin-include/include/templates/templates-post.php:1855
+msgid "Previous"
+msgstr "قبلی"
+
+#: auxin/auxin-include/include/templates/templates-post.php:1774
+#: auxin/auxin-include/include/templates/templates-post.php:1856
+msgid "Next"
+msgstr "بعدی"
+
+#: auxin/auxin-include/include/templates/templates-post.php:1775
+#: auxin/auxin-include/include/templates/templates-post.php:1857
+#: auxin/auxin-include/include/templates/templates-post.php:1953
+msgid "First"
+msgstr "اولین"
+
+#: auxin/auxin-include/include/templates/templates-post.php:1776
+#: auxin/auxin-include/include/templates/templates-post.php:1858
+#: auxin/auxin-include/include/templates/templates-post.php:1954
+msgid "Last"
+msgstr "آخرین"
+
+#: auxin/auxin-include/include/templates/templates-post.php:1951
+msgid "&laquo; Previous"
+msgstr "&raquo; قبلی"
+
+#: auxin/auxin-include/include/templates/templates-post.php:1952
+msgid "Next &raquo;"
+msgstr "بعدی &laquo;"
+
+#: auxin/auxin-include/include/templates/templates-post.php:2500
+#: templates/theme-parts/entry/single-post.php:93
+msgid "Continue reading"
+msgstr "ادامه خواندن"
+
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "نصب افزونه های لازم"
+
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:330
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr "نصب افزونه ها: %s"
+
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:332
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr "بروزرسانی افزونه ها: %s"
+
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "مشکلی با API افزونه ها وجود دارد."
+
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "برگشت به نصب کننده افزونه های ضروری"
+
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:386
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:827
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:2533
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "برگشت به پیشخوان"
+
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:387
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "افزونه با موفقیت نصب شد."
+
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:388
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:2952
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] "این افزونه ها با موفقیت فعال شدند:"
+
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:390
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "کاری انجام نشد. افزونه %1$s از قبل فعال است."
+
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:392
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+"افزونه فعال نشد. نسخه جدیدتری از %s برای این پوسته نیاز است. لطفا افزونه را "
+"بروز کنید."
+
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:394
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "همه افزونه ها با موفقیت نصب و فعال شدند. %1$s"
+
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "نادیده گرفتن این اعلان"
+
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:396
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+"یک یا چند افزونه ضروری یا پیشنهاد شده به نصب، بروزرسانی یا فعالسازی نیاز "
+"دارند."
+
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "لطفا برای کمک با مدیر سایت تماس بگیرید."
+
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "این افزونه برای کارکردن به همراه پوسته شما، باید بروز شود."
+
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "بروزرسانی نیاز است"
+
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:934
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+"بسته افزونه راه دور شامل پوشه ای با نام مورد نظر نیست و متاسفانه تغییر نام "
+"کار نمی کند."
+
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:934
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:937
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+"لطفا با نویسنده افزونه تماس بگیرید و از او بخواهید افزونه خود را مطابق با "
+"استانداردهای وردپرس منتشر کنند."
+
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:937
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+"بسته افزونه راه دور شامل بیش از یک فایل است که در یک پوشه جاگذاری نشده اند."
+
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:1121
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:2948
+#, fuzzy
+#| msgid "Land"
+msgid "and"
+msgstr "گسترده"
+
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:1982
+#, php-format
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "لازم"
+
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "توصیه شده"
+
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "مخزن وردپرس"
+
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "منبع بیرونی"
+
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "از قبل آماده"
+
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "نصب نشده"
+
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "نصب شده اما غیرفعال"
+
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "فعال"
+
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "بروزرسانی مورد نیاز در دسترس نیست"
+
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "نیاز به بروزرسانی"
+
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "بروزرسانی توصیه شده"
+
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:2342
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:2388
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "همه <span class=\"count\">(%s)</span>"
+
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:2392
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "آماده نصب <span class=\"count\">(%s)</span>"
+
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:2396
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "قابل بروزرسانی <span class=\"count\">(%s)</span>"
+
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:2400
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "آماده فعال سازی <span class=\"count\">(%s)</span>"
+
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "ناشناخته"
+
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr " (نسخه نصب شده)"
+
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "پایین ترین نسخه مورد نیاز:"
+
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "نسخه در دسترس:"
+
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "افزونه ای برای نصب، بروز رسانی یا فعال سازی وجود ندارد."
+
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "افزونه"
+
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "منبع"
+
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "نوع"
+
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "نسخه"
+
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "وضعیت"
+
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:2603
+#, php-format
+msgid "Install %2$s"
+msgstr "نصب %2$s"
+
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:2608
+#, php-format
+msgid "Update %2$s"
+msgstr "بروزرسانی %2$s"
+
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:2614
+#, php-format
+msgid "Activate %2$s"
+msgstr "فعال سازی %2$s"
+
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "پیام بروزرسانی از نویسنده افزونه:"
+
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "نصب"
+
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "بروزرسانی"
+
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "هیچ افزونه ی قابل نصبی انتخاب نشده بود. کاری انجام نشد."
+
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "هیچ افزونه ی قابل بروزرسانی انتخاب نشده بود. کاری انجام نشد."
+
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "در حال حاضر هیچ افزونه ی قابل نصبی در دسترس نیست."
+
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "در حال حاضر هیچ افزونه ی قابل بروزرسانی در دسترس نیست."
+
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "هیچ افزونه ی قابل فعال شدنی انتخاب نشده بود. کاری انجام نشد."
+
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "در حال حاضر افزونه ای برای بروزرسانی در دسترس نیست."
+
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "فعالسازی افزونه با خطا مواجه شد."
+
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:3498
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "بروزرسانی افزونه %1$s (%2$d/%3$d)"
+
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:3501
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "خطایی در هنگام نصب %1$s اتفاق افتاد: <strong>%2$s</strong>."
+
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:3503
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr "نصب %1$s با خطا مواجه شد."
+
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:3507
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+"فرایند نصب و فعالسازی آغاز شد. این فرایند ممکن است در بعضی میزبان ها زمانبر "
+"باشد، پس لطفا صبور باشید."
+
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s با موفقیت نصب و فعال شد."
+
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:3509
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "نمایش جزئیات"
+
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:3509
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "پنهان کردن جزئیات"
+
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "همه نصب ها و فعالسازی ها کامل شدند."
+
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:3512
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "نصب و فعالسازی افزونه %1$s (%2$d/%3$d)"
+
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:3515
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+"فرایند نصب آغاز شد. این فرایند ممکن است در بعضی میزبان ها زمانبر باشد، پس "
+"لطفا صبور باشید."
+
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "%1$s installed successfully."
+msgstr "%1$s با موفقیت نصب شد."
+
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "همه نصب ها کامل شدند."
+
+#: auxin/auxin-include/modules/lib/class-tgm-plugin-activation.php:3520
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "نصب افزونه %1$s (%2$d/%3$d)"
+
+#: comments.php:15
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "این نوشته رمزگذاری شده است. برای مشاهده نظرات، رمز را وارد کنید."
+
+#: comments.php:25
+msgid "No Responses"
+msgstr "بدون پاسخ"
+
+#: comments.php:25
+msgid "One Response"
+msgstr "یک پاسخ"
+
+#: comments.php:25
+msgid "% Responses"
+msgstr "% پاسخ"
+
+#: comments.php:58
+msgid "Comments are closed."
+msgstr "دیدگاه ها بسته شده اند."
+
+#: comments.php:84
+#, php-format
+msgid "You must be %s logged in %s to post a comment"
+msgstr "برای افزودن دیدگاه باید %s وارد شوید %s."
+
+#: comments.php:85
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+"وارد شده به عنوان <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"خروج "
+"از این حساب کاربری\">خروج؟</a>"
+
+#: comments.php:89
+msgid "Leave a Comment"
+msgstr "ثبت دیدگاه"
+
+#: comments.php:94
+msgid "Comment"
+msgstr "دیدگاه"
+
+#: comments.php:97
+msgid "Name (required)"
+msgstr "نام (ضروری)"
+
+#: comments.php:98
+msgid "E-Mail (required)"
+msgstr "ایمیل (ضروری)"
+
+#: comments.php:99
+msgid "Website"
+msgstr "وب سایت"
+
+#: searchform.php:9
+msgid "Search Here"
+msgstr "جستجو"
+
+#: sidebar-primary.php:27
+msgid "Search widget area is empty."
+msgstr "ناحیه ابزارک در صفحه جستجو خالی است."
+
+#: templates/blog-main.php:68 templates/blog-main.php:98
+#: templates/blog-main.php:130 templates/blog-main.php:161
+#: templates/blog-main.php:201
+#, fuzzy, php-format
+#| msgid "To enable this feature, please install \"Auxin Elements\" plugin."
+msgid "To enable this feature, please install %s plugin."
+msgstr "برای فعالسازی این ویژگی، لطفا افزونه \"Auxin Elements\" را نصب کنید."
+
+#: templates/blog-main.php:68 templates/blog-main.php:98
+#: templates/blog-main.php:130 templates/blog-main.php:161
+#: templates/blog-main.php:201
+msgid "Auxin Elements"
+msgstr "المان های آوکسین"
+
+#: templates/theme-parts/content-no-results.php:10
+#: templates/theme-parts/content-none.php:10
+msgid "Nothing Found"
+msgstr "چیزی یافت نشد"
+
+#: templates/theme-parts/content-no-results.php:11
+msgid "Sorry, no results were found. Try another search?"
+msgstr "متاسفیم، نتیجه ای یافت نشد. دوباره تلاش می کنید؟"
+
+#: templates/theme-parts/content-no-results.php:16
+msgid "Back to home page"
+msgstr "برگشت به خانه"
+
+#: templates/theme-parts/content-none.php:11
+msgid ""
+"sorry, no results were found. Perhaps searching will help to find what you "
+"are looking for."
+msgstr ""
+"متاسفیم، نتیجه ای یافت نشد. ممکن است جستجو شما را در پیدا کردن چیزی که دنبال "
+"آن هستید کمک کند."
+
+#: templates/theme-parts/content-none.php:16
+#: templates/theme-parts/entry/404.php:14
+msgid "Bring me back home"
+msgstr "برگشت به صفحه اصلی"
+
+#: templates/theme-parts/content.php:17
+#: templates/theme-parts/entry/post-land.php:86
+#: templates/theme-parts/entry/post.php:104
+#: templates/theme-parts/entry/single-post.php:97
+msgid "Pages:"
+msgstr "صفحات:"
+
+#: templates/theme-parts/content.php:25
+msgid "Tags"
+msgstr "برچسب ها"
+
+#: templates/theme-parts/content.php:39
+msgid "Not Found"
+msgstr "یافت نشد"
+
+#: templates/theme-parts/content.php:43
+msgid "Sorry, but the requested resource was not found on this site."
+msgstr "متاسفیم، اما منابع درخواست شده در این سایت یافت نشد."
+
+#: templates/theme-parts/entry/404.php:8
+msgid "Oops! Page Not Found"
+msgstr "اوه! صفحه پیدا نشد."
+
+#: templates/theme-parts/entry/404.php:9
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"بنظر می رسد نمی توانیم چیزی که دنبال آن هستید را بیابیم. ممکن است جستجو در "
+"سایت به شما کمک کند."
+
+#: templates/theme-parts/entry/post-column.php:71
+#: templates/theme-parts/entry/post-land.php:53
+#: templates/theme-parts/entry/post-tile.php:39
+#: templates/theme-parts/entry/post.php:71
+#: templates/theme-parts/entry/search.php:51
+#: templates/theme-parts/entry/single-post.php:70
+msgid "View all posts in "
+msgstr "نمایش همه نوشته ها در"
+
+#: templates/theme-parts/entry/post-column.php:104
+#: templates/theme-parts/entry/post-land.php:94
+#: templates/theme-parts/entry/post.php:112
+msgid "Read More"
+msgstr "بیشتر بخوانید"
+
+#: templates/theme-parts/entry/post-land.php:76
+#: templates/theme-parts/entry/post.php:94
+msgid "Continue Reading"
+msgstr "ادامه خواندن"
+
+#: templates/theme-parts/entry/post.php:63
+#: templates/theme-parts/entry/single-post.php:63
+msgid "with"
+msgstr "توسط"
+
+#: templates/theme-parts/entry/post.php:64
+#: templates/theme-parts/entry/single-post.php:64
+msgid "No Comment"
+msgstr "بدون دیدگاه"
+
+#: templates/theme-parts/entry/post.php:64
+#: templates/theme-parts/entry/single-post.php:64
+msgid "One Comment"
+msgstr "یک دیدگاه"
+
+#: templates/theme-parts/entry/post.php:64
+#: templates/theme-parts/entry/single-post.php:64
+msgid "% Comments"
+msgstr "% دیدگاه"
+
+#: templates/theme-parts/entry/search.php:47
+msgid "in"
+msgstr "در"
+
+#: templates/theme-parts/entry/single-post.php:103
+msgid "Tags: "
+msgstr "برچسب ها:"
+
+#: templates/theme-parts/entry/single-post.php:112
+#, fuzzy
+#| msgid "Share: "
+msgid "Share"
+msgstr "بازنشر:"
+
+#: templates/theme-parts/entry/single-post.php:120
+msgid "Tags: No tags"
+msgstr "برچسب ها: بدون برچسب"
+
+#, fuzzy
+#~| msgid "Comments"
+#~ msgid "Commands:"
+#~ msgstr "دیدگاه ها"
+
+#, fuzzy
+#~| msgid "Default"
+#~ msgid "default:"
+#~ msgstr "پیش فرض"
+
+#, fuzzy
+#~| msgid "Slides number"
+#~ msgid "number"
+#~ msgstr "تعداد اسلایدها"
+
+#, fuzzy
+#~| msgid "Required"
+#~ msgid "required"
+#~ msgstr "لازم"
+
+#, fuzzy
+#~| msgid "sample-post"
+#~ msgid "Examples:"
+#~ msgstr "پست-نمایشی"
+
+#, fuzzy
+#~| msgid "Plugin activation failed."
+#~ msgid "Implications failed:"
+#~ msgstr "فعالسازی افزونه با خطا مواجه شد."
+
+#~ msgid "Defaul, set theme option"
+#~ msgstr "پیش فرض، تنظیم از تنظیمات پوسته"
+
+#~ msgid "Tulip Tree"
+#~ msgstr "زرد پاییزی"
+
+#~ msgid "Manz"
+#~ msgstr "لیمویی کمرنگ"
+
+#~ msgid "Tickle Me Pink"
+#~ msgstr "صورتی"
+
+#~ msgid "Silver Chalice"
+#~ msgstr "نقره ای"
+
+#~ msgid "Bermuda"
+#~ msgstr "سبز آبی برمودا"
+
+#~ msgid "Flame Pea"
+#~ msgstr "نارنجی آتشی"
+
+#~ msgid "Mauve Taupe"
+#~ msgstr "بنفش قهوه ای"
+
+#~ msgid "Water Leaf"
+#~ msgstr "سبزابی مردابی"
+
+#~ msgid "Tomato"
+#~ msgstr "گوجه ای"
+
+#~ msgid "Eggplant"
+#~ msgstr "بادمجانی"
+
+#~ msgid "Pine Green"
+#~ msgstr "سبز کاجی"
+
+#~ msgid "Required Plugins"
+#~ msgstr "افزونه های لازم"
+
+#~ msgid ""
+#~ "In order to use this feature, you have to %sinstall and activate%s the "
+#~ "<strong>auxin elements</strong> plugin."
+#~ msgstr ""
+#~ "برای استفاده از این ویژگی، باید افزونه <strong>auxin elements</strong> را "
+#~ "%sنصب و فعال%s کنید."
+
+#~ msgid "Choose the demo you want."
+#~ msgstr "محتوای نمایشی دلخواه خود را انتخاب کنید."
+
+#~ msgid ""
+#~ "Please note that, it is recommended to import a demo on a clean WordPress "
+#~ "installation."
+#~ msgstr ""
+#~ "لطفا توجه کنید، توصیه می شود محتوای نمایشی را در یک سایت تازه ایجاد شده و "
+#~ "بدون محتوا درون ریزی کنید."
+
+#~ msgid "Preview"
+#~ msgstr "پیش نمایش"
+
+#~ msgid "Import Demo"
+#~ msgstr "درون ریزی محتوای نمایشی"
+
+#~ msgid "Demos"
+#~ msgstr "محتواهای نمایشی"
+
+#~ msgid "you can see and import the  %s demos in this section."
+#~ msgstr "شما می توانید %s محتوای نمایشی را در این بخش ببینید."
+
+#~ msgid "This image appears as site logo on header section."
+#~ msgstr "این تصویر به عنوان لوگوی سایت در بخش سربرگ نمایش داده می شود."
+
+#~ msgid "Logo Image Retina"
+#~ msgstr "تصویر لوگو رتینا"
+
+#~ msgid ""
+#~ "This is the logo image that appears on high resolution screens like iPad, "
+#~ "iPhone and etc. <br/> you need to attach an image with double size in "
+#~ "dimensions. <br /> Leave this field blank if you do not need this feature."
+#~ msgstr ""
+#~ "این تصویر لوگویی است که در نمایشگرهای با رزولوشن بالا مانند آیپد، آیفون و "
+#~ "غیره نمایش داده می شود.<br/> باید تصویری با رزولوشن دو برابر حالت عادی را "
+#~ "پیوست کنید.<br/> اگر به این ویژگی نیاز ندارید آن را خالی رها کنید."
+
+#~ msgid "Your Custom CSS"
+#~ msgstr "CSS دلخواه شما"
+
+#~ msgid "Custom CSS"
+#~ msgstr "CSS دلخواه"
+
+#~ msgid "You can add your custom css code here. %s DO NOT use %s tag."
+#~ msgstr ""
+#~ "کدهای CSS دلخواه خود را می توانید در این قسمت وارد کنید. از تگ  %s "
+#~ "استفاده نکنید %s."
+
+#~ msgid "Footer Logo"
+#~ msgstr "لوگوی فوتر"
+
+#~ msgid "This image appears as site logo on footer section."
+#~ msgstr "این تصویر به عنوان لوگو در بخش فوتر نمایش داده می شود."
+
+#~ msgid "Footer Logo Height"
+#~ msgstr "ارتفاع لوگوی فوتر"
+
+#~ msgid "Specifies maximum height of logo in footer."
+#~ msgstr "حداکثر ارتفاع لوگو در فوتر را مشخص می کند."
+
+#~ msgid "%s Status"
+#~ msgstr "وضعیت %s"
+
+#~ msgctxt "navigate to previous page"
+#~ msgid "previous"
+#~ msgstr "قبلی"
+
+#~ msgctxt "navigate to next page"
+#~ msgid "next"
+#~ msgstr "بعدی"
+
+#~ msgid "Auxin Importer"
+#~ msgstr "درون ریز آوکسین"
+
+#~ msgid "Import demo data for %s theme."
+#~ msgstr "درون ریزی داده های نمایشی برای پوسته %s."
+
+#~ msgid "Importing Demo Data"
+#~ msgstr "رون ریزی محتوای نمایشی"
+
+#~ msgid ""
+#~ "In order to import the demo data, you need to have \"WordPress Importer\" "
+#~ "plugin installed. Please %s install and activate %s it and then try "
+#~ "importing the demo data again."
+#~ msgstr ""
+#~ "برای درون ریزی محتوای نمایشی، لازم است افزونه \"درون ریز وردپرس\" نصب "
+#~ "باشد. لطفا آن را %s نصب و فعال کنید%s و دوباره برای درون ریزی محتوای "
+#~ "نمایشی تلاش کنید."
+
+#~ msgid ""
+#~ "The demo that you have requested is not valid. Please try to %s select a "
+#~ "demo %s to import."
+#~ msgstr ""
+#~ "محتوای نمایشی درخواست شده نامعتبر است. لطفا برای درون ریزی %s محتوای "
+#~ "نمایشی دلخواهی را انتخاب کنید %s."
+
+#~ msgid "Please %s select a demo %s to import."
+#~ msgstr "لطفا برای درون ریزی %s یک محتوای نمایشی را انتخاب کنید %s."
+
+#~ msgid "%s Permalink Setting"
+#~ msgstr "تنظیمات پیوند یکتا %s"
+
+#~ msgid "Setting for <strong>%s single</strong> page"
+#~ msgstr "تنظیمات برای صفحه <strong>%s تکی </strong>"
+
+#~ msgid "Setting for <strong>%s archive</strong> page "
+#~ msgstr "تنظیمات برای صفحه <strong>%s بایگانی</strong>"
+
+#~ msgid ""
+#~ "These settings control the permalinks used for theme's post types. These "
+#~ "settings only apply when <strong>not using \"default\" permalink "
+#~ "structure.</strong>."
+#~ msgstr ""
+#~ "این تنظیمات پیوند یکتای پست تایپ های پوسته را کنترل می کند. این تنظیمات "
+#~ "تنها زمانی که از <strong> ساختار \"پیش فرض\" پیوندهای یکتا استفاده نشود</"
+#~ "strong> کار می کند."
+
+#~ msgctxt "archive ,menu & breadcrumb label for FAQ"
+#~ msgid "FAQ"
+#~ msgstr "پرسش و پاسخ"
+
+#~ msgid "FAQ"
+#~ msgstr "پرسش و پاسخ"
+
+#~ msgctxt "FAQs labels"
+#~ msgid "Add New"
+#~ msgstr "افزودن جدید"
+
+#~ msgid "All FAQs"
+#~ msgstr "همه پرسش و پاسخ ها"
+
+#~ msgid "Add New FAQ"
+#~ msgstr "افزودن پرسش و پاسخ جدید"
+
+#~ msgid "Edit FAQ"
+#~ msgstr "ویرایش پرسش و پاسخ"
+
+#~ msgid "New FAQ"
+#~ msgstr "پرسش و پاسخ جدید"
+
+#~ msgid "View FAQs"
+#~ msgstr "نمایش پرسش و پاسخ"
+
+#~ msgid "Search FAQs"
+#~ msgstr "جستجوی پرسش و پاسخ ها"
+
+#~ msgid "No FAQs found"
+#~ msgstr "پرسش و پاسخی یافت نشد."
+
+#~ msgid "No FAQs found in Trash"
+#~ msgstr "پرسش و پاسخی در سطل زباله یافت نشد."
+
+#~ msgctxt "FAQ Categories general name"
+#~ msgid "FAQ Categories"
+#~ msgstr "دسته های پرسش و پاسخ"
+
+#~ msgctxt "FAQ Category singular name"
+#~ msgid "FAQ Category"
+#~ msgstr "دسته پرسش و پاسخ"
+
+#~ msgid "Search in FAQ Categories"
+#~ msgstr "جستجحو در دسته های پرسش و پاسخ"
+
+#~ msgid "All FAQ Categories"
+#~ msgstr "همه دسته های پرسش و پاسخ"
+
+#~ msgid "Edit FAQ Category"
+#~ msgstr "ویرایش دسته پرسش و پاسخ"
+
+#~ msgid "Update FAQ Category"
+#~ msgstr "بروزرسانی دسته پرسش و پاسخ"
+
+#~ msgid "Add new FAQ Category"
+#~ msgstr "افزودن دسته پرسش و پاسخ جدید"
+
+#~ msgid "New FAQ Category"
+#~ msgstr "دسته پرسش و پاسخ جدید"
+
+#~ msgid "Categories"
+#~ msgstr "دسته ها"
+
+#~ msgid "FAQ Category"
+#~ msgstr "دسته پرسش و پاسخ"
+
+#~ msgctxt "Question column at FAQ edit columns"
+#~ msgid "Question"
+#~ msgstr "پرسش ها"
+
+#~ msgctxt "Category column at FAQ edit columns"
+#~ msgid "Category"
+#~ msgstr "دسته"
+
+#~ msgid "Enter Question Here"
+#~ msgstr "پرسش را در اینجا وارد کنید"
+
+#~ msgid "News"
+#~ msgstr "اخبار"
+
+#~ msgctxt "Admin menu name"
+#~ msgid "News"
+#~ msgstr "اخبار"
+
+#~ msgid "Add News"
+#~ msgstr "افزودن خبر"
+
+#~ msgid "All News"
+#~ msgstr "همه اخبار"
+
+#~ msgid "Add New News"
+#~ msgstr "افزودن خبر جدید"
+
+#~ msgid "Edit News"
+#~ msgstr "ویرایش خبر"
+
+#~ msgid "New News"
+#~ msgstr "خبر جدید"
+
+#~ msgid "View News"
+#~ msgstr "نمایش خبر"
+
+#~ msgid "Search News"
+#~ msgstr "جستجو در اخبار"
+
+#~ msgid "Parent News"
+#~ msgstr "خبر مادر"
+
+#~ msgid "No News found"
+#~ msgstr "خبری یافت نشد"
+
+#~ msgid "No News found in Trash"
+#~ msgstr "خبری در سطل زباله یافت نشد"
+
+#~ msgid "Here you can add news to your website."
+#~ msgstr "در اینجا می توانید خبر جدیدی به سایت خود اضافه کنید."
+
+#~ msgid "News Category"
+#~ msgstr "دسته اخبار"
+
+#~ msgid "All News Categories"
+#~ msgstr "همه دسته های اخبار"
+
+#~ msgid "Parent News Category"
+#~ msgstr "دسته خبر مادر"
+
+#~ msgid "Parent News Category:"
+#~ msgstr "دسته خبر مادر:"
+
+#~ msgid "Edit News Category"
+#~ msgstr "ویرایش دسته خبر"
+
+#~ msgid "Update News Category"
+#~ msgstr "بروزرسانی دسته خبر"
+
+#~ msgid "Add New News Category"
+#~ msgstr "افزودن دسته خبر جدید"
+
+#~ msgid "New News Category"
+#~ msgstr "دسته خبر جدید"
+
+#~ msgid "Search in News Categories"
+#~ msgstr "جستجو در دسته های اخبار"
+
+#~ msgctxt "news-category admin menu name"
+#~ msgid "Categories"
+#~ msgstr "دسته ها"
+
+#~ msgctxt "taxonomy slug"
+#~ msgid "news-cats"
+#~ msgstr "news-cats"
+
+#~ msgid "News Tags"
+#~ msgstr "برچسب های اخبار"
+
+#~ msgid "News Tag"
+#~ msgstr "برچسب خبر"
+
+#~ msgid "Search in News Tags"
+#~ msgstr "جستجو در برچسب های اخبار"
+
+#~ msgid "Popular Tags"
+#~ msgstr "برچسب های محبوب"
+
+#~ msgid "All News Tags"
+#~ msgstr "همه برچسب های اخبار"
+
+#~ msgid "Parent News Tag"
+#~ msgstr "برچسب خبر مادر"
+
+#~ msgid "Parent News Tag:"
+#~ msgstr "برچسب خبر مادر:"
+
+#~ msgid "Edit News Tag"
+#~ msgstr "ویرایش برچسب خبر"
+
+#~ msgid "Update News Tag"
+#~ msgstr "بروزرسانی برچسب خبر"
+
+#~ msgid "Add new News Tag"
+#~ msgstr "افزودن برچسب اخبار جدید"
+
+#~ msgid "New News Tag"
+#~ msgstr "برچسب اخبار جدید"
+
+#~ msgid "Separate \"Tag\" with commas"
+#~ msgstr "\"برچسب\" را با کاما جدا کنید."
+
+#~ msgid "Add or remove Tag"
+#~ msgstr "افزودن یا حذف برچسب"
+
+#~ msgctxt "News-tag admin menu name"
+#~ msgid "Tags"
+#~ msgstr "برچسب ها"
+
+#~ msgctxt "taxonomy slug"
+#~ msgid "news-tags"
+#~ msgstr "news-tags"
+
+#~ msgctxt "Title column at News  edit columns"
+#~ msgid "News Title"
+#~ msgstr "عنوان خبر"
+
+#~ msgctxt "Category column at News edit columns"
+#~ msgid "Categories"
+#~ msgstr "دسته ها"
+
+#~ msgid "Portfolio"
+#~ msgstr "نمونه کار"
+
+#~ msgctxt "Admin menu name"
+#~ msgid "Portfolios"
+#~ msgstr "نمونه کارها"
+
+#~ msgid "Add Portfolio"
+#~ msgstr "افزودن نمونه کار"
+
+#~ msgid "Add New Portfolio"
+#~ msgstr "افزودن نمونه کار جدید"
+
+#~ msgid "Edit Portfolio"
+#~ msgstr "ویرایش نمونه کار"
+
+#~ msgid "New Portfolio"
+#~ msgstr "نمونه کار جدید"
+
+#~ msgid "View Portfolio"
+#~ msgstr "نمایش نمونه کار"
+
+#~ msgid "Search Portfolios"
+#~ msgstr "جستجو در نمونه کارها"
+
+#~ msgid "Parent Portfolio"
+#~ msgstr "نمونه کار مادر"
+
+#~ msgid "No Portfolios found"
+#~ msgstr "نمونه کاری یافت نشد"
+
+#~ msgid "No Portfolios found in Trash"
+#~ msgstr "نمونه کاری در سطل زباله یافت نشد"
+
+#~ msgid "Here you can add new portfolio to your website."
+#~ msgstr "در اینجا می توانید نمونه کار جدید به سایت خود اضافه کنید."
+
+#~ msgid "Portfolio Categories"
+#~ msgstr "دسته های نمونه کار"
+
+#~ msgid "Portfolio Category"
+#~ msgstr "دسته نمونه کار"
+
+#~ msgid "All Portfolio Categories"
+#~ msgstr "همه دسته های نمونه کار"
+
+#~ msgid "Parent Portfolio Category"
+#~ msgstr "دسته نمونه کار مادر"
+
+#~ msgid "Parent Portfolio Category:"
+#~ msgstr "دسته نمونه کار مادر"
+
+#~ msgid "Edit Portfolio Category"
+#~ msgstr "ویرایش دسته نمونه کار مادر"
+
+#~ msgid "Update Portfolio Category"
+#~ msgstr "بروزرسانی دسته نمونه کار"
+
+#~ msgid "Add New Portfolio Category"
+#~ msgstr "افزودن دسته نمونه کار جدید"
+
+#~ msgid "New Portfolio Category"
+#~ msgstr "دسته نمونه کار جدید"
+
+#~ msgid "Search in Portfolio Categories"
+#~ msgstr "جستجو در دسته های نمونه کار"
+
+#~ msgctxt "portfolio-cat admin menu name"
+#~ msgid "Categories"
+#~ msgstr "دسته بندی ها"
+
+#~ msgctxt "taxonomy slug"
+#~ msgid "portfolio-cat"
+#~ msgstr "portfolio-cat"
+
+#~ msgid "Portfolio Tags/Filters"
+#~ msgstr "برچسب/فیلتر های نمونه کار"
+
+#~ msgid "Portfolio Tag/Filter"
+#~ msgstr "برچسب/فلیتر نمونه کار"
+
+#~ msgid "Search in Portfolio Tags/filters"
+#~ msgstr "جستجو در برچسب/فیلتر های نمونه کار"
+
+#~ msgid "All Portfolio Tags/filters"
+#~ msgstr "افزودن برچسب/فیلتر نمونه کار"
+
+#~ msgid "Parent Portfolio Tag"
+#~ msgstr "برچسب نمونه کار مادر"
+
+#~ msgid "Parent Portfolio Tag:"
+#~ msgstr "برچسب نمونه کار مادر:"
+
+#~ msgid "Edit Portfolio Tag/Filter"
+#~ msgstr "ویرایش برچسب/فیلتر نمونه کار"
+
+#~ msgid "Update Portfolio Tag/Filter"
+#~ msgstr "بروزرسانی برچسب/فلیتر نمونه کار"
+
+#~ msgid "Add new Portfolio Tag/Filter"
+#~ msgstr "افزودن برچسب/فیلتر نمونه کار جدید"
+
+#~ msgid "New Portfolio Tag/Filter"
+#~ msgstr "برچسب/فیلتر نمونه کار جدید"
+
+#~ msgctxt "portfolio-tag admin menu name"
+#~ msgid "Tags (Filters)"
+#~ msgstr "برچسب (فیلتر) ها"
+
+#~ msgctxt "taxonomy slug"
+#~ msgid "portfolio-tag"
+#~ msgstr "portfolio-tag"
+
+#~ msgctxt "Image column at portfolio edit columns"
+#~ msgid "Image"
+#~ msgstr "تصویر"
+
+#~ msgctxt "Title column at portfolio edit columns"
+#~ msgid "Portfolio Title"
+#~ msgstr "عنوان نمونه کار"
+
+#~ msgctxt "Type  column at portfolio edit columns"
+#~ msgid "Project Type"
+#~ msgstr "نوع پروژه"
+
+#~ msgctxt "Link  column at portfolio edit columns"
+#~ msgid "Project's Link"
+#~ msgstr "لینک پروژه"
+
+#~ msgctxt "Tag/Filter column at portfolio edit columns"
+#~ msgid "Tag / Filter"
+#~ msgstr "برچسب / فیلتر"
+
+#~ msgctxt "Date  column at portfolio edit columns"
+#~ msgid "Release Date"
+#~ msgstr "تاریخ انتشار"
+
+#~ msgid ""
+#~ "This is an image that is chosen as the representative/cover image for "
+#~ "your project."
+#~ msgstr "این تصویری است که به عنوان تصویر جلد پروژه شما انتخاب شده است."
+
+#~ msgid "Service"
+#~ msgstr "سرویس"
+
+#~ msgctxt "Admin menu name"
+#~ msgid "Services"
+#~ msgstr "سرویس ها"
+
+#~ msgid "Add Service"
+#~ msgstr "افزودن سرویس"
+
+#~ msgid "All Services"
+#~ msgstr "همه سرویس ها"
+
+#~ msgid "Add New Service"
+#~ msgstr "افزودن سرویس جدید"
+
+#~ msgid "Edit Service"
+#~ msgstr "ویرایش سرویس"
+
+#~ msgid "New Service"
+#~ msgstr "سرویس جدید"
+
+#~ msgid "View Service"
+#~ msgstr "نمایش سرویس"
+
+#~ msgid "Search Service"
+#~ msgstr "جستجوی سرویس"
+
+#~ msgid "Parent Service"
+#~ msgstr "سرویس مادر"
+
+#~ msgid "No Service found"
+#~ msgstr "سرویسی یافت نشد"
+
+#~ msgid "No Service found in Trash"
+#~ msgstr "سرویسی در سطل زباله یافت نشد"
+
+#~ msgid "Here you can add new service to your website."
+#~ msgstr "در اینجا می توانید سرویس جدید به سایت خود اضافه کنید."
+
+#~ msgid "Service Categories"
+#~ msgstr "دسته بندی سرویس ها"
+
+#~ msgid "Service Category"
+#~ msgstr "دسته سرویس"
+
+#~ msgid "All Service Categories"
+#~ msgstr "همه دسته های سرویس"
+
+#~ msgid "Parent Service Category"
+#~ msgstr "دسته سرویس مادر"
+
+#~ msgid "Parent Service Category:"
+#~ msgstr "دسته سرویس مادر:"
+
+#~ msgid "Edit Service Category"
+#~ msgstr "ویرایش دسته سرویس"
+
+#~ msgid "Update Service Category"
+#~ msgstr "بروزرسانی دسته سرویس"
+
+#~ msgid "Add New Service Category"
+#~ msgstr "افزودن دسته سرویس جدید"
+
+#~ msgid "New Service Category"
+#~ msgstr "دسته سرویس جدید"
+
+#~ msgid "Search in Service Categories"
+#~ msgstr "جستجو در دسته های سرویس"
+
+#~ msgctxt "service-category admin menu name"
+#~ msgid "Categories"
+#~ msgstr "دسته ها"
+
+#~ msgctxt "taxonomy slug"
+#~ msgid "service-categories"
+#~ msgstr "service-categories"
+
+#~ msgid "Enter Service Name Here"
+#~ msgstr "نام سرویس را اینجا وارد کنید"
+
+#~ msgid "Staff"
+#~ msgstr "پرسنل"
+
+#~ msgctxt "Admin menu name"
+#~ msgid "Staffs"
+#~ msgstr "پرسنل"
+
+#~ msgid "Add Staff"
+#~ msgstr "افزودن پرسنل"
+
+#~ msgid "All Staffs"
+#~ msgstr "همه پرسنل"
+
+#~ msgid "Add New Staff"
+#~ msgstr "افزودن پرسنل جدید"
+
+#~ msgid "Edit Staff"
+#~ msgstr "ویرایش پرسنل"
+
+#~ msgid "New Staff"
+#~ msgstr "پرسنل جدید"
+
+#~ msgid "View Staff"
+#~ msgstr "نمایش پرسنل"
+
+#~ msgid "Search Staffs"
+#~ msgstr "جستجوی پرسنل"
+
+#~ msgid "Parent Staff"
+#~ msgstr "پرسنل مادر"
+
+#~ msgid "No Staffs found"
+#~ msgstr "پرسنلی یافت نشد"
+
+#~ msgid "No Staffs found in Trash"
+#~ msgstr "پرسنلی در سطل زباله یافت نشد"
+
+#~ msgid "Here you can add new staff to your website."
+#~ msgstr "در اینجا می توانید پرسنل جدیدی به سایت خود اضافه کنید."
+
+#~ msgid "Departments"
+#~ msgstr "دپارتمان ها"
+
+#~ msgid "Department"
+#~ msgstr "دپارتمان"
+
+#~ msgid "All Departments"
+#~ msgstr "همه دپارتمان ها"
+
+#~ msgid "Parent Department"
+#~ msgstr "دپارتمان مادر"
+
+#~ msgid "Parent Department:"
+#~ msgstr "دپارتمان مادر:"
+
+#~ msgid "Edit Department"
+#~ msgstr "ویرایش دپارتمان"
+
+#~ msgid "Update Department"
+#~ msgstr "بروزرسانی دپارتمان"
+
+#~ msgid "Add New Department"
+#~ msgstr "افزودن دپارتمان جدید"
+
+#~ msgid "New Department"
+#~ msgstr "دپارتمان جدید"
+
+#~ msgid "Search in Departments"
+#~ msgstr "جستجو در دپارتمان ها"
+
+#~ msgctxt "staff-department admin menu name"
+#~ msgid "Departments"
+#~ msgstr "دپارتمان ها"
+
+#~ msgctxt "taxonomy slug"
+#~ msgid "department"
+#~ msgstr "دپارتمان"
+
+#~ msgctxt "Image column at staff edit columns"
+#~ msgid "Image"
+#~ msgstr "تصویر"
+
+#~ msgctxt "Name column at staff edit columns"
+#~ msgid "Staff Name"
+#~ msgstr "نام فرد"
+
+#~ msgctxt "department column at staff edit columns"
+#~ msgid "department"
+#~ msgstr "دپارتمان"
+
+#~ msgid "Enter Staff Name Here"
+#~ msgstr "نام فرد را اینجا وارد کنید."
+
+#~ msgid "Testimonial"
+#~ msgstr "اظهار نظر"
+
+#~ msgctxt "Admin menu name"
+#~ msgid "Testimonials"
+#~ msgstr "اظهارات"
+
+#~ msgid "Add Testimonial"
+#~ msgstr "افزودن اظهار نظر"
+
+#~ msgid "All Testimonials"
+#~ msgstr "همه اظهارات"
+
+#~ msgid "Add New Testimonial"
+#~ msgstr "افزودن اظهار نظر جدید"
+
+#~ msgid "Edit Testimonial"
+#~ msgstr "ویرایش اظهار نظر"
+
+#~ msgid "New Testimonial"
+#~ msgstr "اظهار نظر جدید"
+
+#~ msgid "View Testimonial"
+#~ msgstr "نمایش اظهار نظر"
+
+#~ msgid "Search Testimonial"
+#~ msgstr "جستجوی اظهارات"
+
+#~ msgid "Parent Testimonial"
+#~ msgstr "اظهار نظر مادر"
+
+#~ msgid "No Testimonial found"
+#~ msgstr "هیچ اظهار نظری یافت نشد"
+
+#~ msgid "No Testimonial found in Trash"
+#~ msgstr "هیچ اظهار نظری در سطل زباله یافت نشد"
+
+#~ msgid "Here you can add new testimonial to your website."
+#~ msgstr "در اینجا می توانید اظهار نظر جدیدی به سایت خود اضافه کنید."
+
+#~ msgid "Testimonial Categories"
+#~ msgstr "دسته های اظهارات"
+
+#~ msgid "Testimonial Category"
+#~ msgstr "دسته اظهارات"
+
+#~ msgid "All Testimonial Categories"
+#~ msgstr "همه دسته های اظهارات"
+
+#~ msgid "Parent Testimonial Category"
+#~ msgstr "دسته اظهارات مادر"
+
+#~ msgid "Parent Testimonial Category:"
+#~ msgstr "دسته اظهارات مادر:"
+
+#~ msgid "Edit Testimonial Category"
+#~ msgstr "ویرایش دسته اظهارات"
+
+#~ msgid "Update Testimonial Category"
+#~ msgstr "بروزرسانی دسته اظهارات"
+
+#~ msgid "Add New Testimonial Category"
+#~ msgstr "افزودن دسته جدید اظهارات"
+
+#~ msgid "New Testimonial Category"
+#~ msgstr "دسته جدید اظهارات"
+
+#~ msgid "Search in Testimonial Categories"
+#~ msgstr "جستجو در دسته های اظهارات"
+
+#~ msgctxt "testimonial-category admin menu name"
+#~ msgid "Categories"
+#~ msgstr "دسته بندی ها"
+
+#~ msgctxt "taxonomy slug"
+#~ msgid "testimonial-cats"
+#~ msgstr "testimonial-cats"
+
+#~ msgctxt "Image column at testimonial edit columns"
+#~ msgid "Image"
+#~ msgstr "تصویر"
+
+#~ msgctxt "Customer Name column at testimonial edit columns"
+#~ msgid "Customer Name"
+#~ msgstr "نام مشتری"
+
+#~ msgctxt "Category at testimonial edit columns"
+#~ msgid "Category"
+#~ msgstr "دسته بندی"
+
+#~ msgid "Enter Customer Name Here"
+#~ msgstr "نام مشتری را اینجا وارد کنید"
+
+#~ msgid "%s (Invalid)"
+#~ msgstr "%s (نادرست)"
+
+#~ msgid "%s (Pending)"
+#~ msgstr "%s (انتظار)"
+
+#~ msgid "sub item"
+#~ msgstr "زیر آیتم"
+
+#~ msgid "Mega"
+#~ msgstr "مگا"
+
+#~ msgid "Column"
+#~ msgstr "ستون"
+
+#~ msgid "Move up"
+#~ msgstr "انتقال به بالا"
+
+#~ msgid "Move down"
+#~ msgstr "انتقال به پایین"
+
+#~ msgid "Edit Menu Item"
+#~ msgstr "ویرایش آیتم منو"
+
+#~ msgid "URL"
+#~ msgstr "URL"
+
+#~ msgid "Navigation Label"
+#~ msgstr "برچسب ناوبری"
+
+#~ msgid "Title Attribute"
+#~ msgstr "صفت عنوان"
+
+#~ msgid "Open link in a new window/tab"
+#~ msgstr "بازکردن پیوند در زبانه/پنجره جدید"
+
+#~ msgid "CSS Classes (optional)"
+#~ msgstr "نام کلاس CSS (دلخواه)"
+
+#~ msgid "Link Relationship (XFN)"
+#~ msgstr "رابطه پیوند (XFN)"
+
+#~ msgid "Description"
+#~ msgstr "توضیحات"
+
+#~ msgid ""
+#~ "The description will be displayed in the menu if the current theme "
+#~ "supports it."
+#~ msgstr ""
+#~ "اگر پوسته فعلی از توضیحات منو پشتیبانی کند، توضیحات در منو نمایش داده "
+#~ "خواهد شد."
+
+#~ msgid "Choose"
+#~ msgstr "انتخاب"
+
+#~ msgid "Move"
+#~ msgstr "حرکت"
+
+#~ msgid "Up one"
+#~ msgstr "یکی به بالا"
+
+#~ msgid "Down one"
+#~ msgstr "یکی به پایین"
+
+#~ msgid "To the top"
+#~ msgstr "به بالاترین"
+
+#~ msgid "Original: %s"
+#~ msgstr "اصلی: %s"
+
+#~ msgid "The callback for widget does not exists."
+#~ msgstr "تابع فراخوانی برای ابزارک وجود ندارد."
+
+#~ msgid "All"
+#~ msgstr "همه"
+
+#~ msgid "Google Plus"
+#~ msgstr "گوگل پلاس"
+
+#~ msgid "GitHub"
+#~ msgstr "گیت هاب"
+
+#~ msgid "Skills"
+#~ msgstr "مهارت ها"
+
+#~ msgid "Page %s"
+#~ msgstr "برگه %s"
+
+#~ msgid "News Options"
+#~ msgstr "تنظیمات اخبار"
+
+#~ msgid "Staff Options"
+#~ msgstr "تنظیمات افراد"
+
+#~ msgid "Client Options"
+#~ msgstr "تنظیمات مشتری"
+
+#~ msgid "FAQ Options"
+#~ msgstr "تنظیمات پرسش و پاسخ"
+
+#~ msgid "Testimonial Options"
+#~ msgstr "تنظیمات اظهارات"
+
+#~ msgid "Service Options"
+#~ msgstr "تنظیمات خدمات"
+
+#~ msgid "Authorization failed"
+#~ msgstr "خطا در احراز هویت"
+
+#~ msgid "Insufficient permissions"
+#~ msgstr "دسترسی ناکافی"
+
+#~ msgid "All options are reseted"
+#~ msgstr "همه تنظیمات بازنشانی شدند."
+
+#~ msgid "All options updated"
+#~ msgstr "همه تنظیمات بروز شدند."
+
+#~ msgid "All options Imported"
+#~ msgstr "همه تنظیمات درون ریزی شدند."
+
+#~ msgid "Browse"
+#~ msgstr "مرور"
+
+#~ msgid "Add Media"
+#~ msgstr "افزودن رسانه"
+
+#~ msgid "Select Media"
+#~ msgstr "انتخاب رسانه"
+
+#~ msgid "Specifies background image alignment."
+#~ msgstr "تراز تصویر پس زمینه را مشخص می کند."
+
+#~ msgid ""
+#~ "Specifies the background is fixed or scrollable as user scrolls the "
+#~ "document."
+#~ msgstr ""
+#~ "مشخص می کند در زمانی که کاربر صفحه را اسکرول می کند تصویر زمینه ثابت یا "
+#~ "قابل اسکرول باشد."
+
+#~ msgid "Select Page .."
+#~ msgstr "انتخاب صفحه .."
+
+#~ msgid "Import"
+#~ msgstr "درون ریزی"
+
+#~ msgid "Create sidebar"
+#~ msgstr "ساخت ستون کناری"
+
+#~ msgid "Created Sidebars"
+#~ msgstr "ستون های کناری موجود"
+
+#~ msgid "Remove sidebar"
+#~ msgstr "حذف ستون کناری"
+
+#~ msgid "Color"
+#~ msgstr "رنگ"
+
+#~ msgid ""
+#~ "<strong>%s</strong> control type is deprecated. Use <strong>%s</strong> "
+#~ "instead!"
+#~ msgstr ""
+#~ "کنترل <strong>%s</strong> منقضی شده است. به جای آن از <strong>%s</strong> "
+#~ "استفاده کنید."
+
+#~ msgid "The parent menu <code>%s</code> not found."
+#~ msgstr "منوی مادر <code>%s</code> یافت نشد."
+
+#~ msgid "Theme Options"
+#~ msgstr "تنظیمات پوسته"
+
+#~ msgid "Options Panel"
+#~ msgstr "پنل تنظیمات"
+
+#~ msgid "%s Options"
+#~ msgstr "%s تنظیمات"
+
+#~ msgid "Save All Options"
+#~ msgstr "ذخیره همه تنظیمات"
+
+#~ msgid "Reset all options"
+#~ msgstr "بازنشانی همه تنظیمات"
+
+#~ msgid "An exclusive framework for averta themes."
+#~ msgstr "فریم ورکی منحصر به فرد برای پوسته های اورتا."
+
+#~ msgid "[auxin] Contact Form"
+#~ msgstr "[auxin] فرم تماس"
+
+#~ msgid "Add contact Form too sidebar"
+#~ msgstr "افزودن فرم تماس به "
+
+#~ msgid "Please enter your name."
+#~ msgstr "لطفا نام خود را وارد کنید."
+
+#~ msgid "Please enter your email address."
+#~ msgstr "لطفا آدرس ایمیل خود را وارد کنید."
+
+#~ msgid "You entered an invalid email address."
+#~ msgstr "آدرس ایمیل را اشتباه وارد کرده اید."
+
+#~ msgid "Please enter a message."
+#~ msgstr "لطفا پیامی وارد کنید."
+
+#~ msgid "name*"
+#~ msgstr "*نام"
+
+#~ msgid "email*"
+#~ msgstr "ایمیل*"
+
+#~ msgid "website"
+#~ msgstr "وب سایت"
+
+#~ msgid "message*"
+#~ msgstr "پیام*"
+
+#~ msgid "Send"
+#~ msgstr "ارسال"
+
+#~ msgid "Thanks for your Message. Your message sent successfully."
+#~ msgstr "متشکریم. پیام شما با موفقیت ارسال شد."
+
+#~ msgid "The primary sidebar which is accessible on all pages."
+#~ msgstr "ستون کناری اصلی که در همه صفحات در دسترس است."
+
+#~ msgid "The secondary sidebar which is accessible on all pages."
+#~ msgstr "ستون کناری دوم که در همه صفحات قابل دسترسی است."
+
+#~ msgid "The primary sidebar which is accessible only on blog pages."
+#~ msgstr "ستون کناری اصلی که فقط در صفحات بلاگ قابل دسترسی است."
+
+#~ msgid "The secondary sidebar which is accessible only on blog pages."
+#~ msgstr "ستون کناری دوم که فقط در صفحات بلاگ قابل دسترسی است."
+
+#~ msgid "The subfooter bar widget area."
+#~ msgstr "ناحیه ابزارک نوار ساب فوتر."
+
+#~ msgid "Empty widget area."
+#~ msgstr "ناحیه ابزارک خالی."
+
+#~ msgid "Blog widget area is empty."
+#~ msgstr "ناحیه ابزارک بلاگ خالی است."
+
+#~ msgid "Changelog"
+#~ msgstr "تغییرات"
+
+#~ msgid "1000 Pixel"
+#~ msgstr "1000 پیکسل"
+
+#~ msgid "1200 Pixel"
+#~ msgstr "1200 پیکسل"
+
+#~ msgid "1400 Pixel"
+#~ msgstr "1400 پیکسل"
+
+#~ msgid "1600 Pixel"
+#~ msgstr "1600 پیکسل"
+
+#~ msgid "1900 Pixel"
+#~ msgstr "1900 پیکسل"
+
+#~ msgid " Continue reading .."
+#~ msgstr "ادامه خواندن .."
+
+#~ msgid "Posts in category : "
+#~ msgstr "نوشته های دسته:"
+
+#~ msgid "Portfolio Options"
+#~ msgstr "تنظیمات نمونه کار"
+
+#~ msgid "Read more .."
+#~ msgstr "بیشتر بخوانید .."
+
+#~ msgid "Continue reading .."
+#~ msgstr "ادامه خواندن .."
+
+#~ msgid "Add Feed"
+#~ msgstr "افزودن خوراک"

@@ -1,0 +1,42 @@
+<!doctype HTML>
+<html>
+<head>
+  <title>Assemi Group</title>
+  <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+  <style type="text/css">
+    * { margin: 0; padding: 0; }
+    body { background: #000; }
+    #title { float: left; margin-top: 200px; width: 100%; text-align: center; font-family: 'Lato', sans-serif; font-size: 44px; color: #fff; opacity: 0; }
+	#info { float: left; width: 100%; text-align: center; color: #eee; font-family: 'Lato', sans-serif; font-size: 12px; opacity: 0; }
+  </style>
+</head>
+<body>
+  <div id="title">
+    Assemi Group
+  </div>
+  <div id="info">
+	  1396 W. Herndon Ave., Suite 110<br />
+	  Fresno, CA 93711<br />
+	  (559) 440-8300
+  </div>
+  <script>
+	function fadeIn(el) {
+		el.style.opacity = 0;
+		
+		var last = new Date();
+		var tick = function() {
+			el.style.opacity = +el.style.opacity + (new Date() - last) / 2000;
+			last = new Date();
+			
+			if (el.style.opacity < 1) {
+			  (window.requestAnimationFrame && requestAnimationFrame(tick)) || setTimeout(tick, 16);
+			}
+		};
+		
+		tick();
+	}
+	fadeIn(document.getElementById('title'));
+	fadeIn(document.getElementById('info'));
+  </script>
+</body>
+</html>
